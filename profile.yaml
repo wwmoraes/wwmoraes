@@ -1,0 +1,103 @@
+username: wwmoraes
+name: William Artero
+age: 29
+reachMe: william@artero.dev
+funFact: |-
+  good beer is like coffee: boosts some brilliant ideas
+description: |-
+  a senior full-stack developer and infrastructure engineer automating my way out of things
+askme:
+- Kubernetes
+- TypeScript
+- Golang
+- Docker
+- GNU/Linux
+- networking
+website:
+  name: artero.dev
+  URL: https://artero.dev
+projects:
+- name: Alertmanager Telegram Bot
+  URL: https://github.com/wwmoraes/alertmanager-telegram-bot
+  status: working
+- name: Node Addon API
+  URL: https://github.com/nodejs/node-addon-api
+  status: learning
+stack:
+- name: rust
+  imageURL: https://api.iconify.design/logos:rust.svg
+- name: go
+  imageURL: https://api.iconify.design/logos:gopher.svg
+- name: docker
+  imageURL: https://api.iconify.design/logos:kubernetes.svg
+- name: docker
+  imageURL: https://api.iconify.design/logos:docker-icon.svg
+- name: react
+  imageURL: https://api.iconify.design/logos:react.svg
+- name: typescript
+  imageURL: https://api.iconify.design/logos:typescript-icon.svg
+- name: nodejs
+  imageURL: https://api.iconify.design/logos:nodejs-icon.svg
+- name: terraform
+  imageURL: https://symbols.getvecta.com/stencil_97/64_terraform-icon.d8dd637866.svg
+- name: ansible
+  imageURL: https://api.iconify.design/cib:ansible.svg
+- name: redis
+  imageURL: https://api.iconify.design/logos:redis.svg
+- name: mongodb
+  imageURL: https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg
+- name: mysql
+  imageURL: https://api.iconify.design/logos:mysql.svg
+- name: nginx
+  imageURL: https://api.iconify.design/logos:nginx.svg
+- name: python
+  imageURL: https://api.iconify.design/logos:python.svg
+- name: C++
+  imageURL: https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg
+- name: C
+  imageURL: https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg
+- name: linux
+  imageURL: https://api.iconify.design/logos:linux-tux.svg
+social:
+- name: Codepen
+  URL: https://codepen.io/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg
+- name: dev
+  URL: https://dev.to/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg
+- name: twitter
+  URL: https://twitter.com/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg
+- name: linkedin
+  URL: https://linkedin.com/in/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg
+- name: stackoverflow
+  URL: https://stackoverflow.com/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg
+- name: codesandbox
+  URL: https://codesandbox.com/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg
+- name: fb
+  URL: https://fb.com/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg
+- name: instagram
+  URL: https://instagram.com/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg
+badges:
+- https://komarev.com/ghpvc/?username=wwmoraes
+- url: https://badgen.net/badge/icon/user?icon=visualstudio&label
+  title: VSCode
+- url: https://badgen.net/badge/icon/abuser?icon=terminal&label
+  title: Terminal
+- url: https://badgen.net/badge/icon/lover?icon=apple&label
+  title: Apple
+- url: https://badgen.net/badge/icon/contained?icon=docker&label
+  title: Docker
+- url: https://badgen.net/badge/icon/dependant?icon=dependabot&label
+  title: DependaBot
+- url: https://badgen.net/badge/icon/adopter?icon=codeclimate&label
+  title: CodeClimate
+- url: https://badgen.net/badge/icon/lgtm%27er?icon=lgtm&label
+  title: LGTM
+- url: https://badgen.net/badge/icon/lover%2Fhater?icon=terraform&label
+  title: Terraform
