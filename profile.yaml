@@ -20,67 +20,71 @@ projects:
 - name: Alertmanager Telegram Bot
   URL: https://github.com/wwmoraes/alertmanager-telegram-bot
   status: working
-- name: Node Addon API
-  URL: https://github.com/nodejs/node-addon-api
+- name: Next.js
+  URL: https://nextjs.org
   status: learning
 stack:
-- name: rust
+- name: Fish Shell
+  imageURL: https://github.com/wwmoraes/wwmoraes/raw/master/fishfish_logo.png
+- name: Rust
   imageURL: https://api.iconify.design/logos:rust.svg
-- name: go
+- name: Go
   imageURL: https://api.iconify.design/logos:gopher.svg
-- name: docker
+- name: Kubernetes
   imageURL: https://api.iconify.design/logos:kubernetes.svg
-- name: docker
+- name: Docker
   imageURL: https://api.iconify.design/logos:docker-icon.svg
-- name: react
+- name: React
   imageURL: https://api.iconify.design/logos:react.svg
-- name: typescript
+- name: Typescript
   imageURL: https://api.iconify.design/logos:typescript-icon.svg
-- name: nodejs
+- name: Node.js
   imageURL: https://api.iconify.design/logos:nodejs-icon.svg
-- name: terraform
-  imageURL: https://symbols.getvecta.com/stencil_97/64_terraform-icon.d8dd637866.svg
-- name: ansible
+- name: Terraform
+  imageURL: https://api.iconify.design/vscode-icons:file-type-terraform.svg
+- name: Ansible
   imageURL: https://api.iconify.design/cib:ansible.svg
-- name: redis
+- name: Redis
   imageURL: https://api.iconify.design/logos:redis.svg
-- name: mongodb
-  imageURL: https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg
-- name: mysql
+- name: Mongodb
+  imageURL: https://api.iconify.design/vscode-icons:file-type-mongo.svg
+- name: Mysql
   imageURL: https://api.iconify.design/logos:mysql.svg
-- name: nginx
+- name: Nginx
   imageURL: https://api.iconify.design/logos:nginx.svg
-- name: python
+- name: Python
   imageURL: https://api.iconify.design/logos:python.svg
 - name: C++
-  imageURL: https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg
+  imageURL: https://api.iconify.design/logos:c-plusplus.svg
 - name: C
-  imageURL: https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg
-- name: linux
+  imageURL: https://api.iconify.design/logos:c.svg
+- name: Linux
   imageURL: https://api.iconify.design/logos:linux-tux.svg
+- name: Windows
+  imageURL: https://api.iconify.design/grommet-icons:windows-legacy.svg
 social:
-- name: Codepen
-  URL: https://codepen.io/wwmoraes
-  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg
-- name: dev
-  URL: https://dev.to/wwmoraes
-  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg
-- name: twitter
-  URL: https://twitter.com/wwmoraes
-  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg
-- name: linkedin
+- name: LinkedIn
   URL: https://linkedin.com/in/wwmoraes
   imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg
-- name: stackoverflow
-  URL: https://stackoverflow.com/wwmoraes
-  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg
-- name: codesandbox
-  URL: https://codesandbox.com/wwmoraes
-  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg
-- name: fb
-  URL: https://fb.com/wwmoraes
+# - name: dev
+#   URL: https://dev.to/wwmoraes
+#   imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg
+# - name: Codepen
+#   URL: https://codepen.io/wwmoraes
+#   imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg
+# - name: CodeSandbox
+#   URL: https://codesandbox.com/wwmoraes
+#   imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg
+# - name: StackOverflow
+#   URL: https://stackoverflow.com/wwmoraes
+#   imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg
+- name: Twitter
+  URL: https://twitter.com/wwmoraes
+  imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg
+- name: Facebook
+  URL: https://facebook.com/wwmoraes
   imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg
-- name: instagram
+- name: Instagram
   URL: https://instagram.com/wwmoraes
   imageURL: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg
 badges:
@@ -89,15 +93,15 @@ badges:
   title: VSCode
 - url: https://badgen.net/badge/icon/abuser?icon=terminal&label
   title: Terminal
-- url: https://badgen.net/badge/icon/lover?icon=apple&label
-  title: Apple
 - url: https://badgen.net/badge/icon/contained?icon=docker&label
   title: Docker
+- url: https://badgen.net/badge/icon/addicted?icon=git&label
+  title: git
 - url: https://badgen.net/badge/icon/dependant?icon=dependabot&label
   title: DependaBot
 - url: https://badgen.net/badge/icon/adopter?icon=codeclimate&label
   title: CodeClimate
-- url: https://badgen.net/badge/icon/lgtm%27er?icon=lgtm&label
-  title: LGTM
 - url: https://badgen.net/badge/icon/lover%2Fhater?icon=terraform&label
   title: Terraform
+- url: https://badgen.net/badge/icon/lover?icon=apple&label
+  title: Apple
