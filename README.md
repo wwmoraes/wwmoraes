@@ -1,63 +1,78 @@
-<h1 align="center">Hello, I'm William Artero</h1>
+# Hi there 👋
 
-<h3 align="center">
-  a senior full-stack developer and infrastructure engineer automating my way out of things
-  <img src="https://github.com/wwmoraes/wwmoraes/raw/master/doge.png" title="wow such description" alt="doge" width="32" height="32" />
-</h3>
+I'm William, a platform engineer automating my way out of things
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wwmoraes" alt="wwmoraes" title="wwmoraes" />
-  <img src="https://badgen.net/badge/icon/user?icon=visualstudio&label" alt="VSCode" title="VSCode" />
-  <img src="https://badgen.net/badge/icon/abuser?icon=terminal&label" alt="Terminal" title="Terminal" />
-  <img src="https://badgen.net/badge/icon/contained?icon=docker&label" alt="Docker" title="Docker" />
-  <img src="https://badgen.net/badge/icon/addicted?icon=git&label" alt="git" title="git" />
-  <img src="https://badgen.net/badge/icon/dependant?icon=dependabot&label" alt="DependaBot" title="DependaBot" />
-  <img src="https://badgen.net/badge/icon/adopter?icon=codeclimate&label" alt="CodeClimate" title="CodeClimate" />
-  <img src="https://badgen.net/badge/icon/lover%2Fhater?icon=terraform&label" alt="Terraform" title="Terraform" />
-  <img src="https://badgen.net/badge/icon/lover?icon=apple&label" alt="Apple" title="Apple" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=wwmoraes&show_icons=true" alt="wwmoraes" />
 
-🔭&nbsp;&nbsp;I’m currently working on [Alertmanager Telegram Bot](https://github.com/wwmoraes/alertmanager-telegram-bot)
+### 👨‍💻 Here's what I'm currently working on
 
-🌱&nbsp;&nbsp;I’m currently learning [Next.js](https://nextjs.org)
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (3 weeks ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 months ago)
 
-👨‍💻&nbsp;&nbsp;My projects are available at [artero.dev](https://artero.dev)
+### 🌱 My pet projects
 
-💬&nbsp;&nbsp;Ask me about **Kubernetes, TypeScript, Golang, Docker, GNU/Linux, networking**
+- [wwmoraes/cadvisor](https://github.com/wwmoraes/cadvisor) - multi-platform cAdvisor container, because the world doesn&#39;t run on amd64 only
+- [wwmoraes/minit](https://github.com/wwmoraes/minit) - minimal subreaper for containers
+- [wwmoraes/eso-addons](https://github.com/wwmoraes/eso-addons) - Elder Scrolls Online addons
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website
+- [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins
+- [wwmoraes/dotctl](https://github.com/wwmoraes/dotctl) - cross-system customization using dot files
+- [wwmoraes/ubersicht-widgets](https://github.com/wwmoraes/ubersicht-widgets) - HTML5 widgets for Übersicht
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection
+- [wwmoraes/plantuml](https://github.com/wwmoraes/plantuml) - generates images of PlantUML diagrams using any server
+- [wwmoraes/dot](https://github.com/wwmoraes/dot) - a lightweight, pure golang graphviz-compatible dot language implementation
 
-📫&nbsp;&nbsp;You can reach me on **william@artero.dev**
+### 🔭 Latest releases I've contributed to
 
-⚡&nbsp;&nbsp;Fun fact **good beer is like coffee: boosts some brilliant ideas**
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.35.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.35.0), 2 weeks ago) - Azure Command-Line Interface
 
-<p align="center">
-  <img src="https://github.com/wwmoraes/wwmoraes/raw/master/fishfish_logo.png" alt="Fish Shell" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:rust.svg" alt="Rust" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:gopher.svg" alt="Go" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:kubernetes.svg" alt="Kubernetes" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:react.svg" alt="React" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:typescript-icon.svg" alt="Typescript" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:nodejs-icon.svg" alt="Node.js" width="32" height="32"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-terraform.svg" alt="Terraform" width="32" height="32"/>
-  <img src="https://api.iconify.design/cib:ansible.svg" alt="Ansible" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:redis.svg" alt="Redis" width="32" height="32"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-mongo.svg" alt="Mongodb" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:mysql.svg" alt="Mysql" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:nginx.svg" alt="Nginx" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="C++" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:c.svg" alt="C" width="32" height="32"/>
-  <img src="https://api.iconify.design/logos:linux-tux.svg" alt="Linux" width="32" height="32"/>
-  <img src="https://api.iconify.design/grommet-icons:windows-legacy.svg" alt="Windows" width="32" height="32"/>
-</p>
+### 🔨 My recent Pull Requests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wwmoraes&show_icons=true" alt="wwmoraes" />
-</p>
+- [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 days ago)
+- [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (3 weeks ago)
+- [[ARM] Fix #20842: `az bicep`: Fix to use requests environment variables for CA bundle](https://github.com/Azure/azure-cli/pull/21807) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (4 weeks ago)
+- [feat: AllKeysShop augmentation script](https://github.com/wwmoraes/userscripts/pull/38) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
+- [refactor: introduce typescript and move legacy scripts for compatibility](https://github.com/wwmoraes/userscripts/pull/37) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
+- [chore: updated ESLint to v8](https://github.com/wwmoraes/userscripts/pull/36) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
+- [chore: added custom tampermonkey typings](https://github.com/wwmoraes/userscripts/pull/35) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
+- [extend stringify options to allow unknown entries](https://github.com/jonschlinkert/gray-matter/pull/123) on [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) (11 months ago)
+- [ci: actions](https://github.com/wwmoraes/dot/pull/3) on [wwmoraes/dot](https://github.com/wwmoraes/dot) (1 year ago)
+- [ci: actions](https://github.com/wwmoraes/kubegraph/pull/31) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
 
-<p align="center">
-  <a href="https://linkedin.com/in/wwmoraes" title="LinkedIn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn icon" height="24" width="24" /></a>
-  <a href="https://twitter.com/wwmoraes" title="Twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter icon" height="24" width="24" /></a>
-  <a href="https://facebook.com/wwmoraes" title="Facebook" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook icon" height="24" width="24" /></a>
-  <a href="https://instagram.com/wwmoraes" title="Instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="24" width="24" /></a>
-</p>
+### 📜 My recent blog posts
+
+- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (3 months ago)
+
+### 📓 Gists I wrote
+
+- [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (1 year ago)
+- [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (1 year ago)
+- [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (1 year ago)
+- [semantic versioning cheat sheet #cheat-sheet #git #semantic](https://gist.github.com/bd2ba1b347dd38ce9af9706388eed74f) (1 year ago)
+- [Automation and SRE: an analysis of the intrinsic relationship between the two topics #sre #arguments](https://gist.github.com/1733d441d9c54a0e8164c8435ff9db8d) (2 years ago)
+
+### ⭐ Recent Stars
+
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (6 days ago)
+- [marcelo-ochoa/docker-volume-plugins](https://github.com/marcelo-ochoa/docker-volume-plugins) - Managed docker volume plugins (2 weeks ago)
+- [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data (3 weeks ago)
+- [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor (3 weeks ago)
+- [timebertt/pi-cloud-init](https://github.com/timebertt/pi-cloud-init) - Minimal Raspberry Pi OS including cloud-init (3 weeks ago)
+- [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility (1 month ago)
+- [raggi/openssl-osx-ca](https://github.com/raggi/openssl-osx-ca) - Simple periodic task to sync OSX Keychain certs to Homebrew installed OpenSSL &amp; LibreSSL (1 month ago)
+- [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList) - Ultimate Host List for Mobile Adblockers (Focused on iOS) (3 months ago)
+
+### 👯 Check out some of my recent followers
+
+- [hsensier](https://github.com/hsensier)
+- [Sajadorouji](https://github.com/Sajadorouji)
+- [mcereda](https://github.com/mcereda)
+- [ali-sattari](https://github.com/ali-sattari)
+- [epels](https://github.com/epels)
+
+### 📫 How to reach me
+
+- Home page: <https://artero.dev>
+- LinkedIn: <https://linkedin.com/in/wwmoraes>

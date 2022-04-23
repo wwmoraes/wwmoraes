@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm William, a platform engineer automating my way out of things
+> I'm William, a platform engineer automating my way out of things
 
 <img src="https://github-readme-stats.vercel.app/api?username=wwmoraes&show_icons=true" alt="wwmoraes" />
 
