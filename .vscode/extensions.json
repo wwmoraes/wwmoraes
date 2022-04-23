@@ -1,9 +1,7 @@
 {
-	"recommendations": [
-		"samuelcolvin.jinjahtml"
-	],
-	"unwantedRecommendations": [
+  "unwantedRecommendations": [
+    "samuelcolvin.jinjahtml",
     "wholroyd.jinja",
     "korekontrol.saltstack",
-	]
+  ]
 }

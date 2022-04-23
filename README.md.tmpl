@@ -1,0 +1,58 @@
+# Hi there 👋
+
+I'm William, a platform engineer automating my way out of things
+
+<img src="https://github-readme-stats.vercel.app/api?username=wwmoraes&show_icons=true" alt="wwmoraes" />
+
+### 👨‍💻 Here's what I'm currently working on
+{{ range recentContributions 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
+{{- end }}
+
+### 🌱 My pet projects
+{{ range recentRepos 10 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
+
+### 🔭 Latest releases I've contributed to
+{{ range recentReleases 10 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}) - {{ .Description }}
+{{- end }}
+
+### 🔨 My recent Pull Requests
+{{ range recentPullRequests 10 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
+{{- end }}
+
+### 📜 My recent blog posts
+{{ range rss "https://artero.dev/posts/index.xml" 5 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
+### 📓 Gists I wrote
+{{ range gists 5}}
+- [{{ .Description }}]({{ .URL }}) ({{ humanize .CreatedAt }})
+{{- end }}
+
+### ⭐ Recent Stars
+{{ range recentStars 10 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .StarredAt }})
+{{- end }}
+
+{{- $sponsors := sponsors 5 }}
+{{- if gt (len $sponsors) 0 }}
+### ❤️ These awesome people sponsor me (thank you!)
+{{ range $sponsors }}
+- [{{ .User.Login }}]({{ .User.URL }}) ({{ humanize .CreatedAt }})
+{{- end }}
+{{- end }}
+
+### 👯 Check out some of my recent followers
+{{ range followers 5}}
+- [{{ .Login }}]({{ .URL }})
+{{- end }}
+
+### 📫 How to reach me
+
+- Home page: <https://artero.dev>
+- LinkedIn: <https://linkedin.com/in/wwmoraes>

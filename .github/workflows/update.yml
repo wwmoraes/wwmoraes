@@ -1,0 +1,33 @@
+name: Update
+
+on:
+  push:
+    paths-ignore:
+      - README.md
+  schedule:
+    - cron: "0 0 */1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GHP_TOKEN }}
+        with:
+          template: README.md.tmpl
+          writeTo: README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: updated README.md"
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
