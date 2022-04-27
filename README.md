@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (3 weeks ago)
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (4 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 months ago)
 
 ### 🌱 My pet projects
@@ -24,12 +24,12 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.35.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.35.0), 2 weeks ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.36.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.36.0), 1 day ago) - Azure Command-Line Interface
 
 ### 🔨 My recent Pull Requests
 
 - [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 week ago)
-- [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (4 weeks ago)
+- [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (1 month ago)
 - [[ARM] Fix #20842: `az bicep`: Fix to use requests environment variables for CA bundle](https://github.com/Azure/azure-cli/pull/21807) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (1 month ago)
 - [feat: AllKeysShop augmentation script](https://github.com/wwmoraes/userscripts/pull/38) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
 - [refactor: introduce typescript and move legacy scripts for compatibility](https://github.com/wwmoraes/userscripts/pull/37) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
@@ -53,12 +53,12 @@
 
 ### ⭐ Recent Stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (1 week ago)
 - [marcelo-ochoa/docker-volume-plugins](https://github.com/marcelo-ochoa/docker-volume-plugins) - Managed docker volume plugins (3 weeks ago)
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data (3 weeks ago)
-- [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor (3 weeks ago)
+- [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor (4 weeks ago)
 - [timebertt/pi-cloud-init](https://github.com/timebertt/pi-cloud-init) - Minimal Raspberry Pi OS including cloud-init (4 weeks ago)
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility (1 month ago)
 - [raggi/openssl-osx-ca](https://github.com/raggi/openssl-osx-ca) - Simple periodic task to sync OSX Keychain certs to Homebrew installed OpenSSL &amp; LibreSSL (1 month ago)
