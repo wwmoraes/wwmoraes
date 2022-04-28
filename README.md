@@ -24,7 +24,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.36.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.36.0), 1 day ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.36.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.36.0), 2 days ago) - Azure Command-Line Interface
 
 ### 🔨 My recent Pull Requests
 
@@ -53,13 +53,13 @@
 
 ### ⭐ Recent Stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (5 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (1 week ago)
 - [marcelo-ochoa/docker-volume-plugins](https://github.com/marcelo-ochoa/docker-volume-plugins) - Managed docker volume plugins (3 weeks ago)
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data (3 weeks ago)
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor (4 weeks ago)
-- [timebertt/pi-cloud-init](https://github.com/timebertt/pi-cloud-init) - Minimal Raspberry Pi OS including cloud-init (4 weeks ago)
+- [timebertt/pi-cloud-init](https://github.com/timebertt/pi-cloud-init) - Minimal Raspberry Pi OS including cloud-init (1 month ago)
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility (1 month ago)
 - [raggi/openssl-osx-ca](https://github.com/raggi/openssl-osx-ca) - Simple periodic task to sync OSX Keychain certs to Homebrew installed OpenSSL &amp; LibreSSL (1 month ago)
 - [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList) - Ultimate Host List for Mobile Adblockers (Focused on iOS) (3 months ago)
