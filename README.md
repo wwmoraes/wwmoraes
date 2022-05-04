@@ -6,8 +6,16 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 weeks ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (1 month ago)
+- [wwmoraes/eso-addons](https://github.com/wwmoraes/eso-addons) - Elder Scrolls Online addons (3 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 months ago)
+- [wwmoraes/dd-wrt](https://github.com/wwmoraes/dd-wrt) - DD-WRT router scripts (3 months ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (4 months ago)
+- [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (4 months ago)
+- [wwmoraes/ubersicht-widgets](https://github.com/wwmoraes/ubersicht-widgets) - HTML5 widgets for Übersicht (10 months ago)
+- [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (10 months ago)
+- [wwmoraes/rugrep](https://github.com/wwmoraes/rugrep) - Grep-like program based on the sample from The Rust Programming Language book (11 months ago)
 
 ### 🌱 My pet projects
 
@@ -25,6 +33,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.36.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.36.0), 1 week ago) - Azure Command-Line Interface
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 1 year ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
 
@@ -53,6 +62,7 @@
 
 ### ⭐ Recent Stars
 
+- [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (1 day ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (2 weeks ago)
@@ -62,7 +72,6 @@
 - [timebertt/pi-cloud-init](https://github.com/timebertt/pi-cloud-init) - Minimal Raspberry Pi OS including cloud-init (1 month ago)
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility (1 month ago)
 - [raggi/openssl-osx-ca](https://github.com/raggi/openssl-osx-ca) - Simple periodic task to sync OSX Keychain certs to Homebrew installed OpenSSL &amp; LibreSSL (1 month ago)
-- [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList) - Ultimate Host List for Mobile Adblockers (Focused on iOS) (3 months ago)
 
 ### 👯 Check out some of my recent followers
 
