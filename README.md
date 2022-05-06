@@ -62,7 +62,8 @@
 
 ### ⭐ Recent Stars
 
-- [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (2 days ago)
+- [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (1 day ago)
+- [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (3 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (2 weeks ago)
@@ -71,7 +72,6 @@
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor (1 month ago)
 - [timebertt/pi-cloud-init](https://github.com/timebertt/pi-cloud-init) - Minimal Raspberry Pi OS including cloud-init (1 month ago)
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility (1 month ago)
-- [raggi/openssl-osx-ca](https://github.com/raggi/openssl-osx-ca) - Simple periodic task to sync OSX Keychain certs to Homebrew installed OpenSSL &amp; LibreSSL (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
