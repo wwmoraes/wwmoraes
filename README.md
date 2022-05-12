@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 months ago)
 
@@ -36,7 +36,7 @@
 - [refactor: introduce typescript and move legacy scripts for compatibility](https://github.com/wwmoraes/userscripts/pull/37) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
 - [chore: updated ESLint to v8](https://github.com/wwmoraes/userscripts/pull/36) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
 - [chore: added custom tampermonkey typings](https://github.com/wwmoraes/userscripts/pull/35) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
-- [extend stringify options to allow unknown entries](https://github.com/jonschlinkert/gray-matter/pull/123) on [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) (11 months ago)
+- [extend stringify options to allow unknown entries](https://github.com/jonschlinkert/gray-matter/pull/123) on [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) (1 year ago)
 - [ci: actions](https://github.com/wwmoraes/dot/pull/3) on [wwmoraes/dot](https://github.com/wwmoraes/dot) (1 year ago)
 - [ci: actions](https://github.com/wwmoraes/kubegraph/pull/31) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
 
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (6 days ago)
+- [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (1 week ago)
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
