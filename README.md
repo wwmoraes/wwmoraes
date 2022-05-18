@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 months ago)
 
@@ -32,10 +32,10 @@
 - [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
 - [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (1 month ago)
 - [[ARM] Fix #20842: `az bicep`: Fix to use requests environment variables for CA bundle](https://github.com/Azure/azure-cli/pull/21807) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (1 month ago)
-- [feat: AllKeysShop augmentation script](https://github.com/wwmoraes/userscripts/pull/38) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
-- [refactor: introduce typescript and move legacy scripts for compatibility](https://github.com/wwmoraes/userscripts/pull/37) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
-- [chore: updated ESLint to v8](https://github.com/wwmoraes/userscripts/pull/36) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
-- [chore: added custom tampermonkey typings](https://github.com/wwmoraes/userscripts/pull/35) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (1 month ago)
+- [feat: AllKeysShop augmentation script](https://github.com/wwmoraes/userscripts/pull/38) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (2 months ago)
+- [refactor: introduce typescript and move legacy scripts for compatibility](https://github.com/wwmoraes/userscripts/pull/37) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (2 months ago)
+- [chore: updated ESLint to v8](https://github.com/wwmoraes/userscripts/pull/36) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (2 months ago)
+- [chore: added custom tampermonkey typings](https://github.com/wwmoraes/userscripts/pull/35) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (2 months ago)
 - [extend stringify options to allow unknown entries](https://github.com/jonschlinkert/gray-matter/pull/123) on [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) (1 year ago)
 - [ci: actions](https://github.com/wwmoraes/dot/pull/3) on [wwmoraes/dot](https://github.com/wwmoraes/dot) (1 year ago)
 - [ci: actions](https://github.com/wwmoraes/kubegraph/pull/31) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (1 day ago)
+- [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (2 days ago)
 - [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (1 week ago)
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
