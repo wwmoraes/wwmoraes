@@ -25,7 +25,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.36.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.36.0), 4 weeks ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.37.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.37.0), 1 day ago) - Azure Command-Line Interface
 
 ### 🔨 My recent Pull Requests
 
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (1 day ago)
+- [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (2 days ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (1 week ago)
 - [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (2 weeks ago)
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (3 weeks ago)
