@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (2 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 months ago)
 
@@ -25,7 +25,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.37.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.37.0), 1 week ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.37.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.37.0), 2 weeks ago) - Azure Command-Line Interface
 
 ### 🔨 My recent Pull Requests
 
