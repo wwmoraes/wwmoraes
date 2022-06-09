@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (2 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 months ago)
 
@@ -29,6 +29,7 @@
 
 ### 🔨 My recent Pull Requests
 
+- [chore: updated k8s packages](https://github.com/wwmoraes/kubegraph/pull/150) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
 - [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (2 months ago)
 - [[ARM] Fix #20842: `az bicep`: Fix to use requests environment variables for CA bundle](https://github.com/Azure/azure-cli/pull/21807) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (2 months ago)
@@ -38,7 +39,6 @@
 - [chore: added custom tampermonkey typings](https://github.com/wwmoraes/userscripts/pull/35) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (2 months ago)
 - [extend stringify options to allow unknown entries](https://github.com/jonschlinkert/gray-matter/pull/123) on [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) (1 year ago)
 - [ci: actions](https://github.com/wwmoraes/dot/pull/3) on [wwmoraes/dot](https://github.com/wwmoraes/dot) (1 year ago)
-- [ci: actions](https://github.com/wwmoraes/kubegraph/pull/31) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
 
 ### 📜 My recent blog posts
 
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 week ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 weeks ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (2 weeks ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (3 weeks ago)
 - [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (1 month ago)
