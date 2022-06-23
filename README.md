@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (6 days ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (2 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 months ago)
@@ -26,21 +26,21 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.37.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.37.0), 4 weeks ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.37.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.37.0), 1 month ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
 
-- [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (6 days ago)
+- [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 week ago)
 - [chore: updated k8s packages](https://github.com/wwmoraes/kubegraph/pull/150) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 weeks ago)
 - [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
 - [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (2 months ago)
-- [[ARM] Fix #20842: `az bicep`: Fix to use requests environment variables for CA bundle](https://github.com/Azure/azure-cli/pull/21807) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (2 months ago)
+- [[ARM] Fix #20842: `az bicep`: Fix to use requests environment variables for CA bundle](https://github.com/Azure/azure-cli/pull/21807) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (3 months ago)
 - [feat: AllKeysShop augmentation script](https://github.com/wwmoraes/userscripts/pull/38) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (3 months ago)
 - [refactor: introduce typescript and move legacy scripts for compatibility](https://github.com/wwmoraes/userscripts/pull/37) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (3 months ago)
 - [chore: updated ESLint to v8](https://github.com/wwmoraes/userscripts/pull/36) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (3 months ago)
 - [chore: added custom tampermonkey typings](https://github.com/wwmoraes/userscripts/pull/35) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (3 months ago)
-- [extend stringify options to allow unknown entries](https://github.com/jonschlinkert/gray-matter/pull/123) on [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) (1 year ago)
 
 ### 📜 My recent blog posts
 
@@ -56,7 +56,7 @@
 
 ### ⭐ Recent Stars
 
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (3 weeks ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (4 weeks ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (1 month ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (1 month ago)
 - [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (1 month ago)
