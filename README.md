@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (3 weeks ago)
@@ -33,7 +33,7 @@
 ### 🔨 My recent Pull Requests
 
 - [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 weeks ago)
-- [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
+- [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [chore: updated k8s packages](https://github.com/wwmoraes/kubegraph/pull/150) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
 - [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (3 months ago)
@@ -57,7 +57,7 @@
 
 ### ⭐ Recent Stars
 
-- [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (6 days ago)
+- [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (1 week ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 month ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (1 month ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (2 months ago)
@@ -65,7 +65,7 @@
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (2 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 months ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 months ago)
-- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (2 months ago)
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (3 months ago)
 - [marcelo-ochoa/docker-volume-plugins](https://github.com/marcelo-ochoa/docker-volume-plugins) - Managed docker volume plugins (3 months ago)
 
 ### 👯 Check out some of my recent followers
