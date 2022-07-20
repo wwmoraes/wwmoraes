@@ -6,10 +6,10 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (3 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
-- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (3 weeks ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (4 weeks ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (3 months ago)
 
 ### 🌱 My pet projects
@@ -32,7 +32,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 weeks ago)
+- [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
 - [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [chore: updated k8s packages](https://github.com/wwmoraes/kubegraph/pull/150) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 months ago)
