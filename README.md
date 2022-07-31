@@ -45,7 +45,7 @@
 
 ### 📜 My recent blog posts
 
-- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (6 months ago)
+- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (7 months ago)
 
 ### 📓 Gists I wrote
 
@@ -57,7 +57,7 @@
 
 ### ⭐ Recent Stars
 
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (today)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 day ago)
 - [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (3 weeks ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (2 months ago)
