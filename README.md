@@ -57,13 +57,13 @@
 
 ### ⭐ Recent Stars
 
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 day ago)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 days ago)
 - [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (3 weeks ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (2 months ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (2 months ago)
 - [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (2 months ago)
-- [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (2 months ago)
+- [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.  (3 months ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 months ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 months ago)
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine (3 months ago)
