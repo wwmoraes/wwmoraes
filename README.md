@@ -27,7 +27,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.38.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.38.0), 3 weeks ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.38.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.38.0), 4 weeks ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
@@ -57,7 +57,7 @@
 
 ### ⭐ Recent Stars
 
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 days ago)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (3 days ago)
 - [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (3 weeks ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (2 months ago)
