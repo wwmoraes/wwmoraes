@@ -6,10 +6,10 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
-- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 month ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (4 months ago)
 
 ### 🌱 My pet projects
@@ -27,21 +27,21 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 5 days ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 6 days ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
 
-- [fix: flatten project falls back to organization default template ID](https://github.com/microsoft/terraform-provider-azuredevops/pull/626) on [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) (4 days ago)
+- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [ci: updated auto approval bot settings](https://github.com/wwmoraes/kubegraph/pull/166) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [chore: upgraded to go 1.18](https://github.com/wwmoraes/kubegraph/pull/165) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [fix: flatten project falls back to organization default template ID](https://github.com/microsoft/terraform-provider-azuredevops/pull/626) on [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) (5 days ago)
 - [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [chore: updated k8s packages](https://github.com/wwmoraes/kubegraph/pull/150) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
-- [docs: added FOSSA check and badge](https://github.com/wwmoraes/kubegraph/pull/135) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 months ago)
-- [[ContainerStructureTestV0] Fixed test publishing for non-pushed images (#12396)](https://github.com/microsoft/azure-pipelines-tasks/pull/16079) on [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) (4 months ago)
-- [[ARM] Fix #20842: `az bicep`: Fix to use requests environment variables for CA bundle](https://github.com/Azure/azure-cli/pull/21807) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (4 months ago)
-- [feat: AllKeysShop augmentation script](https://github.com/wwmoraes/userscripts/pull/38) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (4 months ago)
-- [refactor: introduce typescript and move legacy scripts for compatibility](https://github.com/wwmoraes/userscripts/pull/37) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (4 months ago)
-- [chore: updated ESLint to v8](https://github.com/wwmoraes/userscripts/pull/36) on [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) (4 months ago)
 
 ### 📜 My recent blog posts
 
@@ -57,11 +57,11 @@
 
 ### ⭐ Recent Stars
 
-- [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (5 days ago)
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (5 days ago)
-- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (5 days ago)
+- [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (6 days ago)
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (6 days ago)
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (6 days ago)
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 week ago)
-- [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (4 weeks ago)
+- [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (2 months ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (2 months ago)
