@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 day ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (2 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (4 months ago)
@@ -27,18 +27,18 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 6 days ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 1 week ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
 
-- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
-- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
-- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
-- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
-- [ci: updated auto approval bot settings](https://github.com/wwmoraes/kubegraph/pull/166) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
-- [chore: upgraded to go 1.18](https://github.com/wwmoraes/kubegraph/pull/165) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
-- [fix: flatten project falls back to organization default template ID](https://github.com/microsoft/terraform-provider-azuredevops/pull/626) on [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) (5 days ago)
+- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 days ago)
+- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 days ago)
+- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 days ago)
+- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 days ago)
+- [ci: updated auto approval bot settings](https://github.com/wwmoraes/kubegraph/pull/166) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 days ago)
+- [chore: upgraded to go 1.18](https://github.com/wwmoraes/kubegraph/pull/165) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 days ago)
+- [fix: flatten project falls back to organization default template ID](https://github.com/microsoft/terraform-provider-azuredevops/pull/626) on [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) (6 days ago)
 - [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [chore: updated k8s packages](https://github.com/wwmoraes/kubegraph/pull/150) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
@@ -57,9 +57,9 @@
 
 ### ⭐ Recent Stars
 
-- [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (6 days ago)
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (6 days ago)
-- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (6 days ago)
+- [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (1 week ago)
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (1 week ago)
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (1 week ago)
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 week ago)
 - [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
