@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (3 days ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (4 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (4 months ago)
@@ -32,12 +32,12 @@
 
 ### 🔨 My recent Pull Requests
 
-- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 days ago)
-- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 days ago)
-- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 days ago)
-- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 days ago)
-- [ci: updated auto approval bot settings](https://github.com/wwmoraes/kubegraph/pull/166) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 days ago)
-- [chore: upgraded to go 1.18](https://github.com/wwmoraes/kubegraph/pull/165) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 days ago)
+- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 days ago)
+- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 days ago)
+- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 days ago)
+- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 days ago)
+- [ci: updated auto approval bot settings](https://github.com/wwmoraes/kubegraph/pull/166) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 days ago)
+- [chore: upgraded to go 1.18](https://github.com/wwmoraes/kubegraph/pull/165) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 days ago)
 - [fix: flatten project falls back to organization default template ID](https://github.com/microsoft/terraform-provider-azuredevops/pull/626) on [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) (1 week ago)
 - [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
