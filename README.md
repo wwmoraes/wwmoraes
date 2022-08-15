@@ -40,7 +40,7 @@
 - [chore: upgraded to go 1.18](https://github.com/wwmoraes/kubegraph/pull/165) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 week ago)
 - [fix: flatten project falls back to organization default template ID](https://github.com/microsoft/terraform-provider-azuredevops/pull/626) on [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) (1 week ago)
 - [ci: release and scanning improvements](https://github.com/wwmoraes/kubegraph/pull/158) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
-- [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
+- [ci: added trigger on release &#43; push image only on release](https://github.com/wwmoraes/kubegraph/pull/151) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
 - [chore: updated k8s packages](https://github.com/wwmoraes/kubegraph/pull/150) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
 
 ### 📜 My recent blog posts
