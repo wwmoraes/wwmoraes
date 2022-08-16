@@ -27,7 +27,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 1 week ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.39.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.39.0), 2 weeks ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
@@ -57,9 +57,9 @@
 
 ### ⭐ Recent Stars
 
-- [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (1 week ago)
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (1 week ago)
-- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (1 week ago)
+- [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (2 weeks ago)
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (2 weeks ago)
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (2 weeks ago)
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 weeks ago)
 - [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
