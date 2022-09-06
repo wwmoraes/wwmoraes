@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 week ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (2 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 months ago)
@@ -37,11 +37,11 @@
 - [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 weeks ago)
 - [chore: updated build tags](https://github.com/wwmoraes/kubegraph/pull/179) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 weeks ago)
 - [fix: icons target dependencies](https://github.com/wwmoraes/kubegraph/pull/178) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 weeks ago)
-- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
-- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
-- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
-- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
-- [ci: updated auto approval bot settings](https://github.com/wwmoraes/kubegraph/pull/166) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
+- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
+- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
+- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
+- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
+- [ci: updated auto approval bot settings](https://github.com/wwmoraes/kubegraph/pull/166) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 
 ### 📜 My recent blog posts
 
@@ -57,7 +57,7 @@
 
 ### ⭐ Recent Stars
 
-- [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (4 days ago)
+- [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (5 days ago)
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images (2 weeks ago)
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (1 month ago)
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (1 month ago)
