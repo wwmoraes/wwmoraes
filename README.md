@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 week ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (2 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 months ago)
@@ -27,7 +27,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 1 day ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 2 days ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
@@ -57,7 +57,7 @@
 
 ### ⭐ Recent Stars
 
-- [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (6 days ago)
+- [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (1 week ago)
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images (3 weeks ago)
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (1 month ago)
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (1 month ago)
