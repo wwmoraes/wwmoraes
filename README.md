@@ -6,6 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (2 weeks ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (2 months ago)
@@ -14,6 +15,7 @@
 
 ### 🌱 My pet projects
 
+- [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins
 - [wwmoraes/cadvisor](https://github.com/wwmoraes/cadvisor) - multi-platform cAdvisor container, because the world doesn&#39;t run on amd64 only
 - [wwmoraes/minit](https://github.com/wwmoraes/minit) - minimal subreaper for containers
 - [wwmoraes/eso-addons](https://github.com/wwmoraes/eso-addons) - Elder Scrolls Online addons
@@ -23,11 +25,10 @@
 - [wwmoraes/ubersicht-widgets](https://github.com/wwmoraes/ubersicht-widgets) - HTML5 widgets for Übersicht
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection
 - [wwmoraes/plantuml](https://github.com/wwmoraes/plantuml) - generates images of PlantUML diagrams using any server
-- [wwmoraes/dot](https://github.com/wwmoraes/dot) - a lightweight, pure golang graphviz-compatible dot language implementation
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 5 days ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 6 days ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
