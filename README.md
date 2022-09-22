@@ -58,7 +58,7 @@
 
 ### ⭐ Recent Stars
 
-- [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (2 weeks ago)
+- [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (3 weeks ago)
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images (1 month ago)
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (1 month ago)
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (1 month ago)
