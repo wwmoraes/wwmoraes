@@ -24,11 +24,11 @@
 - [wwmoraes/dotctl](https://github.com/wwmoraes/dotctl) - cross-system customization using dot files
 - [wwmoraes/ubersicht-widgets](https://github.com/wwmoraes/ubersicht-widgets) - HTML5 widgets for Übersicht
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection
-- [wwmoraes/plantuml](https://github.com/wwmoraes/plantuml) - generates images of PlantUML diagrams using any server
+- [wwmoraes/maker](https://github.com/wwmoraes/maker) - make-all-the-things Makefile includes manager
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 2 weeks ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.40.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.40.0), 3 weeks ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
