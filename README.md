@@ -6,6 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (1 day ago)
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (2 weeks ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 month ago)
@@ -15,6 +16,7 @@
 
 ### 🌱 My pet projects
 
+- [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins
 - [wwmoraes/cadvisor](https://github.com/wwmoraes/cadvisor) - multi-platform cAdvisor container, because the world doesn&#39;t run on amd64 only
 - [wwmoraes/minit](https://github.com/wwmoraes/minit) - minimal subreaper for containers
@@ -24,7 +26,6 @@
 - [wwmoraes/dotctl](https://github.com/wwmoraes/dotctl) - cross-system customization using dot files
 - [wwmoraes/ubersicht-widgets](https://github.com/wwmoraes/ubersicht-widgets) - HTML5 widgets for Übersicht
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection
-- [wwmoraes/maker](https://github.com/wwmoraes/maker) - make-all-the-things Makefile includes manager
 
 ### 🔭 Latest releases I've contributed to
 
@@ -63,7 +64,7 @@
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (1 month ago)
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (1 month ago)
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (1 month ago)
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 month ago)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 months ago)
 - [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (2 months ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (4 months ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (4 months ago)
