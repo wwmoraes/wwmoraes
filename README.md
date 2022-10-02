@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (4 days ago)
-- [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (2 weeks ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
+- [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (5 days ago)
+- [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (3 weeks ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 weeks ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 month ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (3 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 months ago)
@@ -68,7 +68,7 @@
 - [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (2 months ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (4 months ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (4 months ago)
-- [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (4 months ago)
+- [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (5 months ago)
 
 ### 👯 Check out some of my recent followers
 
