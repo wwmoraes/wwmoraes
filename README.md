@@ -65,7 +65,7 @@
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (2 months ago)
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (2 months ago)
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 months ago)
-- [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (2 months ago)
+- [bjornbytes/lust](https://github.com/bjornbytes/lust) - Lightweight Lua test framework (3 months ago)
 - [public-apis-dev/public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers (4 months ago)
 - [ipython/xkcd-font](https://github.com/ipython/xkcd-font) - The xkcd font (4 months ago)
 - [Free-GPGMail/Free-GPGMail](https://github.com/Free-GPGMail/Free-GPGMail) - A modification of the Apple Mail plugin for GnuPG encrypted e-mails, so it does not require a support plan. (5 months ago)
