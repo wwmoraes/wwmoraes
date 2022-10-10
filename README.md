@@ -6,8 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (today)
-- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (1 day ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (2 days ago)
 - [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (1 week ago)
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (4 weeks ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (3 months ago)
@@ -16,6 +17,7 @@
 
 ### 🌱 My pet projects
 
+- [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go
 - [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins
 - [wwmoraes/cadvisor](https://github.com/wwmoraes/cadvisor) - multi-platform cAdvisor container, because the world doesn&#39;t run on amd64 only
@@ -25,7 +27,6 @@
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins
 - [wwmoraes/dotctl](https://github.com/wwmoraes/dotctl) - cross-system customization using dot files
 - [wwmoraes/ubersicht-widgets](https://github.com/wwmoraes/ubersicht-widgets) - HTML5 widgets for Übersicht
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection
 
 ### 🔭 Latest releases I've contributed to
 
@@ -34,7 +35,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 day ago)
+- [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 days ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
