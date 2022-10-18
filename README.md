@@ -9,7 +9,7 @@
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (1 week ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 week ago)
-- [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (2 weeks ago)
+- [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (3 weeks ago)
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (1 month ago)
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider (2 months ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (3 months ago)
@@ -31,7 +31,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.41.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.41.0), 5 days ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.41.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.41.0), 6 days ago) - Azure Command-Line Interface
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.2.2](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.2.2), 3 months ago) - Terraform Azure DevOps provider
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -62,16 +62,16 @@
 
 ### ⭐ Recent Stars
 
-- [BASLQC/vnds](https://github.com/BASLQC/vnds) - VNDS is a standard for very simple and easy to use Visual Novel scripts. It was originally developed for the Nintendo DS, but now supports Android, iOS, PSP, and even Javascript. (1 day ago)
-- [DS-Homebrew/vnds](https://github.com/DS-Homebrew/vnds) -  (1 day ago)
-- [MechanicalDragon0687/ndsForwarder](https://github.com/MechanicalDragon0687/ndsForwarder) - Generate and Install NDS Forwarders (1 day ago)
-- [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS &#34;Custom Firmware&#34; (1 day ago)
-- [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts (2 days ago)
+- [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (1 day ago)
+- [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (1 day ago)
+- [BASLQC/vnds](https://github.com/BASLQC/vnds) - VNDS is a standard for very simple and easy to use Visual Novel scripts. It was originally developed for the Nintendo DS, but now supports Android, iOS, PSP, and even Javascript. (2 days ago)
+- [DS-Homebrew/vnds](https://github.com/DS-Homebrew/vnds) -  (2 days ago)
+- [MechanicalDragon0687/ndsForwarder](https://github.com/MechanicalDragon0687/ndsForwarder) - Generate and Install NDS Forwarders (2 days ago)
+- [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS &#34;Custom Firmware&#34; (2 days ago)
+- [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts (3 days ago)
 - [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (1 month ago)
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images (2 months ago)
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig (2 months ago)
-- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (2 months ago)
-- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean &amp; mean status/tabline for vim that&#39;s light as air (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
