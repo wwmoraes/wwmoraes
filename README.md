@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (4 weeks ago)
-- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (4 weeks ago)
+- [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 month ago)
 - [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (1 month ago)
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (1 month ago)
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider (3 months ago)
@@ -31,13 +31,13 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.3.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.3.0), 4 days ago) - Terraform Azure DevOps provider
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.42.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.42.0), 5 days ago) - Azure Command-Line Interface
+- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.3.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.3.0), 5 days ago) - Terraform Azure DevOps provider
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.42.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.42.0), 6 days ago) - Azure Command-Line Interface
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
 
-- [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (4 weeks ago)
+- [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
 - [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
 - [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
@@ -62,8 +62,8 @@
 
 ### ⭐ Recent Stars
 
-- [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (2 weeks ago)
-- [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (2 weeks ago)
+- [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (3 weeks ago)
+- [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (3 weeks ago)
 - [BASLQC/vnds](https://github.com/BASLQC/vnds) - VNDS is a standard for very simple and easy to use Visual Novel scripts. It was originally developed for the Nintendo DS, but now supports Android, iOS, PSP, and even Javascript. (3 weeks ago)
 - [DS-Homebrew/vnds](https://github.com/DS-Homebrew/vnds) -  (3 weeks ago)
 - [MechanicalDragon0687/ndsForwarder](https://github.com/MechanicalDragon0687/ndsForwarder) - Generate and Install NDS Forwarders (3 weeks ago)
