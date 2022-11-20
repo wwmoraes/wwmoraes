@@ -13,7 +13,7 @@
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (2 months ago)
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider (3 months ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (4 months ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 months ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 months ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (7 months ago)
 
 ### 🌱 My pet projects
@@ -62,7 +62,7 @@
 
 ### ⭐ Recent Stars
 
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (6 days ago)
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (1 week ago)
 - [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (1 month ago)
 - [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (1 month ago)
 - [BASLQC/vnds](https://github.com/BASLQC/vnds) - VNDS is a standard for very simple and easy to use Visual Novel scripts. It was originally developed for the Nintendo DS, but now supports Android, iOS, PSP, and even Javascript. (1 month ago)
