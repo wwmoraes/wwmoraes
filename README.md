@@ -14,7 +14,7 @@
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider (3 months ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (5 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 months ago)
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (7 months ago)
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (8 months ago)
 
 ### 🌱 My pet projects
 
@@ -38,8 +38,8 @@
 ### 🔨 My recent Pull Requests
 
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 month ago)
-- [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
-- [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 months ago)
+- [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 months ago)
+- [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 months ago)
 - [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 months ago)
 - [chore: updated build tags](https://github.com/wwmoraes/kubegraph/pull/179) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 months ago)
 - [fix: icons target dependencies](https://github.com/wwmoraes/kubegraph/pull/178) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (3 months ago)
@@ -62,7 +62,7 @@
 
 ### ⭐ Recent Stars
 
-- [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (2 days ago)
+- [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (3 days ago)
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (1 week ago)
 - [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (1 month ago)
 - [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (1 month ago)
