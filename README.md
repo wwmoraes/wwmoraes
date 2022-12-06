@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (1 month ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 month ago)
 - [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (2 months ago)
@@ -62,7 +62,8 @@
 
 ### ⭐ Recent Stars
 
-- [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (1 week ago)
+- [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (1 day ago)
+- [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (2 weeks ago)
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (3 weeks ago)
 - [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (1 month ago)
 - [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (1 month ago)
@@ -71,7 +72,6 @@
 - [MechanicalDragon0687/ndsForwarder](https://github.com/MechanicalDragon0687/ndsForwarder) - Generate and Install NDS Forwarders (1 month ago)
 - [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS &#34;Custom Firmware&#34; (1 month ago)
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts (1 month ago)
-- [swarm-pack/swarm-sync](https://github.com/swarm-pack/swarm-sync) - GitOps for Docker Swarm (3 months ago)
 
 ### 👯 Check out some of my recent followers
 
