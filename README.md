@@ -6,6 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (2 months ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (2 months ago)
@@ -18,6 +19,7 @@
 
 ### 🌱 My pet projects
 
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go
 - [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins
@@ -27,11 +29,10 @@
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins
 - [wwmoraes/dotctl](https://github.com/wwmoraes/dotctl) - cross-system customization using dot files
-- [wwmoraes/ubersicht-widgets](https://github.com/wwmoraes/ubersicht-widgets) - HTML5 widgets for Übersicht
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.43.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.43.0), 6 days ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.43.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.43.0), 1 week ago) - Azure Command-Line Interface
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.3.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.3.0), 1 month ago) - Terraform Azure DevOps provider
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -62,10 +63,10 @@
 
 ### ⭐ Recent Stars
 
-- [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (1 day ago)
+- [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (2 days ago)
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (1 week ago)
-- [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (2 weeks ago)
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (4 weeks ago)
+- [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (3 weeks ago)
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (1 month ago)
 - [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (1 month ago)
 - [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (1 month ago)
 - [BASLQC/vnds](https://github.com/BASLQC/vnds) - VNDS is a standard for very simple and easy to use Visual Novel scripts. It was originally developed for the Nintendo DS, but now supports Android, iOS, PSP, and even Javascript. (1 month ago)
