@@ -55,7 +55,7 @@
 
 ### 📓 Gists I wrote
 
-- [](https://gist.github.com/3288859d4b466f530706aa556347de9f) (2 days ago)
+- [](https://gist.github.com/3288859d4b466f530706aa556347de9f) (3 days ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (2 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (2 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (2 years ago)
@@ -63,6 +63,8 @@
 
 ### ⭐ Recent Stars
 
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 day ago)
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 day ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (1 week ago)
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (2 weeks ago)
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (4 weeks ago)
@@ -71,8 +73,6 @@
 - [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (2 months ago)
 - [BASLQC/vnds](https://github.com/BASLQC/vnds) - VNDS is a standard for very simple and easy to use Visual Novel scripts. It was originally developed for the Nintendo DS, but now supports Android, iOS, PSP, and even Javascript. (2 months ago)
 - [DS-Homebrew/vnds](https://github.com/DS-Homebrew/vnds) -  (2 months ago)
-- [MechanicalDragon0687/ndsForwarder](https://github.com/MechanicalDragon0687/ndsForwarder) - Generate and Install NDS Forwarders (2 months ago)
-- [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS &#34;Custom Firmware&#34; (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
