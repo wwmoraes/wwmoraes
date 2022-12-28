@@ -51,7 +51,7 @@
 
 ### 📜 My recent blog posts
 
-- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (11 months ago)
+- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (1 year ago)
 
 ### 📓 Gists I wrote
 
@@ -63,6 +63,7 @@
 
 ### ⭐ Recent Stars
 
+- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (1 day ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 week ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 week ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (2 weeks ago)
@@ -72,7 +73,6 @@
 - [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (2 months ago)
 - [Rinnegatamante/3dsxlauncher_loader](https://github.com/Rinnegatamante/3dsxlauncher_loader) - CIA forwarder for 3DSX homebrews. (2 months ago)
 - [BASLQC/vnds](https://github.com/BASLQC/vnds) - VNDS is a standard for very simple and easy to use Visual Novel scripts. It was originally developed for the Nintendo DS, but now supports Android, iOS, PSP, and even Javascript. (2 months ago)
-- [DS-Homebrew/vnds](https://github.com/DS-Homebrew/vnds) -  (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
