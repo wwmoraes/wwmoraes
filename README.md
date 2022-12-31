@@ -63,7 +63,7 @@
 
 ### ⭐ Recent Stars
 
-- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (3 days ago)
+- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (4 days ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 week ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 week ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (2 weeks ago)
