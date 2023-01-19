@@ -14,7 +14,7 @@
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (4 months ago)
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Terraform Azure DevOps provider (5 months ago)
 - [wwmoraes/userscripts](https://github.com/wwmoraes/userscripts) - Userscripts and libraries to ease life (6 months ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 months ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (7 months ago)
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface (9 months ago)
 
 ### 🌱 My pet projects
@@ -65,8 +65,8 @@
 
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (1 week ago)
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (3 weeks ago)
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (4 weeks ago)
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (4 weeks ago)
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 month ago)
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 month ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (1 month ago)
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (1 month ago)
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (1 month ago)
