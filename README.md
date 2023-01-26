@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 month ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (3 months ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (3 months ago)
@@ -64,7 +64,7 @@
 ### ⭐ Recent Stars
 
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (2 weeks ago)
-- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (4 weeks ago)
+- [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (1 month ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 month ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 month ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (1 month ago)
