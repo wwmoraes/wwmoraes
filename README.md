@@ -44,10 +44,10 @@
 - [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (5 months ago)
 - [chore: updated build tags](https://github.com/wwmoraes/kubegraph/pull/179) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (5 months ago)
 - [fix: icons target dependencies](https://github.com/wwmoraes/kubegraph/pull/178) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (5 months ago)
-- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (5 months ago)
-- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (5 months ago)
-- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (5 months ago)
-- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (5 months ago)
+- [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (6 months ago)
+- [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (6 months ago)
+- [style: fix issues](https://github.com/wwmoraes/kubegraph/pull/168) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (6 months ago)
+- [ci: added pre-commit config](https://github.com/wwmoraes/kubegraph/pull/167) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (6 months ago)
 
 ### 📜 My recent blog posts
 
@@ -68,7 +68,7 @@
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 month ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 month ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (1 month ago)
-- [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (1 month ago)
+- [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (2 months ago)
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (2 months ago)
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (2 months ago)
 - [ipodtouchdude/iOS-2-M1](https://github.com/ipodtouchdude/iOS-2-M1) - This converts iOS apps to Apple M1 (silicon) apps. (3 months ago)
