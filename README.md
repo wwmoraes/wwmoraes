@@ -55,7 +55,7 @@
 
 ### 📓 Gists I wrote
 
-- [](https://gist.github.com/3288859d4b466f530706aa556347de9f) (1 month ago)
+- [](https://gist.github.com/3288859d4b466f530706aa556347de9f) (2 months ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (2 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (2 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (2 years ago)
