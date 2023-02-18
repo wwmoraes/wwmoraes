@@ -65,8 +65,8 @@
 
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (1 month ago)
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (1 month ago)
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (1 month ago)
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 month ago)
+- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (2 months ago)
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (2 months ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (2 months ago)
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (2 months ago)
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (2 months ago)
