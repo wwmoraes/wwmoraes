@@ -33,7 +33,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.45.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.45.0), 3 weeks ago) - Azure Command-Line Interface
-- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.3.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.3.0), 3 months ago) - Terraform Azure DevOps provider
+- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.3.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.3.0), 4 months ago) - Terraform Azure DevOps provider
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
