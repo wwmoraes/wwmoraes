@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 1 day ago) - Azure Command-Line Interface
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) ([azure-cli-2.46.0](https://github.com/Azure/azure-cli/releases/tag/azure-cli-2.46.0), 2 days ago) - Azure Command-Line Interface
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.3.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.3.0), 4 months ago) - Terraform Azure DevOps provider
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -63,7 +63,7 @@
 
 ### ⭐ Recent Stars
 
-- [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (1 month ago)
+- [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (2 months ago)
 - [kofigumbs/multi](https://github.com/kofigumbs/multi) - Create a custom, lightweight macOS app from a group of websites (2 months ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (2 months ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (2 months ago)
