@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker https://github.com/pvpgn/pvpgn-server (1 month ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 months ago)
@@ -32,12 +32,12 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.4.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.4.0), 3 weeks ago) - Terraform Azure DevOps provider
+- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.4.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.4.0), 4 weeks ago) - Terraform Azure DevOps provider
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
 
-- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (1 week ago)
+- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (2 weeks ago)
 - [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (2 weeks ago)
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (6 months ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (7 months ago)
@@ -62,7 +62,7 @@
 
 ### ⭐ Recent Stars
 
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (2 days ago)
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (3 days ago)
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier (2 weeks ago)
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (3 months ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (3 months ago)
