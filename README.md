@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 days ago)
-- [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker https://github.com/pvpgn/pvpgn-server (1 month ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
+- [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker https://github.com/pvpgn/pvpgn-server (2 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 months ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (6 months ago)
@@ -63,7 +63,7 @@
 ### ⭐ Recent Stars
 
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (1 week ago)
-- [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier (3 weeks ago)
+- [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier (4 weeks ago)
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (3 months ago)
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (4 months ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (4 months ago)
