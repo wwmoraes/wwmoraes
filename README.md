@@ -6,11 +6,11 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker (2 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 months ago)
-- [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (6 months ago)
+- [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (7 months ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (7 months ago)
 - [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (7 months ago)
 - [wwmoraes/docker-engine-plugins](https://github.com/wwmoraes/docker-engine-plugins) - Docker Engine plugins (7 months ago)
@@ -62,6 +62,7 @@
 
 ### ⭐ Recent Stars
 
+- [WalshyDev/cf-pages-await](https://github.com/WalshyDev/cf-pages-await) - Wait for your Cloudflare Pages builds to finish! (1 day ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (3 weeks ago)
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier (1 month ago)
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (3 months ago)
@@ -71,7 +72,6 @@
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (5 months ago)
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (5 months ago)
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (5 months ago)
-- [MechanicalDragon0687/ndsForwarder](https://github.com/MechanicalDragon0687/ndsForwarder) - Generate and Install NDS Forwarders (6 months ago)
 
 ### 👯 Check out some of my recent followers
 
