@@ -6,11 +6,11 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (2 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
+- [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (3 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker (2 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 months ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 months ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 months ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (7 months ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (7 months ago)
 - [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (7 months ago)
@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.5.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.5.0), 1 week ago) - Terraform Azure DevOps provider
+- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.5.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.5.0), 2 weeks ago) - Terraform Azure DevOps provider
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
@@ -62,7 +62,7 @@
 
 ### ⭐ Recent Stars
 
-- [WalshyDev/cf-pages-await](https://github.com/WalshyDev/cf-pages-await) - Wait for your Cloudflare Pages builds to finish! (4 days ago)
+- [WalshyDev/cf-pages-await](https://github.com/WalshyDev/cf-pages-await) - Wait for your Cloudflare Pages builds to finish! (5 days ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (3 weeks ago)
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier (1 month ago)
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (4 months ago)
