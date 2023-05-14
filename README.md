@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (5 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
+- [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (6 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker (2 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 months ago)
@@ -42,9 +42,9 @@
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (7 months ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (8 months ago)
 - [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (8 months ago)
-- [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (8 months ago)
-- [chore: updated build tags](https://github.com/wwmoraes/kubegraph/pull/179) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (8 months ago)
-- [fix: icons target dependencies](https://github.com/wwmoraes/kubegraph/pull/178) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (8 months ago)
+- [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
+- [chore: updated build tags](https://github.com/wwmoraes/kubegraph/pull/179) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
+- [fix: icons target dependencies](https://github.com/wwmoraes/kubegraph/pull/178) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
 - [added syft &#43; grype](https://github.com/wwmoraes/kubegraph/pull/177) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
 - [ci: added grype settings and cache](https://github.com/wwmoraes/kubegraph/pull/169) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
 
