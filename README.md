@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (3 days ago)
-- [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (4 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
+- [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (4 days ago)
+- [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (5 days ago)
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (3 weeks ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker (3 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 months ago)
@@ -38,10 +38,10 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (4 days ago)
-- [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (4 days ago)
+- [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (5 days ago)
+- [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (5 days ago)
 - [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (1 month ago)
-- [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (1 month ago)
+- [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (2 months ago)
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (7 months ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
 - [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
@@ -63,6 +63,7 @@
 
 ### ⭐ Recent Stars
 
+- [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view (1 day ago)
 - [WalshyDev/cf-pages-await](https://github.com/WalshyDev/cf-pages-await) - Wait for your Cloudflare Pages builds to finish! (3 weeks ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (1 month ago)
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier (2 months ago)
@@ -72,7 +73,6 @@
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (5 months ago)
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (5 months ago)
 - [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (6 months ago)
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly (6 months ago)
 
 ### 👯 Check out some of my recent followers
 
