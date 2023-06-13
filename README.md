@@ -45,9 +45,9 @@
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (8 months ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
 - [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
-- [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
-- [chore: updated build tags](https://github.com/wwmoraes/kubegraph/pull/179) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
-- [fix: icons target dependencies](https://github.com/wwmoraes/kubegraph/pull/178) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (9 months ago)
+- [WIP: refactor/adapters](https://github.com/wwmoraes/kubegraph/pull/180) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (10 months ago)
+- [chore: updated build tags](https://github.com/wwmoraes/kubegraph/pull/179) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (10 months ago)
+- [fix: icons target dependencies](https://github.com/wwmoraes/kubegraph/pull/178) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (10 months ago)
 
 ### 📜 My recent blog posts
 
@@ -63,6 +63,7 @@
 
 ### ⭐ Recent Stars
 
+- [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (1 day ago)
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view (2 weeks ago)
 - [WalshyDev/cf-pages-await](https://github.com/WalshyDev/cf-pages-await) - Wait for your Cloudflare Pages builds to finish! (1 month ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (1 month ago)
@@ -72,7 +73,6 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (5 months ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (6 months ago)
 - [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (6 months ago)
-- [sol/hpack](https://github.com/sol/hpack) - hpack: A modern format for Haskell packages (6 months ago)
 
 ### 👯 Check out some of my recent followers
 
