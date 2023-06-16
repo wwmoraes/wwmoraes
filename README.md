@@ -7,7 +7,7 @@
 ### 👨‍💻 Here's what I'm currently working on
 
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
-- [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (2 weeks ago)
+- [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (3 weeks ago)
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (3 weeks ago)
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (1 month ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker (3 months ago)
@@ -55,7 +55,7 @@
 
 ### 📓 Gists I wrote
 
-- [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (5 months ago)
+- [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (6 months ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (2 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (2 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (2 years ago)
@@ -63,7 +63,8 @@
 
 ### ⭐ Recent Stars
 
-- [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (3 days ago)
+- [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents (1 day ago)
+- [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (4 days ago)
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view (2 weeks ago)
 - [WalshyDev/cf-pages-await](https://github.com/WalshyDev/cf-pages-await) - Wait for your Cloudflare Pages builds to finish! (1 month ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (2 months ago)
@@ -72,7 +73,6 @@
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (5 months ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (5 months ago)
 - [jdberry/tag](https://github.com/jdberry/tag) - A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags. (6 months ago)
-- [ivaaaan/smug](https://github.com/ivaaaan/smug) - Session manager and task runner for tmux. Start your development environment within one command. (6 months ago)
 
 ### 👯 Check out some of my recent followers
 
