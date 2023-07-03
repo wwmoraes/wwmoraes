@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.6.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.6.0), 5 days ago) - Terraform Azure DevOps provider
+- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.6.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.6.0), 6 days ago) - Terraform Azure DevOps provider
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 5 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -40,7 +40,7 @@
 
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (1 month ago)
 - [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (1 month ago)
-- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (2 months ago)
+- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (3 months ago)
 - [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (3 months ago)
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (8 months ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (10 months ago)
@@ -51,7 +51,7 @@
 
 ### 📜 My recent blog posts
 
-- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (4 days ago)
+- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (5 days ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
 ### 📓 Gists I wrote
@@ -65,7 +65,7 @@
 ### ⭐ Recent Stars
 
 - [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents (2 weeks ago)
-- [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (2 weeks ago)
+- [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (3 weeks ago)
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view (1 month ago)
 - [WalshyDev/cf-pages-await](https://github.com/WalshyDev/cf-pages-await) - Wait for your Cloudflare Pages builds to finish! (1 month ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (2 months ago)
