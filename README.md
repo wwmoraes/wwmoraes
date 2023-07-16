@@ -56,7 +56,7 @@
 
 ### 📓 Gists I wrote
 
-- [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (6 months ago)
+- [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (7 months ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (2 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (2 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (2 years ago)
@@ -64,7 +64,7 @@
 
 ### ⭐ Recent Stars
 
-- [utdemir/ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC&#43;musl for static executables (2 days ago)
+- [utdemir/ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC&#43;musl for static executables (3 days ago)
 - [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents (1 month ago)
 - [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (1 month ago)
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view (1 month ago)
