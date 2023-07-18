@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.6.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.6.0), 2 weeks ago) - Terraform Azure DevOps provider
+- [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ([v0.6.0](https://github.com/microsoft/terraform-provider-azuredevops/releases/tag/v0.6.0), 3 weeks ago) - Terraform Azure DevOps provider
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 6 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -64,7 +64,9 @@
 
 ### ⭐ Recent Stars
 
-- [utdemir/ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC&#43;musl for static executables (4 days ago)
+- [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList (1 day ago)
+- [JvSomeren/tautulli-watched-sync](https://github.com/JvSomeren/tautulli-watched-sync) - Use this script to make Tautulli for plex synchronize watched TV Shows to Trakt.tv and movies to Letterboxd (1 day ago)
+- [utdemir/ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC&#43;musl for static executables (5 days ago)
 - [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents (1 month ago)
 - [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (1 month ago)
 - [boppreh/steamgrid](https://github.com/boppreh/steamgrid) - Downloads images to fill your Steam grid view (1 month ago)
@@ -72,8 +74,6 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (3 months ago)
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier (3 months ago)
 - [tefkah/zotero-night](https://github.com/tefkah/zotero-night) - Night theme for Zotero UI and PDF (6 months ago)
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS (6 months ago)
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (6 months ago)
 
 ### 👯 Check out some of my recent followers
 
