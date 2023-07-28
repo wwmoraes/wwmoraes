@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (2 months ago)
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (2 months ago)
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (2 months ago)
@@ -51,7 +51,7 @@
 
 ### 📜 My recent blog posts
 
-- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (4 weeks ago)
+- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (1 month ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
 ### 📓 Gists I wrote
@@ -64,16 +64,16 @@
 
 ### ⭐ Recent Stars
 
-- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (2 days ago)
-- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (2 days ago)
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10&#43;. (3 days ago)
-- [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (4 days ago)
-- [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures (6 days ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (1 day ago)
+- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (3 days ago)
+- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (3 days ago)
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10&#43;. (4 days ago)
+- [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (5 days ago)
+- [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures (1 week ago)
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList (1 week ago)
 - [JvSomeren/tautulli-watched-sync](https://github.com/JvSomeren/tautulli-watched-sync) - Use this script to make Tautulli for plex synchronize watched TV Shows to Trakt.tv and movies to Letterboxd (1 week ago)
 - [utdemir/ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC&#43;musl for static executables (2 weeks ago)
 - [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents (1 month ago)
-- [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
