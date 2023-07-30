@@ -64,11 +64,11 @@
 
 ### ⭐ Recent Stars
 
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (2 days ago)
-- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (4 days ago)
-- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (4 days ago)
-- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10&#43;. (5 days ago)
-- [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (6 days ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (3 days ago)
+- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (5 days ago)
+- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (5 days ago)
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10&#43;. (6 days ago)
+- [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (1 week ago)
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures (1 week ago)
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList (1 week ago)
 - [JvSomeren/tautulli-watched-sync](https://github.com/JvSomeren/tautulli-watched-sync) - Use this script to make Tautulli for plex synchronize watched TV Shows to Trakt.tv and movies to Letterboxd (1 week ago)
