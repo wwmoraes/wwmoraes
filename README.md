@@ -64,9 +64,9 @@
 
 ### ⭐ Recent Stars
 
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (4 days ago)
-- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (6 days ago)
-- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (6 days ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (5 days ago)
+- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (1 week ago)
+- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (1 week ago)
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10&#43;. (1 week ago)
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (1 week ago)
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures (1 week ago)
