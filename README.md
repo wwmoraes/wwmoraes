@@ -6,6 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (2 months ago)
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (2 months ago)
@@ -15,10 +16,10 @@
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (7 months ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (10 months ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (10 months ago)
-- [wwmoraes/maker-snippets](https://github.com/wwmoraes/maker-snippets) - Maker repository with common GNU Make snippets (10 months ago)
 
 ### 🌱 My pet projects
 
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew
@@ -28,7 +29,6 @@
 - [wwmoraes/cadvisor](https://github.com/wwmoraes/cadvisor) - multi-platform cAdvisor container, because the world doesn&#39;t run on amd64 only
 - [wwmoraes/minit](https://github.com/wwmoraes/minit) - minimal subreaper for containers
 - [wwmoraes/eso-addons](https://github.com/wwmoraes/eso-addons) - Elder Scrolls Online addons
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website
 
 ### 🔭 Latest releases I've contributed to
 
@@ -64,8 +64,8 @@
 ### ⭐ Recent Stars
 
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (1 week ago)
-- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (1 week ago)
-- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (1 week ago)
+- [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (2 weeks ago)
+- [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (2 weeks ago)
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10&#43;. (2 weeks ago)
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab (2 weeks ago)
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures (2 weeks ago)
