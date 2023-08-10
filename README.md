@@ -32,6 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.1.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.1.0), 1 day ago) - anilist custom list provider for sonarr/radarr
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 7 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -63,7 +64,7 @@
 
 ### ⭐ Recent Stars
 
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (1 week ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (2 weeks ago)
 - [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle) - Plex HTTP Anidb Metadata Agent (HAMA) (2 weeks ago)
 - [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders... (2 weeks ago)
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10&#43;. (2 weeks ago)
@@ -71,7 +72,7 @@
 - [r3labs/diff](https://github.com/r3labs/diff) - A library for diffing golang structures (2 weeks ago)
 - [RickDB/PlexAniSync](https://github.com/RickDB/PlexAniSync) - Sync Plex anime library to AniList (3 weeks ago)
 - [JvSomeren/tautulli-watched-sync](https://github.com/JvSomeren/tautulli-watched-sync) - Use this script to make Tautulli for plex synchronize watched TV Shows to Trakt.tv and movies to Letterboxd (3 weeks ago)
-- [utdemir/ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC&#43;musl for static executables (3 weeks ago)
+- [utdemir/ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC&#43;musl for static executables (4 weeks ago)
 - [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents (1 month ago)
 
 ### 👯 Check out some of my recent followers
