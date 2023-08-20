@@ -6,13 +6,13 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (2 months ago)
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (2 months ago)
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (3 months ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker (5 months ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 months ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (7 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (8 months ago)
 - [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go (10 months ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (10 months ago)
@@ -64,24 +64,24 @@
 
 ### ⭐ Recent Stars
 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (today)
-- [pwoelfle/synology-cli](https://github.com/pwoelfle/synology-cli) - Access your Synology using Command Line Interface (today)
-- [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker) (today)
-- [felangel/mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks. (today)
-- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (today)
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (today)
-- [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records (today)
-- [goadesign/model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. (today)
-- [goadesign/clue](https://github.com/goadesign/clue) - Microservice instrumentation (today)
-- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (today)
+- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh (today)
+- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server (today)
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers. (today)
+- [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived (today)
+- [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster (today)
+- [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast (today)
+- [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (today)
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (today)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (1 day ago)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
+- [smart92dev](https://github.com/smart92dev)
+- [todsac](https://github.com/todsac)
 - [mvandermeulen](https://github.com/mvandermeulen)
 - [ariyurek](https://github.com/ariyurek)
 - [MrAnd3rs0n](https://github.com/MrAnd3rs0n)
-- [CansuKavukcu](https://github.com/CansuKavukcu)
-- [hsensier](https://github.com/hsensier)
 
 ### 📫 How to reach me
 
