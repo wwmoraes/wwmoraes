@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (today)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 days ago)
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 day ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (3 days ago)
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (3 months ago)
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (3 months ago)
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (3 months ago)
@@ -51,8 +51,8 @@
 
 ### 📜 My recent blog posts
 
-- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (2 days ago)
-- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (1 month ago)
+- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (3 days ago)
+- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (2 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
 ### 📓 Gists I wrote
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [Quiq/webauthn_proxy](https://github.com/Quiq/webauthn_proxy) - Proxy for enforcing webauthn authentication, written in Go (5 days ago)
-- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (6 days ago)
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications (6 days ago)
-- [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew (6 days ago)
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (6 days ago)
-- [trunk-io/trunk-action](https://github.com/trunk-io/trunk-action) - Trunk.io GitHub Action (6 days ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (6 days ago)
-- [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration. (6 days ago)
-- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...) (6 days ago)
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (6 days ago)
+- [wadey/gocovmerge](https://github.com/wadey/gocovmerge) - Merge coverprofile results from multiple go cover runs (1 day ago)
+- [Quiq/webauthn_proxy](https://github.com/Quiq/webauthn_proxy) - Proxy for enforcing webauthn authentication, written in Go (6 days ago)
+- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (1 week ago)
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications (1 week ago)
+- [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew (1 week ago)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 week ago)
+- [trunk-io/trunk-action](https://github.com/trunk-io/trunk-action) - Trunk.io GitHub Action (1 week ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (1 week ago)
+- [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration. (1 week ago)
+- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...) (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
