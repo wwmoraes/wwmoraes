@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 days ago)
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (5 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (6 days ago)
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (3 months ago)
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols. (3 months ago)
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (3 months ago)
@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.1.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.1.0), 2 weeks ago) - anilist custom list provider for sonarr/radarr
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.1.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.1.0), 3 weeks ago) - anilist custom list provider for sonarr/radarr
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 7 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -51,7 +51,7 @@
 
 ### 📜 My recent blog posts
 
-- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (5 days ago)
+- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (6 days ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (2 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
@@ -65,7 +65,7 @@
 
 ### ⭐ Recent Stars
 
-- [wadey/gocovmerge](https://github.com/wadey/gocovmerge) - Merge coverprofile results from multiple go cover runs (3 days ago)
+- [wadey/gocovmerge](https://github.com/wadey/gocovmerge) - Merge coverprofile results from multiple go cover runs (4 days ago)
 - [Quiq/webauthn_proxy](https://github.com/Quiq/webauthn_proxy) - Proxy for enforcing webauthn authentication, written in Go (1 week ago)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (1 week ago)
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications (1 week ago)
