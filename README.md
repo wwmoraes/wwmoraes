@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/interview](https://github.com/wwmoraes/interview) - PDF forms with IT questions for both sides of the interview (2 days ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 days ago)
+- [wwmoraes/interview](https://github.com/wwmoraes/interview) - PDF forms with IT questions for both sides of the interview (3 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (3 months ago)
@@ -33,7 +33,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.1.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.1.0), 3 weeks ago) - anilist custom list provider for sonarr/radarr
-- [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 7 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
+- [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 8 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. (1 day ago)
-- [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications (1 day ago)
-- [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API (1 day ago)
-- [wadey/gocovmerge](https://github.com/wadey/gocovmerge) - Merge coverprofile results from multiple go cover runs (6 days ago)
+- [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (1 day ago)
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. (2 days ago)
+- [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications (2 days ago)
+- [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API (2 days ago)
+- [wadey/gocovmerge](https://github.com/wadey/gocovmerge) - Merge coverprofile results from multiple go cover runs (1 week ago)
 - [Quiq/webauthn_proxy](https://github.com/Quiq/webauthn_proxy) - Proxy for enforcing webauthn authentication, written in Go (1 week ago)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (1 week ago)
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications (1 week ago)
 - [Universal-Team/Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - An easy to use app for installing and updating 3DS homebrew (1 week ago)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 week ago)
-- [trunk-io/trunk-action](https://github.com/trunk-io/trunk-action) - Trunk.io GitHub Action (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
