@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 days ago)
 - [wwmoraes/interview](https://github.com/wwmoraes/interview) - PDF forms with IT questions for both sides of the interview (1 week ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (3 months ago)
@@ -15,7 +15,7 @@
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions (4 months ago)
 - [wwmoraes/pvpgn-server-docker](https://github.com/wwmoraes/pvpgn-server-docker) - PvPGN-PRO server on Docker (6 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (7 months ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (8 months ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (9 months ago)
 
 ### 🌱 My pet projects
 
@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.1.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.1.0), 4 weeks ago) - anilist custom list provider for sonarr/radarr
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.1.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.1.0), 1 month ago) - anilist custom list provider for sonarr/radarr
 - [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 8 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 2 years ago) - Kubernetes resource graph generator
 
@@ -65,7 +65,7 @@
 
 ### ⭐ Recent Stars
 
-- [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (6 days ago)
+- [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (1 week ago)
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. (1 week ago)
 - [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications (1 week ago)
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API (1 week ago)
