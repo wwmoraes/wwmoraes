@@ -52,7 +52,7 @@
 ### 📜 My recent blog posts
 
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (1 month ago)
-- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (2 months ago)
+- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (3 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
 ### 📓 Gists I wrote
@@ -65,8 +65,9 @@
 
 ### ⭐ Recent Stars
 
-- [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer. (2 days ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (4 days ago)
+- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (1 day ago)
+- [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer. (3 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (5 days ago)
 - [marouni/adr](https://github.com/marouni/adr) - A minimalist command line tool written in Go to work with Architecture Decision Records (1 week ago)
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン (2 weeks ago)
 - [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (3 weeks ago)
@@ -74,7 +75,6 @@
 - [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications (3 weeks ago)
 - [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API (3 weeks ago)
 - [wadey/gocovmerge](https://github.com/wadey/gocovmerge) - Merge coverprofile results from multiple go cover runs (1 month ago)
-- [Quiq/webauthn_proxy](https://github.com/Quiq/webauthn_proxy) - Proxy for enforcing webauthn authentication, written in Go (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
