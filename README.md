@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 weeks ago)
 - [wwmoraes/interview](https://github.com/wwmoraes/interview) - PDF forms with IT questions for both sides of the interview (1 month ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (2 days ago)
-- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (4 days ago)
-- [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer. (6 days ago)
+- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (3 days ago)
+- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (5 days ago)
+- [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer. (1 week ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 week ago)
 - [marouni/adr](https://github.com/marouni/adr) - A minimalist command line tool written in Go to work with Architecture Decision Records (2 weeks ago)
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン (2 weeks ago)
 - [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (4 weeks ago)
-- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. (4 weeks ago)
-- [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications (4 weeks ago)
-- [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API (4 weeks ago)
+- [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. (1 month ago)
+- [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications (1 month ago)
+- [grafeas/grafeas](https://github.com/grafeas/grafeas) - Artifact Metadata API (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
