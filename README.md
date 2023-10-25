@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
-- [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (6 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 week ago)
 - [wwmoraes/plex-delete](https://github.com/wwmoraes/plex-delete) - belminf/plex-delete as a container (2 weeks ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
@@ -65,8 +65,8 @@
 ### ⭐ Recent Stars
 
 - [belminf/plex-delete](https://github.com/belminf/plex-delete) - Uses Plex&#39;s API to delete watched shows. (2 weeks ago)
-- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (3 weeks ago)
-- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (4 weeks ago)
+- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (4 weeks ago)
+- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (1 month ago)
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer. (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 month ago)
 - [marouni/adr](https://github.com/marouni/adr) - A minimalist command line tool written in Go to work with Architecture Decision Records (1 month ago)
