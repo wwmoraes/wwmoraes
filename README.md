@@ -6,11 +6,11 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (today)
-- [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 week ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
+- [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (2 weeks ago)
 - [wwmoraes/plex-delete](https://github.com/wwmoraes/plex-delete) - belminf/plex-delete as a container (3 weeks ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (3 weeks ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/interview](https://github.com/wwmoraes/interview) - PDF forms with IT questions for both sides of the interview (2 months ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 months ago)
@@ -33,7 +33,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.1.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.1.0), 2 months ago) - anilist custom list provider for sonarr/radarr
-- [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 9 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
+- [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) ([v0.6.0.2](https://github.com/qnikst/HaskellNet/releases/tag/v0.6.0.2), 10 months ago) - Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
 
 ### 🔨 My recent Pull Requests
 
@@ -64,6 +64,7 @@
 
 ### ⭐ Recent Stars
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
 - [belminf/plex-delete](https://github.com/belminf/plex-delete) - Uses Plex&#39;s API to delete watched shows. (3 weeks ago)
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (1 month ago)
 - [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (1 month ago)
@@ -73,7 +74,6 @@
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン (1 month ago)
 - [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (2 months ago)
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. (2 months ago)
-- [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
