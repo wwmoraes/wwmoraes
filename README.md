@@ -7,7 +7,7 @@
 ### 👨‍💻 Here's what I'm currently working on
 
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
-- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (4 days ago)
+- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (5 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 week ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (1 week ago)
@@ -64,7 +64,7 @@
 
 ### ⭐ Recent Stars
 
-- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell (4 days ago)
+- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell (5 days ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 - [belminf/plex-delete](https://github.com/belminf/plex-delete) - Uses Plex&#39;s API to delete watched shows. (1 month ago)
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (1 month ago)
@@ -72,7 +72,7 @@
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer. (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 month ago)
 - [marouni/adr](https://github.com/marouni/adr) - A minimalist command line tool written in Go to work with Architecture Decision Records (1 month ago)
-- [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン (1 month ago)
+- [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン (2 months ago)
 - [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (2 months ago)
 
 ### 👯 Check out some of my recent followers
