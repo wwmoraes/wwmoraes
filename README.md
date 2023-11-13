@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 week ago)
@@ -56,7 +56,7 @@
 
 ### 📓 Gists I wrote
 
-- [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (10 months ago)
+- [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (11 months ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (2 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (2 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (2 years ago)
@@ -71,7 +71,7 @@
 - [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (1 month ago)
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer. (1 month ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 month ago)
-- [marouni/adr](https://github.com/marouni/adr) - A minimalist command line tool written in Go to work with Architecture Decision Records (1 month ago)
+- [marouni/adr](https://github.com/marouni/adr) - A minimalist command line tool written in Go to work with Architecture Decision Records (2 months ago)
 - [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン (2 months ago)
 - [1pkg/gopium](https://github.com/1pkg/gopium) - Gopium 🌺: Smart Go Structures Optimizer and Manager (2 months ago)
 
