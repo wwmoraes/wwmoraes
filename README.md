@@ -6,16 +6,16 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
-- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (1 week ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 weeks ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
+- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (2 weeks ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (2 weeks ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 weeks ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 month ago)
 - [wwmoraes/plex-delete](https://github.com/wwmoraes/plex-delete) - belminf/plex-delete as a container (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
 - [wwmoraes/interview](https://github.com/wwmoraes/interview) - PDF forms with IT questions for both sides of the interview (2 months ago)
-- [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell (5 months ago)
 
 ### 🌱 My pet projects
 
@@ -64,7 +64,7 @@
 
 ### ⭐ Recent Stars
 
-- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell (1 week ago)
+- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell (2 weeks ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 weeks ago)
 - [belminf/plex-delete](https://github.com/belminf/plex-delete) - Uses Plex&#39;s API to delete watched shows. (1 month ago)
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (1 month ago)
