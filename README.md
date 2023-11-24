@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 days ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (6 days ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (2 weeks ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (3 weeks ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (3 weeks ago)
@@ -50,7 +50,7 @@
 
 ### 📜 My recent blog posts
 
-- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (4 days ago)
+- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (5 days ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (3 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (4 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (1 day ago)
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT (1 day ago)
-- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (1 day ago)
-- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (2 days ago)
-- [its-danny/koji](https://github.com/its-danny/koji) - 🦊 An interactive CLI for creating conventional commits.  (2 days ago)
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (2 days ago)
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT (2 days ago)
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (2 days ago)
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (3 days ago)
+- [its-danny/koji](https://github.com/its-danny/koji) - 🦊 An interactive CLI for creating conventional commits.  (3 days ago)
 - [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell (2 weeks ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 weeks ago)
 - [belminf/plex-delete](https://github.com/belminf/plex-delete) - Uses Plex&#39;s API to delete watched shows. (1 month ago)
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (1 month ago)
-- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (1 month ago)
+- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
