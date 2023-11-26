@@ -7,9 +7,9 @@
 ### 👨‍💻 Here's what I'm currently working on
 
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 week ago)
-- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (2 weeks ago)
+- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (3 weeks ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (3 weeks ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (3 weeks ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 month ago)
@@ -40,7 +40,7 @@
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (6 months ago)
 - [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (6 months ago)
 - [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (7 months ago)
-- [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (7 months ago)
+- [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (8 months ago)
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
 - [ci: updated PR template](https://github.com/wwmoraes/kubegraph/pull/188) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
@@ -50,7 +50,7 @@
 
 ### 📜 My recent blog posts
 
-- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (6 days ago)
+- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (1 week ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (3 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (5 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
@@ -60,21 +60,21 @@
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (11 months ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (2 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (2 years ago)
-- [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (2 years ago)
+- [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (3 years ago)
 - [semantic versioning cheat sheet #cheat-sheet #git #semantic](https://gist.github.com/bd2ba1b347dd38ce9af9706388eed74f) (3 years ago)
 
 ### ⭐ Recent Stars
 
-- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (3 days ago)
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT (3 days ago)
-- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (3 days ago)
-- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (4 days ago)
-- [its-danny/koji](https://github.com/its-danny/koji) - 🦊 An interactive CLI for creating conventional commits.  (4 days ago)
-- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell (2 weeks ago)
+- [dsully/macos-defaults](https://github.com/dsully/macos-defaults) - A tool for managing macOS defaults declaratively via YAML files. (1 day ago)
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (4 days ago)
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT (4 days ago)
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (4 days ago)
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox (5 days ago)
+- [its-danny/koji](https://github.com/its-danny/koji) - 🦊 An interactive CLI for creating conventional commits.  (5 days ago)
+- [hspec/hspec](https://github.com/hspec/hspec) - A Testing Framework for Haskell (3 weeks ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 weeks ago)
 - [belminf/plex-delete](https://github.com/belminf/plex-delete) - Uses Plex&#39;s API to delete watched shows. (1 month ago)
-- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (1 month ago)
-- [slater1/BrowseRouter](https://github.com/slater1/BrowseRouter) - In Windows, launch a different browser depending on the url (2 months ago)
+- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
