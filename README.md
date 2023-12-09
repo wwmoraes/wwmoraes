@@ -6,12 +6,12 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 days ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 days ago)
-- [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (2 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 days ago)
+- [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (3 days ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (1 week ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (2 weeks ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (3 weeks ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (1 month ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 month ago)
@@ -50,7 +50,7 @@
 
 ### 📜 My recent blog posts
 
-- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (5 days ago)
+- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (6 days ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (2 weeks ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (3 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (5 months ago)
@@ -66,11 +66,11 @@
 
 ### ⭐ Recent Stars
 
-- [codeclimate/test-reporter](https://github.com/codeclimate/test-reporter) - Code Climate Test Reporter (3 days ago)
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (3 days ago)
+- [codeclimate/test-reporter](https://github.com/codeclimate/test-reporter) - Code Climate Test Reporter (4 days ago)
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (4 days ago)
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (1 week ago)
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system. (1 week ago)
-- [dsully/macos-defaults](https://github.com/dsully/macos-defaults) - A tool for managing macOS defaults declaratively via YAML files. (1 week ago)
+- [dsully/macos-defaults](https://github.com/dsully/macos-defaults) - A tool for managing macOS defaults declaratively via YAML files. (2 weeks ago)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (2 weeks ago)
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT (2 weeks ago)
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (2 weeks ago)
