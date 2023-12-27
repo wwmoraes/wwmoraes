@@ -8,8 +8,8 @@
 
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
-- [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (2 weeks ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 weeks ago)
+- [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (3 weeks ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (3 weeks ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 month ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
@@ -66,13 +66,13 @@
 
 ### ⭐ Recent Stars
 
-- [sschaeffner/pipxe4](https://github.com/sschaeffner/pipxe4) - iPXE for the Raspberry Pi 4 (4 days ago)
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (1 week ago)
+- [sschaeffner/pipxe4](https://github.com/sschaeffner/pipxe4) - iPXE for the Raspberry Pi 4 (5 days ago)
+- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (2 weeks ago)
 - [fpco/pid1](https://github.com/fpco/pid1) - Do signal handling and orphan reaping for Unix PID1 init processes (2 weeks ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 weeks ago)
 - [codeclimate/test-reporter](https://github.com/codeclimate/test-reporter) - Code Climate Test Reporter (3 weeks ago)
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (3 weeks ago)
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (4 weeks ago)
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (1 month ago)
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system. (1 month ago)
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults) - A tool for managing macOS defaults declaratively via YAML files. (1 month ago)
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool (1 month ago)
