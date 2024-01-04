@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (today)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 weeks ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (4 weeks ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (1 month ago)
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (5 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 day ago)
+- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (1 day ago)
+- [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website&#39;s cache via the Cloudflare API (1 day ago)
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (1 day ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 day ago)
+- [raystack/stencil](https://github.com/raystack/stencil) - Stencil is a schema registry that provides schema management and validation dynamically, efficiently, and reliably to ensure data compatibility across applications. (1 day ago)
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (6 days ago)
 - [sschaeffner/pipxe4](https://github.com/sschaeffner/pipxe4) - iPXE for the Raspberry Pi 4 (1 week ago)
 - [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (3 weeks ago)
 - [fpco/pid1](https://github.com/fpco/pid1) - Do signal handling and orphan reaping for Unix PID1 init processes (3 weeks ago)
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
-- [codeclimate/test-reporter](https://github.com/codeclimate/test-reporter) - Code Climate Test Reporter (4 weeks ago)
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language (4 weeks ago)
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby&#39;s dotenv library (Loads environment variables from .env files) (1 month ago)
-- [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system. (1 month ago)
-- [dsully/macos-defaults](https://github.com/dsully/macos-defaults) - A tool for managing macOS defaults declaratively via YAML files. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
