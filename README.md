@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (1 month ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (1 month ago)
@@ -66,6 +66,8 @@
 
 ### ⭐ Recent Stars
 
+- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (1 day ago)
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (1 day ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 week ago)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (1 week ago)
 - [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website&#39;s cache via the Cloudflare API (1 week ago)
@@ -74,8 +76,6 @@
 - [raystack/stencil](https://github.com/raystack/stencil) - Stencil is a schema registry that provides schema management and validation dynamically, efficiently, and reliably to ensure data compatibility across applications. (1 week ago)
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (2 weeks ago)
 - [sschaeffner/pipxe4](https://github.com/sschaeffner/pipxe4) - iPXE for the Raspberry Pi 4 (3 weeks ago)
-- [dagger/dagger-for-github](https://github.com/dagger/dagger-for-github) - GitHub Action for Dagger (1 month ago)
-- [fpco/pid1](https://github.com/fpco/pid1) - Do signal handling and orphan reaping for Unix PID1 init processes (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
