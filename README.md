@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (1 month ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (1 month ago)
@@ -37,8 +37,8 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (7 months ago)
-- [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (7 months ago)
+- [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (8 months ago)
+- [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (8 months ago)
 - [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (9 months ago)
 - [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (9 months ago)
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
@@ -66,9 +66,9 @@
 
 ### ⭐ Recent Stars
 
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (3 days ago)
-- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (5 days ago)
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (5 days ago)
+- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (4 days ago)
+- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (6 days ago)
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (6 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 weeks ago)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (2 weeks ago)
 - [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website&#39;s cache via the Cloudflare API (2 weeks ago)
