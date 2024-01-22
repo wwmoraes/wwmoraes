@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (1 month ago)
@@ -66,7 +66,7 @@
 
 ### ⭐ Recent Stars
 
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (5 days ago)
+- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (6 days ago)
 - [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (1 week ago)
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (1 week ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 weeks ago)
