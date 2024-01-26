@@ -73,9 +73,9 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (3 weeks ago)
 - [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website&#39;s cache via the Cloudflare API (3 weeks ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (3 weeks ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search &amp; Analytics (3 weeks ago)
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (3 weeks ago)
 - [raystack/stencil](https://github.com/raystack/stencil) - Stencil is a schema registry that provides schema management and validation dynamically, efficiently, and reliably to ensure data compatibility across applications. (3 weeks ago)
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (3 weeks ago)
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (4 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
