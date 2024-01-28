@@ -8,7 +8,7 @@
 
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (1 month ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (1 month ago)
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 day ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 day ago)
+- [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (1 day ago)
+- [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (1 day ago)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (1 week ago)
-- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (1 week ago)
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (1 week ago)
+- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (2 weeks ago)
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (2 weeks ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 weeks ago)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (3 weeks ago)
 - [jakejarvis/cloudflare-purge-action](https://github.com/jakejarvis/cloudflare-purge-action) - 🗑️ GitHub Action to purge a website&#39;s cache via the Cloudflare API (3 weeks ago)
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (3 weeks ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (3 weeks ago)
-- [raystack/stencil](https://github.com/raystack/stencil) - Stencil is a schema registry that provides schema management and validation dynamically, efficiently, and reliably to ensure data compatibility across applications. (3 weeks ago)
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (4 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
