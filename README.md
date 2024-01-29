@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 day ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 days ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
@@ -39,7 +39,7 @@
 
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (8 months ago)
 - [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (8 months ago)
-- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (9 months ago)
+- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (10 months ago)
 - [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (10 months ago)
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (1 year ago)
@@ -66,10 +66,10 @@
 
 ### ⭐ Recent Stars
 
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 day ago)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 day ago)
-- [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (1 day ago)
-- [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (1 day ago)
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (2 days ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (2 days ago)
+- [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (2 days ago)
+- [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (2 days ago)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (1 week ago)
 - [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (2 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (2 weeks ago)
