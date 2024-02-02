@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (5 days ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (6 days ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (3 days ago)
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (3 days ago)
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (5 days ago)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (5 days ago)
-- [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (5 days ago)
-- [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (5 days ago)
+- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (4 days ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (4 days ago)
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (6 days ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (6 days ago)
+- [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (6 days ago)
+- [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (6 days ago)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (2 weeks ago)
 - [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (2 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (2 weeks ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (4 weeks ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
