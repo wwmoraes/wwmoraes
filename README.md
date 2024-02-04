@@ -8,9 +8,9 @@
 
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 week ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
-- [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (1 month ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
+- [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (2 months ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (2 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (2 months ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (3 months ago)
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (1 day ago)
-- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (5 days ago)
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (5 days ago)
+- [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (2 days ago)
+- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (6 days ago)
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (6 days ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 week ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 week ago)
 - [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (1 week ago)
 - [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (1 week ago)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (2 weeks ago)
-- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (2 weeks ago)
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (2 weeks ago)
+- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (3 weeks ago)
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
