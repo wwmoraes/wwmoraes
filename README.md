@@ -66,14 +66,14 @@
 
 ### ⭐ Recent Stars
 
-- [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (3 days ago)
+- [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (4 days ago)
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (1 week ago)
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 week ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 week ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 week ago)
 - [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (1 week ago)
 - [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (1 week ago)
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (2 weeks ago)
+- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (3 weeks ago)
 - [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (3 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure (3 weeks ago)
 
