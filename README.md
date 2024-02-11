@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 days ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (3 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (2 months ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (2 months ago)
@@ -66,7 +66,8 @@
 
 ### ⭐ Recent Stars
 
-- [golift/starr](https://github.com/golift/starr) - Go Library to interact with Lidarr, Prowlarr, Radarr, Readarr, and Sonarr APIs. (3 days ago)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 day ago)
+- [golift/starr](https://github.com/golift/starr) - Go Library to interact with Lidarr, Prowlarr, Radarr, Readarr, and Sonarr APIs. (4 days ago)
 - [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (1 week ago)
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (1 week ago)
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 week ago)
@@ -75,7 +76,6 @@
 - [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (2 weeks ago)
 - [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (2 weeks ago)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (3 weeks ago)
-- [uptech/git-ps-rs](https://github.com/uptech/git-ps-rs) - Official git-ps Rust implementation - the future of git-ps (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
