@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
@@ -51,7 +51,7 @@
 ### 📜 My recent blog posts
 
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (2 months ago)
-- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (2 months ago)
+- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (3 months ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (5 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (7 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption. (4 days ago)
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (6 days ago)
+- [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption. (5 days ago)
+- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 week ago)
 - [golift/starr](https://github.com/golift/starr) - Go Library to interact with Lidarr, Prowlarr, Radarr, Readarr, and Sonarr APIs. (1 week ago)
 - [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (2 weeks ago)
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (2 weeks ago)
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (2 weeks ago)
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (2 weeks ago)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (2 weeks ago)
-- [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (2 weeks ago)
-- [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (2 weeks ago)
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (3 weeks ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (3 weeks ago)
+- [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy (3 weeks ago)
+- [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
