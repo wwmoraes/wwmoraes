@@ -70,7 +70,7 @@
 - [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption. (2 weeks ago)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (2 weeks ago)
 - [golift/starr](https://github.com/golift/starr) - Go Library to interact with Lidarr, Prowlarr, Radarr, Readarr, and Sonarr APIs. (3 weeks ago)
-- [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (3 weeks ago)
+- [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI (4 weeks ago)
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles (1 month ago)
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 month ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (1 month ago)
