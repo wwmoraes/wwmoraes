@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
@@ -66,8 +66,8 @@
 
 ### ⭐ Recent Stars
 
-- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (1 day ago)
-- [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (1 day ago)
+- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (2 days ago)
+- [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (2 days ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository (1 week ago)
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (3 weeks ago)
 - [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption. (1 month ago)
