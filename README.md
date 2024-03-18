@@ -51,7 +51,7 @@
 ### 📜 My recent blog posts
 
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (3 months ago)
-- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (3 months ago)
+- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (4 months ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (6 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (8 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
@@ -66,8 +66,8 @@
 
 ### ⭐ Recent Stars
 
-- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (4 days ago)
-- [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (4 days ago)
+- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (5 days ago)
+- [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (5 days ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository (1 week ago)
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (3 weeks ago)
 - [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption. (1 month ago)
@@ -79,11 +79,11 @@
 
 ### 👯 Check out some of my recent followers
 
-- [Operathi](https://github.com/Operathi)
 - [GoliVamshi](https://github.com/GoliVamshi)
 - [mvandermeulen](https://github.com/mvandermeulen)
 - [ariyurek](https://github.com/ariyurek)
 - [MrAnd3rs0n](https://github.com/MrAnd3rs0n)
+- [CansuKavukcu](https://github.com/CansuKavukcu)
 
 ### 📫 How to reach me
 
