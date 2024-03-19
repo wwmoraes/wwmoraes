@@ -66,9 +66,9 @@
 
 ### ⭐ Recent Stars
 
-- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (5 days ago)
-- [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (5 days ago)
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository (1 week ago)
+- [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (6 days ago)
+- [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (6 days ago)
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository (2 weeks ago)
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (3 weeks ago)
 - [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption. (1 month ago)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 month ago)
