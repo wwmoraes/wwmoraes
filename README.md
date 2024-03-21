@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
@@ -52,7 +52,7 @@
 
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (3 months ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (4 months ago)
-- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (6 months ago)
+- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (7 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (8 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
@@ -69,7 +69,7 @@
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (1 week ago)
 - [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (1 week ago)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository (2 weeks ago)
-- [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (3 weeks ago)
+- [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (4 weeks ago)
 - [Shopify/ejson](https://github.com/Shopify/ejson) - EJSON is a small library to manage encrypted secrets using asymmetric encryption. (1 month ago)
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library (1 month ago)
 - [golift/starr](https://github.com/golift/starr) - Go Library to interact with Lidarr, Prowlarr, Radarr, Readarr, and Sonarr APIs. (1 month ago)
