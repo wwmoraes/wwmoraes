@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
@@ -53,7 +53,7 @@
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (3 months ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (4 months ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (7 months ago)
-- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (8 months ago)
+- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (9 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
 ### 📓 Gists I wrote
