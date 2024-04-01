@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 weeks ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (3 months ago)
@@ -50,7 +50,7 @@
 
 ### 📜 My recent blog posts
 
-- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (3 months ago)
+- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (4 months ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (4 months ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (7 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (9 months ago)
@@ -66,7 +66,7 @@
 
 ### ⭐ Recent Stars
 
-- [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (3 days ago)
+- [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (4 days ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 week ago)
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (2 weeks ago)
 - [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (2 weeks ago)
