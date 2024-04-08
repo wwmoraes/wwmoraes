@@ -9,7 +9,7 @@
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 months ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (4 months ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (4 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 months ago)
@@ -66,7 +66,7 @@
 
 ### ⭐ Recent Stars
 
-- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (2 days ago)
+- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (3 days ago)
 - [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (1 week ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (2 weeks ago)
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (3 weeks ago)
