@@ -66,7 +66,7 @@
 
 ### ⭐ Recent Stars
 
-- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (3 days ago)
+- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (4 days ago)
 - [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (1 week ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (2 weeks ago)
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (3 weeks ago)
