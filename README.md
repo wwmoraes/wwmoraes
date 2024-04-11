@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 months ago)
@@ -66,8 +66,8 @@
 
 ### ⭐ Recent Stars
 
-- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (5 days ago)
-- [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (1 week ago)
+- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (6 days ago)
+- [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (2 weeks ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (2 weeks ago)
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (4 weeks ago)
 - [conventionalcommit/commitlint](https://github.com/conventionalcommit/commitlint) - commitlint checks if your commit messages meets the conventional commit format (4 weeks ago)
