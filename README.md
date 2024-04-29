@@ -6,14 +6,14 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 months ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (4 months ago)
-- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (4 months ago)
+- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (5 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 months ago)
-- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (5 months ago)
+- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (6 months ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (6 months ago)
 - [wwmoraes/plex-delete](https://github.com/wwmoraes/plex-delete) - belminf/plex-delete as a container (6 months ago)
 
@@ -66,8 +66,8 @@
 
 ### ⭐ Recent Stars
 
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 day ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (1 week ago)
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (1 week ago)
 - [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (3 weeks ago)
 - [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (1 month ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 month ago)
