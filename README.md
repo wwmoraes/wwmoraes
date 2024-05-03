@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 months ago)
@@ -66,12 +66,12 @@
 
 ### ⭐ Recent Stars
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 day ago)
-- [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell (1 day ago)
-- [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. (1 day ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (4 days ago)
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (1 week ago)
-- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (3 weeks ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (2 days ago)
+- [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell (2 days ago)
+- [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. (2 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (5 days ago)
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (2 weeks ago)
+- [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (4 weeks ago)
 - [miladabc/gonfig](https://github.com/miladabc/gonfig) - Tag based configuration loader from different providers (1 month ago)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System (1 month ago)
 - [SKalt/git-cc](https://github.com/SKalt/git-cc) - a git extension to help write conventional commits (1 month ago)
