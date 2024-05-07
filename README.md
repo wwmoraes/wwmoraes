@@ -6,7 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
+- [wwmoraes/lefthook-configs](https://github.com/wwmoraes/lefthook-configs) - lefthook git hooks manager configurations (today)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (2 months ago)
@@ -15,10 +16,10 @@
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 months ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (6 months ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (6 months ago)
-- [wwmoraes/plex-delete](https://github.com/wwmoraes/plex-delete) - belminf/plex-delete as a container (7 months ago)
 
 ### 🌱 My pet projects
 
+- [wwmoraes/lefthook-configs](https://github.com/wwmoraes/lefthook-configs) - lefthook git hooks manager configurations
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack
 - [wwmoraes/plex-delete](https://github.com/wwmoraes/plex-delete) - belminf/plex-delete as a container
@@ -28,7 +29,6 @@
 - [wwmoraes/imapfilter](https://github.com/wwmoraes/imapfilter) - IMAP message filtering and actions for humans, in pure Haskell
 - [wwmoraes/cis1940](https://github.com/wwmoraes/cis1940) - CIS 194: Introduction to Haskell homework resources and solutions
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew
-- [wwmoraes/siever](https://github.com/wwmoraes/siever) - RFC5804-compliant ManageSieve client in pure Go
 
 ### 🔭 Latest releases I've contributed to
 
@@ -66,9 +66,9 @@
 
 ### ⭐ Recent Stars
 
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (5 days ago)
-- [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell (5 days ago)
-- [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. (5 days ago)
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (6 days ago)
+- [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell (6 days ago)
+- [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. (6 days ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 week ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (2 weeks ago)
 - [josharian/impl](https://github.com/josharian/impl) - impl generates method stubs for implementing an interface. (1 month ago)
