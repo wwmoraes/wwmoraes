@@ -66,8 +66,8 @@
 
 ### ⭐ Recent Stars
 
-- [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned &#34;Learn You a Haskell&#34; (LYAH) tutorials collection! (1 week ago)
-- [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell (1 week ago)
+- [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned &#34;Learn You a Haskell&#34; (LYAH) tutorials collection! (2 weeks ago)
+- [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell (2 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (3 weeks ago)
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell (3 weeks ago)
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. (3 weeks ago)
