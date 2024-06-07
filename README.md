@@ -11,7 +11,7 @@
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 months ago)
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (3 months ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (4 months ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (6 months ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (6 months ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (7 months ago)
@@ -65,9 +65,9 @@
 
 ### ⭐ Recent Stars
 
-- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (3 days ago)
-- [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned &#34;Learn You a Haskell&#34; (LYAH) tutorials collection! (3 weeks ago)
-- [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell (3 weeks ago)
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (4 days ago)
+- [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned &#34;Learn You a Haskell&#34; (LYAH) tutorials collection! (4 weeks ago)
+- [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell (4 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 month ago)
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell (1 month ago)
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. (1 month ago)
