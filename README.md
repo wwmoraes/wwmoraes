@@ -7,7 +7,7 @@
 ### 👨‍💻 Here's what I'm currently working on
 
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (3 weeks ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 weeks ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 months ago)
@@ -65,7 +65,7 @@
 
 ### ⭐ Recent Stars
 
-- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (4 days ago)
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (5 days ago)
 - [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned &#34;Learn You a Haskell&#34; (LYAH) tutorials collection! (4 weeks ago)
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell (4 weeks ago)
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes (1 month ago)
