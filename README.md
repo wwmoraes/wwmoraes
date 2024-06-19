@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 week ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
@@ -51,7 +51,7 @@
 
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (6 months ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (7 months ago)
-- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (9 months ago)
+- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (10 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (11 months ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
@@ -65,7 +65,7 @@
 
 ### ⭐ Recent Stars
 
-- [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package &#34;mostly universal&#34; URL, join the discussion at https://gitter.im/package-url/Lobby   (1 day ago)
+- [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package &#34;mostly universal&#34; URL, join the discussion at https://gitter.im/package-url/Lobby   (2 days ago)
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (2 weeks ago)
 - [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned &#34;Learn You a Haskell&#34; (LYAH) tutorials collection! (1 month ago)
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell (1 month ago)
