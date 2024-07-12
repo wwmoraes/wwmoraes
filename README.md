@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 month ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (2 months ago)
@@ -65,9 +65,9 @@
 
 ### ⭐ Recent Stars
 
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (4 days ago)
-- [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (4 days ago)
-- [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (4 days ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (5 days ago)
+- [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (5 days ago)
+- [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (5 days ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (2 weeks ago)
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package &#34;mostly universal&#34; URL, join the discussion at https://gitter.im/package-url/Lobby   (3 weeks ago)
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (1 month ago)
