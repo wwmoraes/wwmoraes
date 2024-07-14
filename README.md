@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (1 month ago)
@@ -65,9 +65,9 @@
 
 ### ⭐ Recent Stars
 
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (6 days ago)
-- [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (6 days ago)
-- [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (6 days ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1 week ago)
+- [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (1 week ago)
+- [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (1 week ago)
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable! (3 weeks ago)
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package &#34;mostly universal&#34; URL, join the discussion at https://gitter.im/package-url/Lobby   (3 weeks ago)
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (1 month ago)
