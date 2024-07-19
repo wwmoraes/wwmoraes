@@ -51,7 +51,7 @@
 
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (7 months ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (8 months ago)
-- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (10 months ago)
+- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (11 months ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (1 year ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (2 years ago)
 
@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (2 days ago)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (2 days ago)
+- [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (3 days ago)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (3 days ago)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1 week ago)
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (1 week ago)
 - [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (1 week ago)
