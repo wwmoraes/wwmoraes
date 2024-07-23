@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (6 days ago)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (6 days ago)
+- [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (1 week ago)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (1 week ago)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (2 weeks ago)
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (2 weeks ago)
 - [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (2 weeks ago)
