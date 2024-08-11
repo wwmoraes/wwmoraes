@@ -6,14 +6,14 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
-- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (5 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
+- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (6 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (2 weeks ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (2 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (3 months ago)
-- [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (6 months ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (8 months ago)
 - [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (8 months ago)
 
