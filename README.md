@@ -8,8 +8,8 @@
 
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 day ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
-- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (6 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
+- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (2 weeks ago)
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (2 months ago)
@@ -78,11 +78,11 @@
 
 ### 👯 Check out some of my recent followers
 
+- [c2-tlhah](https://github.com/c2-tlhah)
 - [AlmsaryFad95713](https://github.com/AlmsaryFad95713)
 - [GoliVamshi](https://github.com/GoliVamshi)
 - [mvandermeulen](https://github.com/mvandermeulen)
 - [ariyurek](https://github.com/ariyurek)
-- [MrAnd3rs0n](https://github.com/MrAnd3rs0n)
 
 ### 📫 How to reach me
 
