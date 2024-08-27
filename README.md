@@ -15,7 +15,7 @@
 - [wwmoraes/spoons](https://github.com/wwmoraes/spoons) - Hammerspoon Spoons plugins (2 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (3 months ago)
 - [wwmoraes/fish-pre-commit-completions](https://github.com/wwmoraes/fish-pre-commit-completions) - pre-commit completions for Fish shell (8 months ago)
-- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (8 months ago)
+- [wwmoraes/stack-templates](https://github.com/wwmoraes/stack-templates) - Modern templates for the Haskell Tool Stack (9 months ago)
 
 ### 🌱 My pet projects
 
@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (4 days ago)
-- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects (5 days ago)
+- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (5 days ago)
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects (6 days ago)
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (1 week ago)
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages (3 weeks ago)
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats (1 month ago)
