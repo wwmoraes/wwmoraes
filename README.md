@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (5 days ago)
-- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects (6 days ago)
+- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (6 days ago)
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects (1 week ago)
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (1 week ago)
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages (3 weeks ago)
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats (1 month ago)
@@ -78,11 +78,11 @@
 
 ### 👯 Check out some of my recent followers
 
-- [c2-tlhah](https://github.com/c2-tlhah)
 - [AlmsaryFad95713](https://github.com/AlmsaryFad95713)
 - [GoliVamshi](https://github.com/GoliVamshi)
 - [mvandermeulen](https://github.com/mvandermeulen)
 - [ariyurek](https://github.com/ariyurek)
+- [MrAnd3rs0n](https://github.com/MrAnd3rs0n)
 
 ### 📫 How to reach me
 
