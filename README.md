@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (6 days ago)
+- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 week ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (1 month ago)
@@ -39,7 +39,7 @@
 - [goutline: init at 1.0.1](https://github.com/NixOS/nixpkgs/pull/334258) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (1 year ago)
 - [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (1 year ago)
-- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (1 year ago)
+- [fix: added initial giscus custom theme to match site bg color](https://github.com/wwmoraes/site/pull/2) on [wwmoraes/site](https://github.com/wwmoraes/site) (2 years ago)
 - [[ARM] Fix: `az bicep install`: Use CA bundle environment variables if set](https://github.com/Azure/azure-cli/pull/26013) on [Azure/azure-cli](https://github.com/Azure/azure-cli) (2 years ago)
 - [chore: added CII badge; replaced SonarCloud with Code Climate ones](https://github.com/wwmoraes/kubegraph/pull/205) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 years ago)
 - [ci: fix grype cache path due to runner context limitations](https://github.com/wwmoraes/kubegraph/pull/189) on [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) (2 years ago)
