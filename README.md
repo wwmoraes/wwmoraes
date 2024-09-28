@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 day ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (2 days ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 week ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
@@ -49,7 +49,7 @@
 
 ### 📜 My recent blog posts
 
-- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (9 months ago)
+- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (10 months ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (10 months ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (1 year ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (1 year ago)
