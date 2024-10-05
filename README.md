@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 days ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 week ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 weeks ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
@@ -72,9 +72,9 @@
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats (2 months ago)
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (2 months ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (2 months ago)
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (2 months ago)
-- [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (2 months ago)
-- [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (2 months ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (3 months ago)
+- [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website (3 months ago)
+- [psastras/sarif-rs](https://github.com/psastras/sarif-rs) - A group of Rust projects for interacting with the SARIF format (3 months ago)
 
 ### 👯 Check out some of my recent followers
 
