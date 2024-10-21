@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (3 days ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (4 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 weeks ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (3 weeks ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
@@ -36,7 +36,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [add wwmoraes repository](https://github.com/nix-community/NUR/pull/770) on [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago)
+- [add wwmoraes repository](https://github.com/nix-community/NUR/pull/770) on [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago)
 - [goutline: init at 1.0.1](https://github.com/NixOS/nixpkgs/pull/334258) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (1 year ago)
 - [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (1 year ago)
@@ -61,11 +61,11 @@
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (3 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (3 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (3 years ago)
-- [semantic versioning cheat sheet #cheat-sheet #git #semantic](https://gist.github.com/bd2ba1b347dd38ce9af9706388eed74f) (3 years ago)
+- [semantic versioning cheat sheet #cheat-sheet #git #semantic](https://gist.github.com/bd2ba1b347dd38ce9af9706388eed74f) (4 years ago)
 
 ### ⭐ Recent Stars
 
-- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (1 month ago)
+- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (2 months ago)
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects (2 months ago)
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (2 months ago)
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages (2 months ago)
