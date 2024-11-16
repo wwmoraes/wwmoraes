@@ -6,12 +6,12 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 week ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (2 weeks ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (4 weeks ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Mic92] (1 month ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (2 months ago)
@@ -36,7 +36,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [add wwmoraes repository](https://github.com/nix-community/NUR/pull/770) on [nix-community/NUR](https://github.com/nix-community/NUR) (3 weeks ago)
+- [add wwmoraes repository](https://github.com/nix-community/NUR/pull/770) on [nix-community/NUR](https://github.com/nix-community/NUR) (4 weeks ago)
 - [goutline: init at 1.0.1](https://github.com/NixOS/nixpkgs/pull/334258) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (2 years ago)
 - [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (2 years ago)
@@ -65,7 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. (2 days ago)
+- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (1 day ago)
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. (3 days ago)
 - [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar. (1 week ago)
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available. (3 weeks ago)
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (2 months ago)
@@ -74,7 +75,6 @@
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages (3 months ago)
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats (3 months ago)
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (4 months ago)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (4 months ago)
 
 ### 👯 Check out some of my recent followers
 
