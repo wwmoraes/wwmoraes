@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 days ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
@@ -49,7 +49,7 @@
 
 ### 📜 My recent blog posts
 
-- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (11 months ago)
+- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (1 year ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (1 year ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (1 year ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (1 year ago)
@@ -65,11 +65,11 @@
 
 ### ⭐ Recent Stars
 
-- [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (3 days ago)
+- [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (4 days ago)
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀 (1 week ago)
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (1 week ago)
-- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. (1 week ago)
-- [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar. (2 weeks ago)
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. (2 weeks ago)
+- [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar. (3 weeks ago)
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available. (1 month ago)
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (3 months ago)
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects (3 months ago)
