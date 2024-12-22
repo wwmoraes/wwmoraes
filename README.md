@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 weeks ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 month ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (1 month ago)
@@ -59,7 +59,7 @@
 
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (2 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (3 years ago)
-- [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (3 years ago)
+- [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (4 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (4 years ago)
 - [semantic versioning cheat sheet #cheat-sheet #git #semantic](https://gist.github.com/bd2ba1b347dd38ce9af9706388eed74f) (4 years ago)
 
