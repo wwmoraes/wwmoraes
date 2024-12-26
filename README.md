@@ -65,7 +65,7 @@
 
 ### ⭐ Recent Stars
 
-- [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (3 weeks ago)
+- [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (4 weeks ago)
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (1 month ago)
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀 (1 month ago)
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda] (1 month ago)
@@ -78,11 +78,11 @@
 
 ### 👯 Check out some of my recent followers
 
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [wilsncc](https://github.com/wilsncc)
 - [AlmsaryFad95713](https://github.com/AlmsaryFad95713)
 - [GoliVamshi](https://github.com/GoliVamshi)
 - [mvandermeulen](https://github.com/mvandermeulen)
-- [ariyurek](https://github.com/ariyurek)
 
 ### 📫 How to reach me
 
