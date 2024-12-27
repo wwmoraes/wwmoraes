@@ -8,7 +8,7 @@
 
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 weeks ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 month ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (1 month ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (2 months ago)
@@ -65,6 +65,7 @@
 
 ### ⭐ Recent Stars
 
+- [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) - 🎄 Go code coverage to SVG treemap (1 day ago)
 - [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (4 weeks ago)
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (1 month ago)
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀 (1 month ago)
@@ -74,7 +75,6 @@
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available. (2 months ago)
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (4 months ago)
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects (4 months ago)
-- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. (4 months ago)
 
 ### 👯 Check out some of my recent followers
 
