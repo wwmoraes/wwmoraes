@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (2 days ago)
-- [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) - 🎄 Go code coverage to SVG treemap (5 days ago)
+- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (3 days ago)
+- [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) - 🎄 Go code coverage to SVG treemap (6 days ago)
 - [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 month ago)
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (1 month ago)
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀 (1 month ago)
