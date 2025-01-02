@@ -58,15 +58,15 @@
 ### 📓 Gists I wrote
 
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (2 years ago)
-- [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (3 years ago)
+- [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (4 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (4 years ago)
 - [[root bluestacks] #bluestacks #android](https://gist.github.com/d5714685ebbe6fa5087f6bab489fa365) (4 years ago)
 - [semantic versioning cheat sheet #cheat-sheet #git #semantic](https://gist.github.com/bd2ba1b347dd38ce9af9706388eed74f) (4 years ago)
 
 ### ⭐ Recent Stars
 
-- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (3 days ago)
-- [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) - 🎄 Go code coverage to SVG treemap (6 days ago)
+- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (4 days ago)
+- [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) - 🎄 Go code coverage to SVG treemap (1 week ago)
 - [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 month ago)
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (1 month ago)
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀 (1 month ago)
