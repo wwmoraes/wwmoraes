@@ -6,13 +6,13 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (2 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (2 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (3 months ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (3 months ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 months ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (4 months ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (5 months ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (5 months ago)
@@ -65,6 +65,7 @@
 
 ### ⭐ Recent Stars
 
+- [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server (1 day ago)
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (3 weeks ago)
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) - 🎄 Go code coverage to SVG treemap (4 weeks ago)
 - [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 month ago)
@@ -74,7 +75,6 @@
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. (2 months ago)
 - [ccmenu/ccmenu2](https://github.com/ccmenu/ccmenu2) - CCMenu is a Mac app that shows the status of builds on CI/CD servers in the menu bar. (2 months ago)
 - [genuinetools/amicontained](https://github.com/genuinetools/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available. (3 months ago)
-- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types (5 months ago)
 
 ### 👯 Check out some of my recent followers
 
