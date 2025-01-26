@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (5 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (2 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (2 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (3 months ago)
@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server (2 days ago)
-- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (3 weeks ago)
+- [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server (3 days ago)
+- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (4 weeks ago)
 - [nikolaydubina/go-cover-treemap](https://github.com/nikolaydubina/go-cover-treemap) - 🎄 Go code coverage to SVG treemap (1 month ago)
 - [go-viper/mapstructure](https://github.com/go-viper/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 month ago)
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (2 months ago)
