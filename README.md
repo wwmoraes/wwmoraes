@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
@@ -36,7 +36,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [add wwmoraes repository](https://github.com/nix-community/NUR/pull/770) on [nix-community/NUR](https://github.com/nix-community/NUR) (3 months ago)
+- [add wwmoraes repository](https://github.com/nix-community/NUR/pull/770) on [nix-community/NUR](https://github.com/nix-community/NUR) (4 months ago)
 - [goutline: init at 1.0.1](https://github.com/NixOS/nixpkgs/pull/334258) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 months ago)
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (2 years ago)
 - [[WIP] fix: fetchHeaderFields and -Not](https://github.com/qnikst/HaskellNet/pull/93) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (2 years ago)
@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [Lyall/UltrawidePatches](https://github.com/Lyall/UltrawidePatches) - A repository of ultrawide game patches that make use of the excellent SUWSF patcher. (4 days ago)
-- [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF) - Somewhat Universal Widescreen Fix (4 days ago)
+- [Lyall/UltrawidePatches](https://github.com/Lyall/UltrawidePatches) - A repository of ultrawide game patches that make use of the excellent SUWSF patcher. (5 days ago)
+- [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF) - Somewhat Universal Widescreen Fix (5 days ago)
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser (2 weeks ago)
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server (3 weeks ago)
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (1 month ago)
