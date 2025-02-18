@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 months ago)
@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [Lyall/UltrawidePatches](https://github.com/Lyall/UltrawidePatches) - A repository of ultrawide game patches that make use of the excellent SUWSF patcher. (6 days ago)
-- [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF) - Somewhat Universal Widescreen Fix (6 days ago)
+- [Lyall/UltrawidePatches](https://github.com/Lyall/UltrawidePatches) - A repository of ultrawide game patches that make use of the excellent SUWSF patcher. (1 week ago)
+- [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF) - Somewhat Universal Widescreen Fix (1 week ago)
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser (2 weeks ago)
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server (3 weeks ago)
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (1 month ago)
