@@ -13,7 +13,7 @@
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (3 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (4 months ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (4 months ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 months ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (6 months ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (6 months ago)
 
@@ -78,11 +78,11 @@
 
 ### 👯 Check out some of my recent followers
 
+- [huaiguoguo](https://github.com/huaiguoguo)
 - [gvgoli](https://github.com/gvgoli)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [wilsncc](https://github.com/wilsncc)
 - [AlmsaryFad95713](https://github.com/AlmsaryFad95713)
-- [GoliVamshi](https://github.com/GoliVamshi)
 
 ### 📫 How to reach me
 
