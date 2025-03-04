@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 months ago)
@@ -65,10 +65,10 @@
 
 ### ⭐ Recent Stars
 
-- [cupiddev/website](https://github.com/cupiddev/website) - Hugo website for cupid.dev (1 day ago)
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 days ago)
-- [Lyall/UltrawidePatches](https://github.com/Lyall/UltrawidePatches) - A repository of ultrawide game patches that make use of the excellent SUWSF patcher. (2 weeks ago)
-- [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF) - Somewhat Universal Widescreen Fix (2 weeks ago)
+- [cupiddev/website](https://github.com/cupiddev/website) - Hugo website for cupid.dev (2 days ago)
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (3 days ago)
+- [Lyall/UltrawidePatches](https://github.com/Lyall/UltrawidePatches) - A repository of ultrawide game patches that make use of the excellent SUWSF patcher. (3 weeks ago)
+- [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF) - Somewhat Universal Widescreen Fix (3 weeks ago)
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser (1 month ago)
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server (1 month ago)
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (2 months ago)
