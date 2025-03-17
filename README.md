@@ -6,11 +6,11 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 months ago)
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 months ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (4 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (5 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 months ago)
@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (2 days ago)
-- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (4 days ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (3 days ago)
+- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (5 days ago)
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) - An all-purpose window upscaler for Windows 10/11. (1 week ago)
 - [cupiddev/website](https://github.com/cupiddev/website) - Hugo website for cupid.dev (2 weeks ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 weeks ago)
