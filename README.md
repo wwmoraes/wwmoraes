@@ -14,7 +14,7 @@
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (4 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (5 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (5 months ago)
-- [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (6 months ago)
+- [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (7 months ago)
 - [wwmoraes/actions](https://github.com/wwmoraes/actions) - DRY github actions collection (7 months ago)
 
 ### 🌱 My pet projects
@@ -65,8 +65,9 @@
 
 ### ⭐ Recent Stars
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (4 days ago)
-- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (6 days ago)
+- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff (1 day ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (5 days ago)
+- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (1 week ago)
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) - An all-purpose window upscaler for Windows 10/11. (1 week ago)
 - [cupiddev/website](https://github.com/cupiddev/website) - Hugo website for cupid.dev (2 weeks ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 weeks ago)
@@ -74,7 +75,6 @@
 - [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF) - Somewhat Universal Widescreen Fix (1 month ago)
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser (1 month ago)
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server (1 month ago)
-- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
