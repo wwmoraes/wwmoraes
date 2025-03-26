@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (4 days ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 weeks ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (5 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 months ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 months ago)
@@ -36,12 +36,12 @@
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 day ago)
-- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 days ago)
-- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 days ago)
-- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 days ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 days ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/1) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 days ago)
+- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (2 days ago)
+- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 days ago)
+- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 days ago)
+- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 days ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 days ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/1) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 days ago)
 - [add wwmoraes repository](https://github.com/nix-community/NUR/pull/770) on [nix-community/NUR](https://github.com/nix-community/NUR) (5 months ago)
 - [goutline: init at 1.0.1](https://github.com/NixOS/nixpkgs/pull/334258) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (7 months ago)
 - [fix: use std lookup where needed](https://github.com/qnikst/HaskellNet/pull/94) on [qnikst/HaskellNet](https://github.com/qnikst/HaskellNet) (2 years ago)
@@ -65,10 +65,10 @@
 
 ### ⭐ Recent Stars
 
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (6 days ago)
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (1 week ago)
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff (1 week ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (1 week ago)
-- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (1 week ago)
+- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (2 weeks ago)
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) - An all-purpose window upscaler for Windows 10/11. (2 weeks ago)
 - [cupiddev/website](https://github.com/cupiddev/website) - Hugo website for cupid.dev (3 weeks ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (3 weeks ago)
