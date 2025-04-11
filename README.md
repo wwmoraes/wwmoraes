@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 months ago)
@@ -69,8 +69,8 @@
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg). (1 week ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (3 weeks ago)
 - [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff (3 weeks ago)
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (3 weeks ago)
-- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (4 weeks ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (4 weeks ago)
+- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (1 month ago)
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) - An all-purpose window upscaler for Windows 10/11. (1 month ago)
 - [cupiddev/website](https://github.com/cupiddev/website) - Hugo website for cupid.dev (1 month ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 month ago)
