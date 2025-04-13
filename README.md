@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 months ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers (today)
-- [cdozdil/OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2&#43;/XeSS/FSR2&#43; inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG. (1 week ago)
-- [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS Frame Generation (nvngx_dlssg). (1 week ago)
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (3 weeks ago)
-- [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff (3 weeks ago)
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (4 weeks ago)
-- [italomandara/CXPatcher](https://github.com/italomandara/CXPatcher) - A patcher to upgrade Crossover dependencies and improve compatibility (1 month ago)
-- [Blinue/Magpie](https://github.com/Blinue/Magpie) - An all-purpose window upscaler for Windows 10/11. (1 month ago)
-- [cupiddev/website](https://github.com/cupiddev/website) - Hugo website for cupid.dev (1 month ago)
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 month ago)
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems. (1 day ago)
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (1 day ago)
+- [diefarbe/5Q-info](https://github.com/diefarbe/5Q-info) - A central location for all 5Q data that has been obtained (1 day ago)
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (1 day ago)
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/ (1 day ago)
+- [TeamTopologies/Team-Cognitive-Load-Assessment](https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment) - A template for a team cognitive load assessment. Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable). (1 day ago)
+- [N4S4/synology-api](https://github.com/N4S4/synology-api) - A Python wrapper around Synology API (1 day ago)
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (1 day ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
+- [getanteon/alaz](https://github.com/getanteon/alaz) - Alaz: Advanced eBPF Agent for Kubernetes Observability – Effortlessly monitor K8s service interactions and performance metrics in your K8s environment. Gain in-depth insights with service maps, metrics, and more, while staying alert to crucial system anomalies 🐝 (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
