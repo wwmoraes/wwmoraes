@@ -13,7 +13,7 @@
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 months ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (5 months ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (5 months ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (6 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (6 months ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (7 months ago)
 
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems. (2 days ago)
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (2 days ago)
-- [diefarbe/5Q-info](https://github.com/diefarbe/5Q-info) - A central location for all 5Q data that has been obtained (2 days ago)
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement (2 days ago)
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/ (2 days ago)
-- [TeamTopologies/Team-Cognitive-Load-Assessment](https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment) - A template for a team cognitive load assessment. Based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable). (2 days ago)
-- [N4S4/synology-api](https://github.com/N4S4/synology-api) - A Python wrapper around Synology API (2 days ago)
-- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (2 days ago)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
-- [getanteon/alaz](https://github.com/getanteon/alaz) - Alaz: Advanced eBPF Agent for Kubernetes Observability – Effortlessly monitor K8s service interactions and performance metrics in your K8s environment. Gain in-depth insights with service maps, metrics, and more, while staying alert to crucial system anomalies 🐝 (2 days ago)
+- [nianticlabs/venator](https://github.com/nianticlabs/venator) - A flexible threat detection platform that simplifies rule management and deployment using K8s CronJob and Helm, but can also run standalone or with other job schedulers like Nomad. (1 day ago)
+- [moderato-app/live-pprof](https://github.com/moderato-app/live-pprof) - Monitor Go app&#39;s performance in seconds, not a day. (1 day ago)
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (1 day ago)
+- [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs (1 day ago)
+- [qiniu/goc](https://github.com/qiniu/goc) - A Comprehensive Coverage Testing System for The Go Programming Language (1 day ago)
+- [nix-community/manix](https://github.com/nix-community/manix) - A fast CLI documentation searcher for Nix [maintainers=@IogaMaster, @bayou-brogrammer] (1 day ago)
+- [gregoryv/uncover](https://github.com/gregoryv/uncover) - Generate coverage reports from cover profiles (1 day ago)
+- [a2o/snoopy](https://github.com/a2o/snoopy) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system. (1 day ago)
+- [PhorionTech/Kronos](https://github.com/PhorionTech/Kronos) - Phorion Kronos is a macOS security tool designed to enhance Apple&#39;s Transparency Consent and Control (TCC) security and privacy mechanism. (1 day ago)
+- [lyq1996/X-Monitor](https://github.com/lyq1996/X-Monitor) - X-Monitor is an open-source, extensible event monitoring tool for macOS that provides security professionals with the ability to perform process behavior auditing.  (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
