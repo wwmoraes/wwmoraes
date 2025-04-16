@@ -11,7 +11,7 @@
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 months ago)
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 months ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (5 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (6 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (6 months ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [nianticlabs/venator](https://github.com/nianticlabs/venator) - A flexible threat detection platform that simplifies rule management and deployment using K8s CronJob and Helm, but can also run standalone or with other job schedulers like Nomad. (1 day ago)
-- [moderato-app/live-pprof](https://github.com/moderato-app/live-pprof) - Monitor Go app&#39;s performance in seconds, not a day. (1 day ago)
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (1 day ago)
-- [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs (1 day ago)
-- [qiniu/goc](https://github.com/qiniu/goc) - A Comprehensive Coverage Testing System for The Go Programming Language (1 day ago)
-- [nix-community/manix](https://github.com/nix-community/manix) - A fast CLI documentation searcher for Nix [maintainers=@IogaMaster, @bayou-brogrammer] (1 day ago)
-- [gregoryv/uncover](https://github.com/gregoryv/uncover) - Generate coverage reports from cover profiles (1 day ago)
-- [a2o/snoopy](https://github.com/a2o/snoopy) - Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system. (1 day ago)
-- [PhorionTech/Kronos](https://github.com/PhorionTech/Kronos) - Phorion Kronos is a macOS security tool designed to enhance Apple&#39;s Transparency Consent and Control (TCC) security and privacy mechanism. (1 day ago)
-- [lyq1996/X-Monitor](https://github.com/lyq1996/X-Monitor) - X-Monitor is an open-source, extensible event monitoring tool for macOS that provides security professionals with the ability to perform process behavior auditing.  (1 day ago)
+- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm (1 day ago)
+- [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures. (1 day ago)
+- [zeebo/xxh3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go (1 day ago)
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache (1 day ago)
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (1 day ago)
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (1 day ago)
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 day ago)
+- [aead/minisign](https://github.com/aead/minisign) - A dead simple tool to sign files and verify digital signatures. (1 day ago)
+- [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age (1 day ago)
+- [matze/chromazone](https://github.com/matze/chromazone) - A terminal colorizer (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
