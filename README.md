@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 months ago)
@@ -15,7 +15,7 @@
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (5 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (6 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (6 months ago)
-- [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (7 months ago)
+- [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (8 months ago)
 
 ### 🌱 My pet projects
 
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm (2 days ago)
-- [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures. (2 days ago)
-- [zeebo/xxh3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go (2 days ago)
-- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache (2 days ago)
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (2 days ago)
-- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (2 days ago)
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (2 days ago)
-- [aead/minisign](https://github.com/aead/minisign) - A dead simple tool to sign files and verify digital signatures. (2 days ago)
-- [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age (2 days ago)
-- [matze/chromazone](https://github.com/matze/chromazone) - A terminal colorizer (2 days ago)
+- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm (3 days ago)
+- [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures. (3 days ago)
+- [zeebo/xxh3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go (3 days ago)
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache (3 days ago)
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (3 days ago)
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (3 days ago)
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 days ago)
+- [aead/minisign](https://github.com/aead/minisign) - A dead simple tool to sign files and verify digital signatures. (3 days ago)
+- [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age (3 days ago)
+- [matze/chromazone](https://github.com/matze/chromazone) - A terminal colorizer (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
