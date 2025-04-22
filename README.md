@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (3 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 months ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [ncase/loopy](https://github.com/ncase/loopy) - A tool for thinking in systems (1 day ago)
-- [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm (6 days ago)
-- [jedisct1/minisign](https://github.com/jedisct1/minisign) - A dead simple tool to sign files and verify digital signatures. (6 days ago)
-- [zeebo/xxh3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go (6 days ago)
-- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache (6 days ago)
-- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92) (6 days ago)
-- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets (6 days ago)
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (6 days ago)
-- [aead/minisign](https://github.com/aead/minisign) - A dead simple tool to sign files and verify digital signatures. (6 days ago)
-- [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age (6 days ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (1 day ago)
+- [pb33f/wiretap](https://github.com/pb33f/wiretap) - The world&#39;s coolest API Validation and compliance tool. Validate APIs against OpenAPI specifications and much more (1 day ago)
+- [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world&#39;s sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger (1 day ago)
+- [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance OpenAPI 3.1, 3.0 and Swagger parser, library, validator and toolkit for golang applications. (1 day ago)
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations. (1 day ago)
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (1 day ago)
+- [pritunl/pritunl-zero](https://github.com/pritunl/pritunl-zero) - Zero trust system (1 day ago)
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth &amp; AI solutions, and much more. (1 day ago)
+- [nanomq/nanomq](https://github.com/nanomq/nanomq) - An ultra-lightweight and blazing-fast Messaging Broker/Bus for IoT Edge &amp; SDV (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
