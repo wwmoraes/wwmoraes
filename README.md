@@ -14,7 +14,7 @@
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (5 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (6 months ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (6 months ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (7 months ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (8 months ago)
 
 ### 🌱 My pet projects
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (2 days ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (2 days ago)
-- [pb33f/wiretap](https://github.com/pb33f/wiretap) - The world&#39;s coolest API Validation and compliance tool. Validate APIs against OpenAPI specifications and much more (2 days ago)
-- [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world&#39;s sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger (2 days ago)
-- [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance OpenAPI 3.1, 3.0 and Swagger parser, library, validator and toolkit for golang applications. (2 days ago)
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations. (2 days ago)
-- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (2 days ago)
-- [pritunl/pritunl-zero](https://github.com/pritunl/pritunl-zero) - Zero trust system (2 days ago)
-- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth &amp; AI solutions, and much more. (2 days ago)
-- [nanomq/nanomq](https://github.com/nanomq/nanomq) - An ultra-lightweight and blazing-fast Messaging Broker/Bus for IoT Edge &amp; SDV (2 days ago)
+- [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics (1 day ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (3 days ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (3 days ago)
+- [pb33f/wiretap](https://github.com/pb33f/wiretap) - The world&#39;s coolest API Validation and compliance tool. Validate APIs against OpenAPI specifications and much more (3 days ago)
+- [pb33f/openapi-changes](https://github.com/pb33f/openapi-changes) - The world&#39;s sexiest OpenAPI breaking changes detector. Discover what changed between two OpenAPI specs, or a single spec over time. Supports OpenAPI 3.1, 3.0 and Swagger (3 days ago)
+- [pb33f/libopenapi](https://github.com/pb33f/libopenapi) - libopenapi is a fully featured, high performance OpenAPI 3.1, 3.0 and Swagger parser, library, validator and toolkit for golang applications. (3 days ago)
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations. (3 days ago)
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti (3 days ago)
+- [pritunl/pritunl-zero](https://github.com/pritunl/pritunl-zero) - Zero trust system (3 days ago)
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth &amp; AI solutions, and much more. (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
