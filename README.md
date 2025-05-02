@@ -6,10 +6,10 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (6 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (1 month ago)
-- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (2 months ago)
+- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (3 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 months ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (6 months ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto) - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (1 day ago)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (2 days ago)
-- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel. (2 days ago)
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (2 days ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 days ago)
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection (4 days ago)
+- [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler) - Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively. (1 day ago)
+- [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS (1 day ago)
+- [ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto) - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (2 days ago)
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (3 days ago)
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel. (3 days ago)
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (3 days ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 days ago)
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection (5 days ago)
 - [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics (1 week ago)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 week ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. (1 week ago)
-- [pb33f/wiretap](https://github.com/pb33f/wiretap) - The world&#39;s coolest API Validation and compliance tool. Validate APIs against OpenAPI specifications and much more (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
