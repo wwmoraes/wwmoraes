@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 days ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 days ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 days ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (3 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 months ago)
@@ -65,11 +65,11 @@
 
 ### ⭐ Recent Stars
 
-- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty&#39;s Mods Epic ReShade Effects (1 day ago)
-- [rj200/Glamarye_Fast_Effects_for_ReShade](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade) - Designed for speed, this shader for ReShade is for people who can&#39;t just run everything at max settings but want good enough post-processing without costing much framerate. It combines 4 effects in one - Fast FXAA, sharpening, depth of field and fast ambient occlusion (1 day ago)
-- [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler) - Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively. (5 days ago)
-- [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS (5 days ago)
-- [ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto) - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (6 days ago)
+- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty&#39;s Mods Epic ReShade Effects (2 days ago)
+- [rj200/Glamarye_Fast_Effects_for_ReShade](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade) - Designed for speed, this shader for ReShade is for people who can&#39;t just run everything at max settings but want good enough post-processing without costing much framerate. It combines 4 effects in one - Fast FXAA, sharpening, depth of field and fast ambient occlusion (2 days ago)
+- [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler) - Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively. (6 days ago)
+- [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS (6 days ago)
+- [ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto) - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (1 week ago)
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions (1 week ago)
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel. (1 week ago)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (1 week ago)
