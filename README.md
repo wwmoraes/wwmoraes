@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (2 days ago)
-- [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games (3 days ago)
-- [intel/xess](https://github.com/intel/xess) - Intel XeSS SDK (3 days ago)
-- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty&#39;s Mods Epic ReShade Effects (5 days ago)
-- [rj200/Glamarye_Fast_Effects_for_ReShade](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade) - Designed for speed, this shader for ReShade is for people who can&#39;t just run everything at max settings but want good enough post-processing without costing much framerate. It combines 4 effects in one - Fast FXAA, sharpening, depth of field and fast ambient occlusion (5 days ago)
+- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (1 day ago)
+- [TellowKrinkle/atelier-sync-fix](https://github.com/TellowKrinkle/atelier-sync-fix) - Workaround for low GPU utilization in recent Atelier games (1 day ago)
+- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. (1 day ago)
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (3 days ago)
+- [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games (4 days ago)
+- [intel/xess](https://github.com/intel/xess) - Intel XeSS SDK (4 days ago)
+- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty&#39;s Mods Epic ReShade Effects (6 days ago)
+- [rj200/Glamarye_Fast_Effects_for_ReShade](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade) - Designed for speed, this shader for ReShade is for people who can&#39;t just run everything at max settings but want good enough post-processing without costing much framerate. It combines 4 effects in one - Fast FXAA, sharpening, depth of field and fast ambient occlusion (6 days ago)
 - [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler) - Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively. (1 week ago)
 - [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS (1 week ago)
-- [ProtonMail/go-crypto](https://github.com/ProtonMail/go-crypto) - Fork of go/x/crypto, providing an up-to-date OpenPGP implementation (1 week ago)
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 week ago)
-- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
