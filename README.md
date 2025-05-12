@@ -6,13 +6,13 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (3 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 months ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 months ago)
-- [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (6 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (6 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (7 months ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (8 months ago)
@@ -50,7 +50,7 @@
 ### 📜 My recent blog posts
 
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (1 year ago)
-- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (1 year ago)
+- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (2 years ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (2 years ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (2 years ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (3 years ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (1 day ago)
-- [TellowKrinkle/atelier-sync-fix](https://github.com/TellowKrinkle/atelier-sync-fix) - Workaround for low GPU utilization in recent Atelier games (1 day ago)
-- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. (1 day ago)
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (3 days ago)
-- [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games (4 days ago)
-- [intel/xess](https://github.com/intel/xess) - Intel XeSS SDK (4 days ago)
-- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty&#39;s Mods Epic ReShade Effects (6 days ago)
-- [rj200/Glamarye_Fast_Effects_for_ReShade](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade) - Designed for speed, this shader for ReShade is for people who can&#39;t just run everything at max settings but want good enough post-processing without costing much framerate. It combines 4 effects in one - Fast FXAA, sharpening, depth of field and fast ambient occlusion (6 days ago)
+- [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool (1 day ago)
+- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (2 days ago)
+- [TellowKrinkle/atelier-sync-fix](https://github.com/TellowKrinkle/atelier-sync-fix) - Workaround for low GPU utilization in recent Atelier games (2 days ago)
+- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. (2 days ago)
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (4 days ago)
+- [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games (5 days ago)
+- [intel/xess](https://github.com/intel/xess) - Intel XeSS SDK (5 days ago)
+- [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty&#39;s Mods Epic ReShade Effects (1 week ago)
+- [rj200/Glamarye_Fast_Effects_for_ReShade](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade) - Designed for speed, this shader for ReShade is for people who can&#39;t just run everything at max settings but want good enough post-processing without costing much framerate. It combines 4 effects in one - Fast FXAA, sharpening, depth of field and fast ambient occlusion (1 week ago)
 - [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler) - Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively. (1 week ago)
-- [noperator/yknotify](https://github.com/noperator/yknotify) - Notify when YubiKey needs touch on macOS (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
