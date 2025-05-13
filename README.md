@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (1 day ago)
+- [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (2 days ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (1 month ago)
@@ -65,24 +65,24 @@
 
 ### ⭐ Recent Stars
 
-- [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool (1 day ago)
-- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (2 days ago)
-- [TellowKrinkle/atelier-sync-fix](https://github.com/TellowKrinkle/atelier-sync-fix) - Workaround for low GPU utilization in recent Atelier games (2 days ago)
-- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. (2 days ago)
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (4 days ago)
-- [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games (5 days ago)
-- [intel/xess](https://github.com/intel/xess) - Intel XeSS SDK (5 days ago)
+- [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool (2 days ago)
+- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (3 days ago)
+- [TellowKrinkle/atelier-sync-fix](https://github.com/TellowKrinkle/atelier-sync-fix) - Workaround for low GPU utilization in recent Atelier games (3 days ago)
+- [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. (3 days ago)
+- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation (5 days ago)
+- [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games (6 days ago)
+- [intel/xess](https://github.com/intel/xess) - Intel XeSS SDK (6 days ago)
 - [martymcmodding/iMMERSE](https://github.com/martymcmodding/iMMERSE) - Marty&#39;s Mods Epic ReShade Effects (1 week ago)
 - [rj200/Glamarye_Fast_Effects_for_ReShade](https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade) - Designed for speed, this shader for ReShade is for people who can&#39;t just run everything at max settings but want good enough post-processing without costing much framerate. It combines 4 effects in one - Fast FXAA, sharpening, depth of field and fast ambient occlusion (1 week ago)
 - [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler) - Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [huaiguoguo](https://github.com/huaiguoguo)
 - [gvgoli](https://github.com/gvgoli)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [wilsncc](https://github.com/wilsncc)
-- [AlmsaryFad95713](https://github.com/AlmsaryFad95713)
 
 ### 📫 How to reach me
 
