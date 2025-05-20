@@ -65,9 +65,9 @@
 
 ### ⭐ Recent Stars
 
-- [markvincze/sabledocs](https://github.com/markvincze/sabledocs) - Simple static documentation generator for Protobuf and gRPC contracts. (3 days ago)
-- [gendocu-com/grpc-docs](https://github.com/gendocu-com/grpc-docs) -  (3 days ago)
-- [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and investors perform fast, automated open-source due-diligence. (6 days ago)
+- [markvincze/sabledocs](https://github.com/markvincze/sabledocs) - Simple static documentation generator for Protobuf and gRPC contracts. (4 days ago)
+- [gendocu-com/grpc-docs](https://github.com/gendocu-com/grpc-docs) -  (4 days ago)
+- [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and investors perform fast, automated open-source due-diligence. (1 week ago)
 - [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool (1 week ago)
 - [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (1 week ago)
 - [TellowKrinkle/atelier-sync-fix](https://github.com/TellowKrinkle/atelier-sync-fix) - Workaround for low GPU utilization in recent Atelier games (1 week ago)
