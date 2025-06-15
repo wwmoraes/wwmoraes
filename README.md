@@ -12,7 +12,7 @@
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (2 months ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (4 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 months ago)
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (6 months ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (7 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (8 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (8 months ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (9 months ago)
@@ -65,12 +65,12 @@
 
 ### ⭐ Recent Stars
 
-- [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (5 days ago)
+- [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (6 days ago)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (2 weeks ago)
-- [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models. (2 weeks ago)
+- [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models. (3 weeks ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (3 weeks ago)
-- [markvincze/sabledocs](https://github.com/markvincze/sabledocs) - Simple static documentation generator for Protobuf and gRPC contracts. (4 weeks ago)
-- [gendocu-com/grpc-docs](https://github.com/gendocu-com/grpc-docs) -  (4 weeks ago)
+- [markvincze/sabledocs](https://github.com/markvincze/sabledocs) - Simple static documentation generator for Protobuf and gRPC contracts. (1 month ago)
+- [gendocu-com/grpc-docs](https://github.com/gendocu-com/grpc-docs) -  (1 month ago)
 - [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and investors perform fast, automated open-source due-diligence. (1 month ago)
 - [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool (1 month ago)
 - [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (1 month ago)
