@@ -65,6 +65,8 @@
 
 ### ⭐ Recent Stars
 
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (1 day ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work! (1 day ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 week ago)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (3 weeks ago)
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models. (3 weeks ago)
@@ -73,8 +75,6 @@
 - [gendocu-com/grpc-docs](https://github.com/gendocu-com/grpc-docs) -  (1 month ago)
 - [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and investors perform fast, automated open-source due-diligence. (1 month ago)
 - [JohnDoee/autotorrent2](https://github.com/JohnDoee/autotorrent2) - Cross-seed matching and torrent lifecycle tool (1 month ago)
-- [clshortfuse/renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games (1 month ago)
-- [TellowKrinkle/atelier-sync-fix](https://github.com/TellowKrinkle/atelier-sync-fix) - Workaround for low GPU utilization in recent Atelier games (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
