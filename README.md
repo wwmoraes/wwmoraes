@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (1 week ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work! (1 week ago)
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (2 weeks ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work! (2 weeks ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (3 weeks ago)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (1 month ago)
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models. (1 month ago)
