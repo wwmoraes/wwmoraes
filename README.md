@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 day ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 month ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (1 month ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 months ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (3 months ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (5 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (7 months ago)
@@ -67,7 +67,7 @@
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (2 weeks ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work! (2 weeks ago)
-- [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (3 weeks ago)
+- [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (4 weeks ago)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (1 month ago)
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models. (1 month ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (1 month ago)
