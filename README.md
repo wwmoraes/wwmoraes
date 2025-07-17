@@ -6,16 +6,16 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 days ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (6 days ago)
-- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (6 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
+- [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 week ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 month ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (1 month ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (3 months ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (8 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (9 months ago)
 - [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (9 months ago)
-- [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (10 months ago)
+- [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (11 months ago)
 
 ### 🌱 My pet projects
 
@@ -65,13 +65,13 @@
 
 ### ⭐ Recent Stars
 
-- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (4 days ago)
-- [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (4 days ago)
-- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (4 days ago)
-- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@marcusramberg] (5 days ago)
-- [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (6 days ago)
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (3 weeks ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work! (3 weeks ago)
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (5 days ago)
+- [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (5 days ago)
+- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (5 days ago)
+- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@marcusramberg] (6 days ago)
+- [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (1 week ago)
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (4 weeks ago)
+- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work! (4 weeks ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 month ago)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (1 month ago)
 - [DJAndries/llmvm](https://github.com/DJAndries/llmvm) - A protocol and modular application suite for language models. (1 month ago)
