@@ -41,11 +41,11 @@
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
 - [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
 - [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
-- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
-- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
-- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/1) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (3 months ago)
+- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
+- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
+- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/1) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
 
 ### 📜 My recent blog posts
 
@@ -65,10 +65,10 @@
 
 ### ⭐ Recent Stars
 
-- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (5 days ago)
-- [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (5 days ago)
-- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (5 days ago)
-- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@marcusramberg] (6 days ago)
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (6 days ago)
+- [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (6 days ago)
+- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (6 days ago)
+- [nix-community/gomod2nix](https://github.com/nix-community/gomod2nix) - Convert applications using Go modules to Nix expressions [maintainer=@marcusramberg] (1 week ago)
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems (1 week ago)
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (4 weeks ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work! (4 weeks ago)
