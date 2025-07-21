@@ -57,7 +57,7 @@
 
 ### 📓 Gists I wrote
 
-- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (1 week ago)
+- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (2 weeks ago)
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (2 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (4 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (4 years ago)
@@ -65,12 +65,12 @@
 
 ### ⭐ Recent Stars
 
-- [everestmz/sage](https://github.com/everestmz/sage) - Integrate LLMs into any editor that supports LSP (2 days ago)
-- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (2 days ago)
-- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - Codai is an AI code assistant that helps developers through a session-based CLI, providing intelligent code suggestions, refactoring, and code reviews based on the full context of the project. (2 days ago)
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. (2 days ago)
-- [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (2 days ago)
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (2 days ago)
+- [everestmz/sage](https://github.com/everestmz/sage) - Integrate LLMs into any editor that supports LSP (3 days ago)
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (3 days ago)
+- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - Codai is an AI code assistant that helps developers through a session-based CLI, providing intelligent code suggestions, refactoring, and code reviews based on the full context of the project. (3 days ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. (3 days ago)
+- [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (3 days ago)
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (3 days ago)
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (1 week ago)
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (1 week ago)
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (1 week ago)
