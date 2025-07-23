@@ -14,7 +14,7 @@
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (3 months ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (8 months ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1] (9 months ago)
-- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (9 months ago)
+- [wwmoraes/homebrew-tap](https://github.com/wwmoraes/homebrew-tap) - formulae and casks for Homebrew (10 months ago)
 - [wwmoraes/anilistarr-rs](https://github.com/wwmoraes/anilistarr-rs) - anilist custom list provider for sonarr/radarr, now in Rust 🦀 (11 months ago)
 
 ### 🌱 My pet projects
@@ -65,12 +65,12 @@
 
 ### ⭐ Recent Stars
 
-- [everestmz/sage](https://github.com/everestmz/sage) - Integrate LLMs into any editor that supports LSP (4 days ago)
-- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (4 days ago)
-- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - Codai is an AI code assistant that helps developers through a session-based CLI, providing intelligent code suggestions, refactoring, and code reviews based on the full context of the project. (4 days ago)
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. (4 days ago)
-- [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (4 days ago)
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (4 days ago)
+- [everestmz/sage](https://github.com/everestmz/sage) - Integrate LLMs into any editor that supports LSP (5 days ago)
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (5 days ago)
+- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - Codai is an AI code assistant that helps developers through a session-based CLI, providing intelligent code suggestions, refactoring, and code reviews based on the full context of the project. (5 days ago)
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. (5 days ago)
+- [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (5 days ago)
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (5 days ago)
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (1 week ago)
 - [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (1 week ago)
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (1 week ago)
@@ -78,11 +78,11 @@
 
 ### 👯 Check out some of my recent followers
 
+- [tokyo-dal](https://github.com/tokyo-dal)
 - [huaiguoguo](https://github.com/huaiguoguo)
 - [gvgoli](https://github.com/gvgoli)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [wilsncc](https://github.com/wilsncc)
-- [AlmsaryFad95713](https://github.com/AlmsaryFad95713)
 
 ### 📫 How to reach me
 
