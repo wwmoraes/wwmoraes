@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file. (2 days ago)
+- [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file. (3 days ago)
 - [everestmz/sage](https://github.com/everestmz/sage) - Integrate LLMs into any editor that supports LSP (1 week ago)
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line (1 week ago)
 - [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - Codai is an AI code assistant that helps developers through a session-based CLI, providing intelligent code suggestions, refactoring, and code reviews based on the full context of the project. (1 week ago)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks. (1 week ago)
 - [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300&#43; models (1 week ago)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (1 week ago)
-- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (1 week ago)
-- [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (1 week ago)
-- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (1 week ago)
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience (2 weeks ago)
+- [srid/devour-flake](https://github.com/srid/devour-flake) - Devour all outputs in a Nix flake. (2 weeks ago)
+- [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
