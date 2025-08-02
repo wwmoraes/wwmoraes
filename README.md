@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 day ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (5 days ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (2 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (3 weeks ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 month ago)
@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 5 days ago) - anilist custom list provider for sonarr/radarr
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 6 days ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
 
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [zx2c4/cgit](https://github.com/zx2c4/cgit) - Read-only mirror of https://git.zx2c4.com/cgit/about . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes is via the mailing list; see https://lists.zx2c4.com/mailman/listinfo/cgit . (today)
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only. (today)
-- [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker (today)
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (today)
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes (1 day ago)
-- [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - Nix functions for filtering local git sources (1 day ago)
-- [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau] (1 day ago)
-- [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS (1 day ago)
-- [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code (1 day ago)
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ (1 day ago)
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nix flake-parts usage pattern in which every Nix file is a flake-parts module (1 day ago)
+- [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree. (1 day ago)
+- [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (1 day ago)
+- [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray (1 day ago)
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more (1 day ago)
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (1 day ago)
+- [zx2c4/cgit](https://github.com/zx2c4/cgit) - Read-only mirror of https://git.zx2c4.com/cgit/about . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes is via the mailing list; see https://lists.zx2c4.com/mailman/listinfo/cgit . (1 day ago)
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only. (1 day ago)
+- [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker (1 day ago)
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
