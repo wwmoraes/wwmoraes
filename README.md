@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 days ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (3 weeks ago)
@@ -57,7 +57,7 @@
 
 ### 📓 Gists I wrote
 
-- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (3 weeks ago)
+- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (4 weeks ago)
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (2 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (4 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (4 years ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nix flake-parts usage pattern in which every Nix file is a flake-parts module (2 days ago)
-- [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree. (2 days ago)
-- [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (2 days ago)
-- [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray (2 days ago)
-- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more (2 days ago)
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (2 days ago)
-- [zx2c4/cgit](https://github.com/zx2c4/cgit) - Read-only mirror of https://git.zx2c4.com/cgit/about . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes is via the mailing list; see https://lists.zx2c4.com/mailman/listinfo/cgit . (2 days ago)
-- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only. (2 days ago)
-- [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker (2 days ago)
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (2 days ago)
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nix flake-parts usage pattern in which every Nix file is a flake-parts module (3 days ago)
+- [vic/import-tree](https://github.com/vic/import-tree) - Import all nix files in a directory tree. (3 days ago)
+- [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM. (3 days ago)
+- [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray (3 days ago)
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more (3 days ago)
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket (3 days ago)
+- [zx2c4/cgit](https://github.com/zx2c4/cgit) - Read-only mirror of https://git.zx2c4.com/cgit/about . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes is via the mailing list; see https://lists.zx2c4.com/mailman/listinfo/cgit . (3 days ago)
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only. (3 days ago)
+- [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker (3 days ago)
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
