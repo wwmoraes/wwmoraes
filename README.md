@@ -8,7 +8,7 @@
 
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 week ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (2 weeks ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 months ago)
@@ -33,7 +33,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 1 week ago) - fetches API tokens to use GitHub Copilot with any tool
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 2 weeks ago) - anilist custom list provider for sonarr/radarr
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 3 weeks ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
 
@@ -42,11 +42,11 @@
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
 - [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
 - [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
-- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
-- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
-- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/1) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (4 months ago)
+- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
+- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
+- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/1) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
 
 ### 📜 My recent blog posts
 
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 day ago)
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (3 days ago)
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (3 days ago)
-- [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (3 days ago)
-- [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection. (6 days ago)
-- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (6 days ago)
-- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code. (6 days ago)
-- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (6 days ago)
-- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙 (6 days ago)
-- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins] (6 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 days ago)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (4 days ago)
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (4 days ago)
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda] (4 days ago)
+- [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection. (1 week ago)
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (1 week ago)
+- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code. (1 week ago)
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD (1 week ago)
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙 (1 week ago)
+- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins] (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
