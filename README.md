@@ -6,12 +6,12 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (5 days ago)
+- [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (6 days ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (2 weeks ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 weeks ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (1 month ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (3 months ago)
 - [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (4 months ago)
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (1 day ago)
-- [k8snetworkplumbingwg/whereabouts](https://github.com/k8snetworkplumbingwg/whereabouts) - A CNI IPAM plugin that assigns IP addresses cluster-wide (1 day ago)
-- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion&#43; users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.  (1 day ago)
-- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security. (1 day ago)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (1 day ago)
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (1 day ago)
-- [sondr3/git-ignore](https://github.com/sondr3/git-ignore) - Quickly and easily list, fetch and generate .gitignore templates (1 day ago)
-- [jgavris/rs-git-fsmonitor](https://github.com/jgavris/rs-git-fsmonitor) - A fast git core.fsmonitor hook written in Rust (1 day ago)
-- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust. (1 day ago)
-- [lindenb/makefile2graph](https://github.com/lindenb/makefile2graph) - Creates a graph of dependencies from GNU-Make;  Output is a graphiz-dot file or a Gexf-XML file. (1 day ago)
+- [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc. (1 day ago)
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (2 days ago)
+- [k8snetworkplumbingwg/whereabouts](https://github.com/k8snetworkplumbingwg/whereabouts) - A CNI IPAM plugin that assigns IP addresses cluster-wide (2 days ago)
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion&#43; users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.  (2 days ago)
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security. (2 days ago)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (2 days ago)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management (2 days ago)
+- [sondr3/git-ignore](https://github.com/sondr3/git-ignore) - Quickly and easily list, fetch and generate .gitignore templates (2 days ago)
+- [jgavris/rs-git-fsmonitor](https://github.com/jgavris/rs-git-fsmonitor) - A fast git core.fsmonitor hook written in Rust (2 days ago)
+- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust. (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
