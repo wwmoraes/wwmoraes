@@ -37,7 +37,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (4 days ago)
+- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (5 days ago)
 - [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
 - [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
@@ -66,8 +66,8 @@
 
 ### ⭐ Recent Stars
 
-- [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo (4 days ago)
-- [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc. (6 days ago)
+- [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo (5 days ago)
+- [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc. (1 week ago)
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (1 week ago)
 - [k8snetworkplumbingwg/whereabouts](https://github.com/k8snetworkplumbingwg/whereabouts) - A CNI IPAM plugin that assigns IP addresses cluster-wide (1 week ago)
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion&#43; users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.  (1 week ago)
