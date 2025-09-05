@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 3 weeks ago) - fetches API tokens to use GitHub Copilot with any tool
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 4 weeks ago) - fetches API tokens to use GitHub Copilot with any tool
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 1 month ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
@@ -58,7 +58,7 @@
 
 ### 📓 Gists I wrote
 
-- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (1 month ago)
+- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (2 months ago)
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (2 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (4 years ago)
 - [Interview](https://gist.github.com/b2ac3c3d92414f5d57d3a0b567c78065) (4 years ago)
@@ -66,11 +66,11 @@
 
 ### ⭐ Recent Stars
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (2 days ago)
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (4 days ago)
-- [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (4 days ago)
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (4 days ago)
-- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. (4 days ago)
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (3 days ago)
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (5 days ago)
+- [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (5 days ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (5 days ago)
+- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. (5 days ago)
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo (1 week ago)
 - [prometheus-community/PushProx](https://github.com/prometheus-community/PushProx) - Proxy to allow Prometheus to scrape through NAT etc. (1 week ago)
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/ (1 week ago)
