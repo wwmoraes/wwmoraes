@@ -66,7 +66,7 @@
 
 ### ⭐ Recent Stars
 
-- [waywardgeek/infnoise](https://github.com/waywardgeek/infnoise) - The world&#39;s easiest TRNG to get right (1 day ago)
+- [waywardgeek/infnoise](https://github.com/waywardgeek/infnoise) - The world&#39;s easiest TRNG to get right (2 days ago)
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (1 week ago)
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (1 week ago)
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (1 week ago)
