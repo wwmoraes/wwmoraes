@@ -66,10 +66,10 @@
 
 ### ⭐ Recent Stars
 
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (3 days ago)
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (3 days ago)
-- [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) - go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold (3 days ago)
-- [waywardgeek/infnoise](https://github.com/waywardgeek/infnoise) - The world&#39;s easiest TRNG to get right (6 days ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (4 days ago)
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (4 days ago)
+- [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) - go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold (4 days ago)
+- [waywardgeek/infnoise](https://github.com/waywardgeek/infnoise) - The world&#39;s easiest TRNG to get right (1 week ago)
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (1 week ago)
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (2 weeks ago)
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (2 weeks ago)
@@ -79,11 +79,11 @@
 
 ### 👯 Check out some of my recent followers
 
+- [russmatney](https://github.com/russmatney)
 - [ipqwery](https://github.com/ipqwery)
 - [huaiguoguo](https://github.com/huaiguoguo)
 - [gvgoli](https://github.com/gvgoli)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [wilsncc](https://github.com/wilsncc)
 
 ### 📫 How to reach me
 
