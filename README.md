@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (3 weeks ago)
+- [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (4 weeks ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 month ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
@@ -37,16 +37,16 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (2 weeks ago)
+- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (3 weeks ago)
 - [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
 - [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
 - [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
 - [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
-- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
-- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
-- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (5 months ago)
+- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 months ago)
+- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 months ago)
+- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 months ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (6 months ago)
 
 ### 📜 My recent blog posts
 
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (4 days ago)
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (4 days ago)
-- [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) - go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold (4 days ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (5 days ago)
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (5 days ago)
+- [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) - go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold (5 days ago)
 - [waywardgeek/infnoise](https://github.com/waywardgeek/infnoise) - The world&#39;s easiest TRNG to get right (1 week ago)
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (1 week ago)
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (2 weeks ago)
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. (2 weeks ago)
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager (2 weeks ago)
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (2 weeks ago)
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. (2 weeks ago)
-- [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo (2 weeks ago)
+- [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
