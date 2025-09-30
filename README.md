@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [caniszczyk/rugpulls.dev](https://github.com/caniszczyk/rugpulls.dev) -  (4 days ago)
-- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (5 days ago)
-- [owasp-noir/noir](https://github.com/owasp-noir/noir) - Attack surface detector that identifies endpoints by static analysis (6 days ago)
+- [bitesinbyte/ferret](https://github.com/bitesinbyte/ferret) - Automate the syndication of RSS feed posts to various social media platforms seamlessly with Ferret. Simplify your content distribution process and reach your audience effortlessly. (1 day ago)
+- [caniszczyk/rugpulls.dev](https://github.com/caniszczyk/rugpulls.dev) -  (5 days ago)
+- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (6 days ago)
+- [owasp-noir/noir](https://github.com/owasp-noir/noir) - Attack surface detector that identifies endpoints by static analysis (1 week ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. (1 week ago)
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available  (1 week ago)
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping. (1 week ago)
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. (1 week ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (2 weeks ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 weeks ago)
-- [vladopajic/go-test-coverage](https://github.com/vladopajic/go-test-coverage) - go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
