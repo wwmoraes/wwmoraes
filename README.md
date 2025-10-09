@@ -66,12 +66,12 @@
 
 ### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (2 days ago)
-- [majestrate/fedproxy](https://github.com/majestrate/fedproxy) - tor/i2p/lokinet socks proxy router (3 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (3 days ago)
+- [majestrate/fedproxy](https://github.com/majestrate/fedproxy) - tor/i2p/lokinet socks proxy router (4 days ago)
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission. (1 week ago)
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr (1 week ago)
 - [bitesinbyte/ferret](https://github.com/bitesinbyte/ferret) - Automate the syndication of RSS feed posts to various social media platforms seamlessly with Ferret. Simplify your content distribution process and reach your audience effortlessly. (1 week ago)
-- [caniszczyk/rugpulls.dev](https://github.com/caniszczyk/rugpulls.dev) -  (1 week ago)
+- [caniszczyk/rugpulls.dev](https://github.com/caniszczyk/rugpulls.dev) -  (2 weeks ago)
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests. (2 weeks ago)
 - [owasp-noir/noir](https://github.com/owasp-noir/noir) - Attack surface detector that identifies endpoints by static analysis (2 weeks ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. (2 weeks ago)
