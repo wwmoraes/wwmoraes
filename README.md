@@ -41,7 +41,7 @@
 - [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
 - [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
-- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
+- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
@@ -65,7 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji] (2 days ago)
+- [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts &amp; similar environments (1 day ago)
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji] (3 days ago)
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (1 week ago)
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS. (1 week ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
@@ -74,7 +75,6 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool (1 week ago)
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
