@@ -9,12 +9,12 @@
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 weeks ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (3 months ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (3 months ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 months ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 months ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (4 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (6 months ago)
-- [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (7 months ago)
+- [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (8 months ago)
 
 ### 🌱 My pet projects
 
@@ -32,15 +32,15 @@
 ### 🔭 Latest releases I've contributed to
 
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 3 months ago) - fetches API tokens to use GitHub Copilot with any tool
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 3 months ago) - anilist custom list provider for sonarr/radarr
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 4 months ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
 
-- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (2 months ago)
-- [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
-- [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
-- [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
-- [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (7 months ago)
+- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (3 months ago)
+- [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
+- [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
+- [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
+- [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [ethomson/git-recover](https://github.com/ethomson/git-recover) - It&#39;s like undelete for your git repository. (3 days ago)
-- [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types (4 days ago)
-- [nirhaas/gopacker](https://github.com/nirhaas/gopacker) - UPX-like packer written in Go (4 days ago)
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (4 days ago)
-- [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts &amp; similar environments (5 days ago)
+- [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine. (1 day ago)
+- [ethomson/git-recover](https://github.com/ethomson/git-recover) - It&#39;s like undelete for your git repository. (4 days ago)
+- [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types (5 days ago)
+- [nirhaas/gopacker](https://github.com/nirhaas/gopacker) - UPX-like packer written in Go (5 days ago)
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (5 days ago)
+- [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts &amp; similar environments (6 days ago)
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji] (1 week ago)
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (1 week ago)
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS. (1 week ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
