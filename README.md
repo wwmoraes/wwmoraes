@@ -49,11 +49,11 @@
 
 ### 📜 My recent blog posts
 
-- [The Flintstones Automation](https://staging.artero.dev/posts/the-flintstones-automation/) (2 years ago)
-- [KISS principle is not that simple](https://staging.artero.dev/posts/kiss-principle-is-not-that-simple/) (2 years ago)
-- [Scripts don&#39;t scale; they give you scriptitis](https://staging.artero.dev/posts/scripts-do-not-scale/) (2 years ago)
-- [Instrumented testing in Golang](https://staging.artero.dev/posts/golang-integration-test/) (2 years ago)
-- [Are you a DevOps engineer?](https://staging.artero.dev/posts/are-you-a-devops-engineer/) (2 years ago)
+- [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (2 years ago)
+- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (2 years ago)
+- [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (2 years ago)
+- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (2 years ago)
+- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (3 years ago)
 
 ### 📓 Gists I wrote
 
@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [Trepan-Debuggers/remake](https://github.com/Trepan-Debuggers/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more (2 days ago)
-- [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine. (4 days ago)
+- [Trepan-Debuggers/remake](https://github.com/Trepan-Debuggers/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more (3 days ago)
+- [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine. (5 days ago)
 - [ethomson/git-recover](https://github.com/ethomson/git-recover) - It&#39;s like undelete for your git repository. (1 week ago)
 - [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types (1 week ago)
 - [nirhaas/gopacker](https://github.com/nirhaas/gopacker) - UPX-like packer written in Go (1 week ago)
