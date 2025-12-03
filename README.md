@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (1 day ago)
+- [benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) - Command-line interface for interacting with DuckDuckGo&#39;s AI chat service. (1 day ago)
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (2 days ago)
 - [Trepan-Debuggers/remake](https://github.com/Trepan-Debuggers/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more (1 week ago)
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine. (1 week ago)
 - [ethomson/git-recover](https://github.com/ethomson/git-recover) - It&#39;s like undelete for your git repository. (1 week ago)
-- [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types (1 week ago)
-- [nirhaas/gopacker](https://github.com/nirhaas/gopacker) - UPX-like packer written in Go (1 week ago)
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (1 week ago)
+- [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types (2 weeks ago)
+- [nirhaas/gopacker](https://github.com/nirhaas/gopacker) - UPX-like packer written in Go (2 weeks ago)
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (2 weeks ago)
 - [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts &amp; similar environments (2 weeks ago)
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji] (2 weeks ago)
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
