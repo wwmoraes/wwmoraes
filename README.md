@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) - Command-line interface for interacting with DuckDuckGo&#39;s AI chat service. (2 days ago)
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (3 days ago)
+- [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen] (1 day ago)
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (1 day ago)
+- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ (1 day ago)
+- [faukah/dix](https://github.com/faukah/dix) - Diff Nix (1 day ago)
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (1 day ago)
+- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts (1 day ago)
+- [benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) - Command-line interface for interacting with DuckDuckGo&#39;s AI chat service. (3 days ago)
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (4 days ago)
 - [Trepan-Debuggers/remake](https://github.com/Trepan-Debuggers/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more (1 week ago)
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine. (1 week ago)
-- [ethomson/git-recover](https://github.com/ethomson/git-recover) - It&#39;s like undelete for your git repository. (2 weeks ago)
-- [invopop/jsonschema](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types (2 weeks ago)
-- [nirhaas/gopacker](https://github.com/nirhaas/gopacker) - UPX-like packer written in Go (2 weeks ago)
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (2 weeks ago)
-- [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts &amp; similar environments (2 weeks ago)
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji] (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
