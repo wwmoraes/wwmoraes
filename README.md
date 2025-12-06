@@ -31,7 +31,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 3 months ago) - fetches API tokens to use GitHub Copilot with any tool
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 4 months ago) - fetches API tokens to use GitHub Copilot with any tool
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 4 months ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
@@ -65,24 +65,24 @@
 
 ### ⭐ Recent Stars
 
-- [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen] (1 day ago)
-- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (1 day ago)
-- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ (1 day ago)
-- [faukah/dix](https://github.com/faukah/dix) - Diff Nix (1 day ago)
-- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (1 day ago)
-- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts (1 day ago)
-- [benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) - Command-line interface for interacting with DuckDuckGo&#39;s AI chat service. (3 days ago)
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (4 days ago)
-- [Trepan-Debuggers/remake](https://github.com/Trepan-Debuggers/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more (1 week ago)
-- [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine. (1 week ago)
+- [schellingb/GamepadPhoenix](https://github.com/schellingb/GamepadPhoenix) - A tool for Windows to play any game (old or new) with any gamepad (old or new) (1 day ago)
+- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. (1 day ago)
+- [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen] (2 days ago)
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (2 days ago)
+- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ (2 days ago)
+- [faukah/dix](https://github.com/faukah/dix) - Diff Nix (2 days ago)
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (2 days ago)
+- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts (2 days ago)
+- [benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) - Command-line interface for interacting with DuckDuckGo&#39;s AI chat service. (4 days ago)
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
+- [frieren-mage](https://github.com/frieren-mage)
 - [Khaled-Teama](https://github.com/Khaled-Teama)
 - [russmatney](https://github.com/russmatney)
 - [ipqwery](https://github.com/ipqwery)
 - [huaiguoguo](https://github.com/huaiguoguo)
-- [gvgoli](https://github.com/gvgoli)
 
 ### 📫 How to reach me
 
