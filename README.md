@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠 (1 day ago)
-- [schellingb/GamepadPhoenix](https://github.com/schellingb/GamepadPhoenix) - A tool for Windows to play any game (old or new) with any gamepad (old or new) (3 days ago)
-- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. (3 days ago)
-- [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen] (4 days ago)
-- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (4 days ago)
-- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ (4 days ago)
-- [faukah/dix](https://github.com/faukah/dix) - Diff Nix (4 days ago)
-- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (4 days ago)
-- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts (4 days ago)
-- [benoitpetit/duckduckgo-chat-cli](https://github.com/benoitpetit/duckduckgo-chat-cli) - Command-line interface for interacting with DuckDuckGo&#39;s AI chat service. (6 days ago)
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten] (1 day ago)
+- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠 (2 days ago)
+- [schellingb/GamepadPhoenix](https://github.com/schellingb/GamepadPhoenix) - A tool for Windows to play any game (old or new) with any gamepad (old or new) (4 days ago)
+- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. (4 days ago)
+- [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen] (5 days ago)
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (5 days ago)
+- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ (5 days ago)
+- [faukah/dix](https://github.com/faukah/dix) - Diff Nix (5 days ago)
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs (5 days ago)
+- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
