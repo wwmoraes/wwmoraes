@@ -53,7 +53,7 @@
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (2 years ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (2 years ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (2 years ago)
-- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (3 years ago)
+- [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (4 years ago)
 
 ### 📓 Gists I wrote
 
@@ -65,14 +65,14 @@
 
 ### ⭐ Recent Stars
 
-- [trailofbits/eatmynetwork](https://github.com/trailofbits/eatmynetwork) - A small script for running programs with (minimal) network sandboxing (1 day ago)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 day ago)
-- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) - A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step. (1 day ago)
-- [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git (1 day ago)
-- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten] (3 days ago)
-- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠 (4 days ago)
-- [schellingb/GamepadPhoenix](https://github.com/schellingb/GamepadPhoenix) - A tool for Windows to play any game (old or new) with any gamepad (old or new) (6 days ago)
-- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. (6 days ago)
+- [trailofbits/eatmynetwork](https://github.com/trailofbits/eatmynetwork) - A small script for running programs with (minimal) network sandboxing (2 days ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (2 days ago)
+- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) - A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step. (2 days ago)
+- [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git (2 days ago)
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten] (4 days ago)
+- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠 (5 days ago)
+- [schellingb/GamepadPhoenix](https://github.com/schellingb/GamepadPhoenix) - A tool for Windows to play any game (old or new) with any gamepad (old or new) (1 week ago)
+- [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. (1 week ago)
 - [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen] (1 week ago)
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (1 week ago)
 
