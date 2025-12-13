@@ -65,24 +65,24 @@
 
 ### ⭐ Recent Stars
 
-- [trailofbits/eatmynetwork](https://github.com/trailofbits/eatmynetwork) - A small script for running programs with (minimal) network sandboxing (2 days ago)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (2 days ago)
-- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) - A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step. (2 days ago)
-- [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git (2 days ago)
-- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten] (4 days ago)
-- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠 (5 days ago)
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS. (1 day ago)
+- [trailofbits/eatmynetwork](https://github.com/trailofbits/eatmynetwork) - A small script for running programs with (minimal) network sandboxing (3 days ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (3 days ago)
+- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) - A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step. (3 days ago)
+- [Virviil/oci2git](https://github.com/Virviil/oci2git) - Introspecting Docker images as easy as using Git (3 days ago)
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten] (5 days ago)
+- [ndonfris/fish-lsp](https://github.com/ndonfris/fish-lsp) - LSP implementation for the fish shell language  🐠 (6 days ago)
 - [schellingb/GamepadPhoenix](https://github.com/schellingb/GamepadPhoenix) - A tool for Windows to play any game (old or new) with any gamepad (old or new) (1 week ago)
 - [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. (1 week ago)
 - [nix-community/nixt](https://github.com/nix-community/nixt) - Simple unit-testing for Nix [maintainer=@Lord-Valen] (1 week ago)
-- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
-- [frieren-mage](https://github.com/frieren-mage)
 - [Khaled-Teama](https://github.com/Khaled-Teama)
 - [russmatney](https://github.com/russmatney)
 - [ipqwery](https://github.com/ipqwery)
 - [huaiguoguo](https://github.com/huaiguoguo)
+- [gvgoli](https://github.com/gvgoli)
 
 ### 📫 How to reach me
 
