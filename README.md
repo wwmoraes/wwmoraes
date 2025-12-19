@@ -41,7 +41,7 @@
 - [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
 - [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
-- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (8 months ago)
+- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (9 months ago)
 - [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (9 months ago)
 - [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (9 months ago)
 - [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (9 months ago)
@@ -65,14 +65,14 @@
 
 ### ⭐ Recent Stars
 
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (1 day ago)
-- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (1 day ago)
-- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (1 day ago)
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 day ago)
-- [vvstubbs/removewindowsai](https://github.com/vvstubbs/removewindowsai) - Force Remove Copilot, Recall and More in Windows 11 (2 days ago)
-- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11 (2 days ago)
-- [oasdiff/oasdiff](https://github.com/oasdiff/oasdiff) - OpenAPI Diff and Breaking Changes (5 days ago)
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS. (6 days ago)
+- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (2 days ago)
+- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (2 days ago)
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (2 days ago)
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (2 days ago)
+- [vvstubbs/removewindowsai](https://github.com/vvstubbs/removewindowsai) - Force Remove Copilot, Recall and More in Windows 11 (3 days ago)
+- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11 (3 days ago)
+- [oasdiff/oasdiff](https://github.com/oasdiff/oasdiff) - OpenAPI Diff and Breaking Changes (6 days ago)
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS. (1 week ago)
 - [trailofbits/eatmynetwork](https://github.com/trailofbits/eatmynetwork) - A small script for running programs with (minimal) network sandboxing (1 week ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 week ago)
 
