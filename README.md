@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (2 days ago)
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. (4 days ago)
-- [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows (4 days ago)
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (5 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
-- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (5 days ago)
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (1 week ago)
-- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (1 week ago)
-- [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. (1 week ago)
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 week ago)
+- [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API (1 day ago)
+- [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages. (1 day ago)
+- [reo101/yknotify-rs](https://github.com/reo101/yknotify-rs) -  (1 day ago)
+- [jelmer/prometheus-xmpp-alerts](https://github.com/jelmer/prometheus-xmpp-alerts) - XMPP Web hook for Prometheus (1 day ago)
+- [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus (1 day ago)
+- [jymigeon/gpgsm-as-ca](https://github.com/jymigeon/gpgsm-as-ca) - Some random script turning a OpenPGP smartcard into a low-end HSM (1 day ago)
+- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc (1 day ago)
+- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features. (1 day ago)
+- [awslabs/sbt-aws](https://github.com/awslabs/sbt-aws) - SaaS Builder Toolkit for AWS is a developer toolkit to implement SaaS best practices and increase developer velocity. (1 day ago)
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep. (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
