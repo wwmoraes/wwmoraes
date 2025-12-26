@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API (1 day ago)
-- [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages. (1 day ago)
-- [reo101/yknotify-rs](https://github.com/reo101/yknotify-rs) -  (1 day ago)
-- [jelmer/prometheus-xmpp-alerts](https://github.com/jelmer/prometheus-xmpp-alerts) - XMPP Web hook for Prometheus (1 day ago)
-- [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus (1 day ago)
-- [jymigeon/gpgsm-as-ca](https://github.com/jymigeon/gpgsm-as-ca) - Some random script turning a OpenPGP smartcard into a low-end HSM (1 day ago)
-- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc (1 day ago)
-- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features. (1 day ago)
-- [awslabs/sbt-aws](https://github.com/awslabs/sbt-aws) - SaaS Builder Toolkit for AWS is a developer toolkit to implement SaaS best practices and increase developer velocity. (1 day ago)
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep. (1 day ago)
+- [criyle/go-judge](https://github.com/criyle/go-judge) - Sandbox service built on Linux container technologies with simple REST and gRPC API (2 days ago)
+- [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages. (2 days ago)
+- [reo101/yknotify-rs](https://github.com/reo101/yknotify-rs) -  (2 days ago)
+- [jelmer/prometheus-xmpp-alerts](https://github.com/jelmer/prometheus-xmpp-alerts) - XMPP Web hook for Prometheus (2 days ago)
+- [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus (2 days ago)
+- [jymigeon/gpgsm-as-ca](https://github.com/jymigeon/gpgsm-as-ca) - Some random script turning a OpenPGP smartcard into a low-end HSM (2 days ago)
+- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc (2 days ago)
+- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features. (2 days ago)
+- [awslabs/sbt-aws](https://github.com/awslabs/sbt-aws) - SaaS Builder Toolkit for AWS is a developer toolkit to implement SaaS best practices and increase developer velocity. (2 days ago)
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep. (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
