@@ -31,7 +31,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 4 months ago) - fetches API tokens to use GitHub Copilot with any tool
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 5 months ago) - fetches API tokens to use GitHub Copilot with any tool
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 5 months ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
@@ -65,9 +65,9 @@
 
 ### ⭐ Recent Stars
 
-- [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn (4 days ago)
-- [fakuivan/hostapd-slppsk](https://github.com/fakuivan/hostapd-slppsk) - Stateless Per-Device PSK for hostapd in OpenWRT (different wifi password for each device under the same SSID without WPA Enterprise, RADIUS or DBs) (4 days ago)
-- [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. (5 days ago)
+- [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn (5 days ago)
+- [fakuivan/hostapd-slppsk](https://github.com/fakuivan/hostapd-slppsk) - Stateless Per-Device PSK for hostapd in OpenWRT (different wifi password for each device under the same SSID without WPA Enterprise, RADIUS or DBs) (5 days ago)
+- [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. (6 days ago)
 - [reorproject/reor](https://github.com/reorproject/reor) - Private &amp; local AI personal knowledge management app for high entropy people. (1 week ago)
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don&#39;t have a broken hiring process (1 week ago)
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard. (1 week ago)
