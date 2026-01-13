@@ -65,24 +65,24 @@
 
 ### ⭐ Recent Stars
 
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 day ago)
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 day ago)
-- [Lovelace98/LinkedIn_Job_Application_Automation_Bot](https://github.com/Lovelace98/LinkedIn_Job_Application_Automation_Bot) - This bot applies job automatically on linkedin (5 days ago)
-- [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier (5 days ago)
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way. (5 days ago)
-- [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool. (6 days ago)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 days ago)
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (2 days ago)
+- [Lovelace98/LinkedIn_Job_Application_Automation_Bot](https://github.com/Lovelace98/LinkedIn_Job_Application_Automation_Bot) - This bot applies job automatically on linkedin (6 days ago)
+- [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier (6 days ago)
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way. (6 days ago)
+- [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool. (1 week ago)
 - [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn (1 week ago)
 - [fakuivan/hostapd-slppsk](https://github.com/fakuivan/hostapd-slppsk) - Stateless Per-Device PSK for hostapd in OpenWRT (different wifi password for each device under the same SSID without WPA Enterprise, RADIUS or DBs) (1 week ago)
-- [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. (1 week ago)
+- [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. (2 weeks ago)
 - [reorproject/reor](https://github.com/reorproject/reor) - Private &amp; local AI personal knowledge management app for high entropy people. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
 - [minouou](https://github.com/minouou)
-- [Khaled-Teama](https://github.com/Khaled-Teama)
 - [russmatney](https://github.com/russmatney)
 - [ipqwery](https://github.com/ipqwery)
 - [huaiguoguo](https://github.com/huaiguoguo)
+- [gvgoli](https://github.com/gvgoli)
 
 ### 📫 How to reach me
 
