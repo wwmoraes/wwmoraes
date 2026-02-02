@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 day ago)
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (2 days ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (5 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 months ago)
@@ -59,12 +59,14 @@
 
 - [Twitter/X post remover](https://gist.github.com/c80cac4c201952cd325c76c7095a3efe) (4 months ago)
 - [Facebook activity log remover](https://gist.github.com/5b7045eb7db708adbfc07dd490d7bd1b) (4 months ago)
-- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (6 months ago)
+- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (7 months ago)
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (3 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (5 years ago)
 
 ### ⭐ Recent Stars
 
+- [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module (1 day ago)
+- [vic/flake-file](https://github.com/vic/flake-file) - Generate flake.nix from module options. Mirror from https://tangled.org/oeiuwq.com/flake-file. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ (1 day ago)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (2 weeks ago)
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝 (2 weeks ago)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (2 weeks ago)
@@ -73,8 +75,6 @@
 - [Lovelace98/LinkedIn_Job_Application_Automation_Bot](https://github.com/Lovelace98/LinkedIn_Job_Application_Automation_Bot) - This bot applies job automatically on linkedin (3 weeks ago)
 - [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier (3 weeks ago)
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way. (3 weeks ago)
-- [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool. (3 weeks ago)
-- [nicolomantini/LinkedIn-Easy-Apply-Bot](https://github.com/nicolomantini/LinkedIn-Easy-Apply-Bot) - Automate the application process on LinkedIn (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
