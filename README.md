@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (5 days ago)
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (6 days ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (5 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 months ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module (4 days ago)
-- [vic/flake-file](https://github.com/vic/flake-file) - Generate flake.nix from module options. Mirror from https://tangled.org/oeiuwq.com/flake-file. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ (4 days ago)
+- [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module (5 days ago)
+- [vic/flake-file](https://github.com/vic/flake-file) - Generate flake.nix from module options. Mirror from https://tangled.org/oeiuwq.com/flake-file. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ (5 days ago)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (2 weeks ago)
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝 (2 weeks ago)
-- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (2 weeks ago)
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (3 weeks ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (3 weeks ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (3 weeks ago)
-- [Lovelace98/LinkedIn_Job_Application_Automation_Bot](https://github.com/Lovelace98/LinkedIn_Job_Application_Automation_Bot) - This bot applies job automatically on linkedin (4 weeks ago)
-- [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier (4 weeks ago)
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way. (4 weeks ago)
+- [Lovelace98/LinkedIn_Job_Application_Automation_Bot](https://github.com/Lovelace98/LinkedIn_Job_Application_Automation_Bot) - This bot applies job automatically on linkedin (1 month ago)
+- [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier (1 month ago)
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
