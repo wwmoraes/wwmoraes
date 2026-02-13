@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 day ago)
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 day ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 days ago)
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (2 days ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (5 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 months ago)
@@ -42,10 +42,10 @@
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
 - [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
 - [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
-- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
-- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
-- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
-- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
+- [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
+- [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
+- [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
+- [chore: add repository info files](https://github.com/wwmoraes/git-ps-test/pull/2) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
 
 ### 📜 My recent blog posts
 
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [mrkline/concurrency-primer](https://github.com/mrkline/concurrency-primer) - The basics of low-level concurrency in a sub-30 minute read (2 days ago)
+- [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime. (1 day ago)
+- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (1 day ago)
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 day ago)
+- [jordanrubin/FUTURE_TOKENS](https://github.com/jordanrubin/FUTURE_TOKENS) - Composable reasoning skills for Claude - antithesize, excavate, metaphorize, synthesize, and more (1 day ago)
+- [mrkline/concurrency-primer](https://github.com/mrkline/concurrency-primer) - The basics of low-level concurrency in a sub-30 minute read (3 days ago)
 - [mightyiam/files](https://github.com/mightyiam/files) - In-repository file generation flake-parts module (1 week ago)
 - [vic/flake-file](https://github.com/vic/flake-file) - Generate flake.nix from module options. Mirror from https://tangled.org/oeiuwq.com/flake-file. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ (1 week ago)
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (3 weeks ago)
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝 (3 weeks ago)
-- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (3 weeks ago)
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 month ago)
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
-- [Lovelace98/LinkedIn_Job_Application_Automation_Bot](https://github.com/Lovelace98/LinkedIn_Job_Application_Automation_Bot) - This bot applies job automatically on linkedin (1 month ago)
-- [GodsScion/Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier (1 month ago)
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (4 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
