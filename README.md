@@ -10,11 +10,11 @@
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 week ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (6 months ago)
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (6 months ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (7 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (7 months ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (7 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (9 months ago)
-- [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (10 months ago)
+- [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (11 months ago)
 
 ### 🌱 My pet projects
 
@@ -32,15 +32,15 @@
 ### 🔭 Latest releases I've contributed to
 
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 6 months ago) - fetches API tokens to use GitHub Copilot with any tool
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 6 months ago) - anilist custom list provider for sonarr/radarr
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 7 months ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
 
-- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (5 months ago)
-- [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
-- [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
-- [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
-- [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (10 months ago)
+- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (6 months ago)
+- [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
+- [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
+- [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
+- [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
 - [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
 - [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
 - [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
@@ -65,12 +65,12 @@
 
 ### ⭐ Recent Stars
 
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (4 days ago)
-- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (4 days ago)
-- [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix (4 days ago)
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration. (5 days ago)
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. (6 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 days ago)
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (5 days ago)
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (5 days ago)
+- [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix (5 days ago)
+- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration. (6 days ago)
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. (1 week ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime. (1 week ago)
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (1 week ago)
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 week ago)
