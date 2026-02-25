@@ -7,7 +7,7 @@
 ### 👨‍💻 Here's what I'm currently working on
 
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 week ago)
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (2 weeks ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (6 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (7 months ago)
@@ -65,6 +65,8 @@
 
 ### ⭐ Recent Stars
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (1 day ago)
 - [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (1 week ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (1 week ago)
 - [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix (1 week ago)
@@ -73,8 +75,6 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime. (1 week ago)
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (1 week ago)
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 week ago)
-- [jordanrubin/FUTURE_TOKENS](https://github.com/jordanrubin/FUTURE_TOKENS) - Composable reasoning skills for Claude - antithesize, excavate, metaphorize, synthesize, and more (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
