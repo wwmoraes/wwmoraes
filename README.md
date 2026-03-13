@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (4 weeks ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (4 weeks ago)
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 month ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (6 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (7 months ago)
@@ -65,13 +65,13 @@
 
 ### ⭐ Recent Stars
 
-- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (1 day ago)
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (2 days ago)
 - [theseal/ssh-askpass](https://github.com/theseal/ssh-askpass) - ssh-askpass for macOS (1 week ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 weeks ago)
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (2 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 weeks ago)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (2 weeks ago)
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (3 weeks ago)
+- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (3 weeks ago)
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features (3 weeks ago)
 - [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix (3 weeks ago)
 - [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration. (3 weeks ago)
