@@ -65,8 +65,8 @@
 
 ### ⭐ Recent Stars
 
-- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (2 days ago)
-- [theseal/ssh-askpass](https://github.com/theseal/ssh-askpass) - ssh-askpass for macOS (1 week ago)
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (3 days ago)
+- [theseal/ssh-askpass](https://github.com/theseal/ssh-askpass) - ssh-askpass for macOS (2 weeks ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 weeks ago)
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (2 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 weeks ago)
