@@ -41,7 +41,7 @@
 - [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
 - [fix: git ps rr template](https://github.com/wwmoraes/git-ps-test/pull/7) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
-- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (11 months ago)
+- [chore: update git-ps settings](https://github.com/wwmoraes/git-ps-test/pull/6) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
 - [chore: configure git-ps](https://github.com/wwmoraes/git-ps-test/pull/5) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
 - [style: fix lint issues](https://github.com/wwmoraes/git-ps-test/pull/4) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
 - [style: add editorconfig](https://github.com/wwmoraes/git-ps-test/pull/3) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
@@ -65,16 +65,16 @@
 
 ### ⭐ Recent Stars
 
-- [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values (1 day ago)
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (2 days ago)
-- [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service) (4 days ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (1 day ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (1 day ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 day ago)
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. (1 day ago)
+- [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values (2 days ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (3 days ago)
+- [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service) (5 days ago)
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (1 week ago)
 - [theseal/ssh-askpass](https://github.com/theseal/ssh-askpass) - ssh-askpass for macOS (2 weeks ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 weeks ago)
-- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! (2 weeks ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 weeks ago)
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 weeks ago)
-- [homarr-labs/homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 40&#43; integrations. 10K&#43; icons built in. Authentication out of the box. No YAML, drag and drop configuration. (4 weeks ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
