@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (4 days ago)
+- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (5 days ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 month ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 month ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 months ago)
@@ -66,16 +66,16 @@
 
 ### ⭐ Recent Stars
 
-- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (today)
-- [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr vNext (3 days ago)
-- [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (5 days ago)
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (6 days ago)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (6 days ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (6 days ago)
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. (6 days ago)
+- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (1 day ago)
+- [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr vNext (4 days ago)
+- [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (6 days ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (1 week ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (1 week ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 week ago)
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values (1 week ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 week ago)
 - [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service) (1 week ago)
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
