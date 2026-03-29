@@ -66,7 +66,7 @@
 
 ### ⭐ Recent Stars
 
-- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (4 days ago)
+- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (5 days ago)
 - [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr vNext (1 week ago)
 - [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (1 week ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (1 week ago)
