@@ -15,7 +15,6 @@
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (8 months ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (8 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (10 months ago)
-- [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) - playground to evaluate git-ps-rs workflow (1 year ago)
 
 ### 🌱 My pet projects
 
@@ -66,14 +65,14 @@
 
 ### ⭐ Recent Stars
 
-- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (5 days ago)
+- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (6 days ago)
 - [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr vNext (1 week ago)
 - [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (1 week ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (1 week ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (1 week ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 week ago)
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values (1 week ago)
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 week ago)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (2 weeks ago)
 - [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service) (2 weeks ago)
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (2 weeks ago)
 
