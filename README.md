@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (1 day ago)
-- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (1 week ago)
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (2 days ago)
+- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (2 weeks ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 month ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 month ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 months ago)
@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 1 day ago) - converts JSON schemas to nix options
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 2 days ago) - converts JSON schemas to nix options
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 7 months ago) - fetches API tokens to use GitHub Copilot with any tool
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 8 months ago) - anilist custom list provider for sonarr/radarr
 
@@ -61,7 +61,7 @@
 
 - [Twitter/X post remover](https://gist.github.com/c80cac4c201952cd325c76c7095a3efe) (6 months ago)
 - [Facebook activity log remover](https://gist.github.com/5b7045eb7db708adbfc07dd490d7bd1b) (6 months ago)
-- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (8 months ago)
+- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (9 months ago)
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (3 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (5 years ago)
 
