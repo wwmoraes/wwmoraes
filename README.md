@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (3 days ago)
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (4 days ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (2 weeks ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 month ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (1 month ago)
@@ -32,8 +32,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 3 days ago) - converts JSON schemas to nix options
-- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 7 months ago) - fetches API tokens to use GitHub Copilot with any tool
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 4 days ago) - converts JSON schemas to nix options
+- [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 8 months ago) - fetches API tokens to use GitHub Copilot with any tool
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 8 months ago) - anilist custom list provider for sonarr/radarr
 
 ### 🔨 My recent Pull Requests
