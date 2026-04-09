@@ -69,7 +69,7 @@
 
 - [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (2 weeks ago)
 - [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr vNext (2 weeks ago)
-- [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (2 weeks ago)
+- [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (3 weeks ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (3 weeks ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (3 weeks ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (3 weeks ago)
