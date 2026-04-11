@@ -68,23 +68,23 @@
 ### ⭐ Recent Stars
 
 - [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (2 weeks ago)
-- [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (2 weeks ago)
+- [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (3 weeks ago)
 - [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (3 weeks ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (3 weeks ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (3 weeks ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (3 weeks ago)
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values (3 weeks ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (3 weeks ago)
-- [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service) (3 weeks ago)
+- [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service) (4 weeks ago)
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
 - [vincentjiang777](https://github.com/vincentjiang777)
-- [peterruler](https://github.com/peterruler)
 - [EvanBrooks24](https://github.com/EvanBrooks24)
 - [minouou](https://github.com/minouou)
 - [russmatney](https://github.com/russmatney)
+- [ipqwery](https://github.com/ipqwery)
 
 ### 📫 How to reach me
 
