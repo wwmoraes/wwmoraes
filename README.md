@@ -6,10 +6,10 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 day ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (2 days ago)
 - [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (2 weeks ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
-- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (3 weeks ago)
+- [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (4 weeks ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (2 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (8 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (8 months ago)
@@ -59,8 +59,8 @@
 
 ### 📓 Gists I wrote
 
-- [Twitter/X post remover](https://gist.github.com/c80cac4c201952cd325c76c7095a3efe) (6 months ago)
-- [Facebook activity log remover](https://gist.github.com/5b7045eb7db708adbfc07dd490d7bd1b) (6 months ago)
+- [Twitter/X post remover](https://gist.github.com/c80cac4c201952cd325c76c7095a3efe) (7 months ago)
+- [Facebook activity log remover](https://gist.github.com/5b7045eb7db708adbfc07dd490d7bd1b) (7 months ago)
 - [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (9 months ago)
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (3 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (5 years ago)
@@ -70,9 +70,9 @@
 - [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (3 weeks ago)
 - [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (3 weeks ago)
 - [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (4 weeks ago)
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (4 weeks ago)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (4 weeks ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (4 weeks ago)
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (1 month ago)
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (1 month ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support (1 month ago)
 - [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values (1 month ago)
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 month ago)
 - [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service) (1 month ago)
