@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 days ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 days ago)
 - [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (2 weeks ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (1 month ago)
@@ -67,9 +67,9 @@
 
 ### ⭐ Recent Stars
 
-- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests (2 days ago)
+- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests (3 days ago)
 - [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (3 weeks ago)
-- [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (4 weeks ago)
+- [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (1 month ago)
 - [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (1 month ago)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free &amp; Self-hostable Airtable Alternative (1 month ago)
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch. (1 month ago)
