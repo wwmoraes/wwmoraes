@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 days ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (6 days ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 week ago)
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (3 weeks ago)
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (4 weeks ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (1 month ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (2 months ago)
 - [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (8 months ago)
@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 3 weeks ago) - converts JSON schemas to nix options
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 4 weeks ago) - converts JSON schemas to nix options
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 8 months ago) - fetches API tokens to use GitHub Copilot with any tool
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 9 months ago) - anilist custom list provider for sonarr/radarr
 
@@ -67,11 +67,11 @@
 
 ### ⭐ Recent Stars
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (6 days ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (6 days ago)
-- [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) -   Automated Plex media cleanup with watch-based rules, smart exclusions, and &#34;Leaving Soon&#34; notifications via Radarr, Sonarr &amp; Tautulli. (6 days ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (6 days ago)
-- [TheWicklowWolf/BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis. (6 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 week ago)
+- [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) -   Automated Plex media cleanup with watch-based rules, smart exclusions, and &#34;Leaving Soon&#34; notifications via Radarr, Sonarr &amp; Tautulli. (1 week ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (1 week ago)
+- [TheWicklowWolf/BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis. (1 week ago)
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests (1 week ago)
 - [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (1 month ago)
 - [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (1 month ago)
