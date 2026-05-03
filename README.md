@@ -61,7 +61,7 @@
 
 - [Twitter/X post remover](https://gist.github.com/c80cac4c201952cd325c76c7095a3efe) (7 months ago)
 - [Facebook activity log remover](https://gist.github.com/5b7045eb7db708adbfc07dd490d7bd1b) (7 months ago)
-- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (9 months ago)
+- [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (10 months ago)
 - [StarUML patch](https://gist.github.com/3288859d4b466f530706aa556347de9f) (3 years ago)
 - [repository template](https://gist.github.com/75dc66767a9f487c8235c5423027f69c) (5 years ago)
 
