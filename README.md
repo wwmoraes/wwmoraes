@@ -72,7 +72,7 @@
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) -   Automated Plex media cleanup with watch-based rules, smart exclusions, and &#34;Leaving Soon&#34; notifications via Radarr, Sonarr &amp; Tautulli. (2 weeks ago)
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 weeks ago)
 - [TheWicklowWolf/BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis. (2 weeks ago)
-- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests (2 weeks ago)
+- [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests (3 weeks ago)
 - [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (1 month ago)
 - [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (1 month ago)
 - [danhper/opencov](https://github.com/danhper/opencov) - Open source code coverage history webapp (1 month ago)
