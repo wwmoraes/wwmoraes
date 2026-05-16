@@ -6,12 +6,12 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 weeks ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (3 weeks ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (3 weeks ago)
 - [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (1 month ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (1 month ago)
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) - fetches API tokens to use GitHub Copilot with any tool (3 months ago)
-- [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (8 months ago)
+- [wwmoraes/templates](https://github.com/wwmoraes/templates) - Project golden paths ✨ (9 months ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (9 months ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (10 months ago)
 - [wwmoraes/kaizen](https://github.com/wwmoraes/kaizen) - quality-of-life tool configurations to streamline engineering work 🚀 (10 months ago)
@@ -38,7 +38,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Add r8127 driver](https://github.com/NixOS/nixpkgs/pull/520140) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [linuxPackages.r8127: init at 11.015.00](https://github.com/NixOS/nixpkgs/pull/520140) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (8 months ago)
 - [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
 - [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
