@@ -70,7 +70,7 @@
 ### ⭐ Recent Stars
 
 - [smallstep/scep](https://github.com/smallstep/scep) - Go SCEP server (2 weeks ago)
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (2 weeks ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (1 month ago)
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) -   Automated Plex media cleanup with watch-based rules, smart exclusions, and &#34;Leaving Soon&#34; notifications via Radarr, Sonarr &amp; Tautulli. (1 month ago)
