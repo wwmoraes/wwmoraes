@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (1 week ago)
-- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 week ago)
+- [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (2 weeks ago)
+- [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 weeks ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (2 weeks ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (2 weeks ago)
@@ -56,7 +56,7 @@
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (2 years ago)
 - [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (2 years ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (2 years ago)
-- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (2 years ago)
+- [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (3 years ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (4 years ago)
 
 ### 📓 Gists I wrote
