@@ -34,14 +34,14 @@
 
 - [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 2 months ago) - converts JSON schemas to nix options
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 10 months ago) - fetches API tokens to use GitHub Copilot with any tool
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 10 months ago) - anilist custom list provider for sonarr/radarr
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 11 months ago) - anilist custom list provider for sonarr/radarr
 - [wwmoraes/dot](https://github.com/wwmoraes/dot) ([v0.4.1](https://github.com/wwmoraes/dot/releases/tag/v0.4.1), 5 years ago) - a lightweight, pure golang graphviz-compatible dot language implementation
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) ([v0.3.0](https://github.com/wwmoraes/kubegraph/releases/tag/v0.3.0), 5 years ago) - Kubernetes resource graph generator
 
 ### 🔨 My recent Pull Requests
 
 - [linuxPackages.r8127: init at 11.015.00](https://github.com/NixOS/nixpkgs/pull/520140) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
-- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (9 months ago)
+- [Add user wwmoraes](https://github.com/remy/mit-license/pull/1762) on [remy/mit-license](https://github.com/remy/mit-license) (10 months ago)
 - [docs: add contributing doc](https://github.com/wwmoraes/git-ps-test/pull/10) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
 - [chore: remove test false from rr template](https://github.com/wwmoraes/git-ps-test/pull/9) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
 - [ci: add github templates](https://github.com/wwmoraes/git-ps-test/pull/8) on [wwmoraes/git-ps-test](https://github.com/wwmoraes/git-ps-test) (1 year ago)
@@ -77,7 +77,7 @@
 - [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (2 months ago)
 - [TheWicklowWolf/BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis. (2 months ago)
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests (2 months ago)
-- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (2 months ago)
+- [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (3 months ago)
 - [structurizr/structurizr](https://github.com/structurizr/structurizr) - Structurizr is a &#34;models as code&#34; tool designed for the C4 model. (3 months ago)
 
 ### 👯 Check out some of my recent followers
