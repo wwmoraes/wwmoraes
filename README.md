@@ -13,7 +13,7 @@
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 month ago)
 - [wwmoraes/dot](https://github.com/wwmoraes/dot) - a lightweight, pure golang graphviz-compatible dot language implementation (1 month ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (1 month ago)
-- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (1 month ago)
+- [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (2 months ago)
 - [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (2 months ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (3 months ago)
 
