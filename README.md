@@ -8,7 +8,7 @@
 
 - [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (3 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (3 weeks ago)
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (4 weeks ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 month ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 month ago)
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (1 month ago)
 - [wwmoraes/dot](https://github.com/wwmoraes/dot) - a lightweight, pure golang graphviz-compatible dot language implementation (1 month ago)
