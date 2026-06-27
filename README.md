@@ -84,7 +84,7 @@
 
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [EvanBrooks24](https://github.com/EvanBrooks24)
-- [minouou](https://github.com/minouou)
+- [yokomakes](https://github.com/yokomakes)
 - [russmatney](https://github.com/russmatney)
 - [ipqwery](https://github.com/ipqwery)
 
