@@ -82,11 +82,11 @@
 
 ### 👯 Check out some of my recent followers
 
-- [peterruler](https://github.com/peterruler)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [EvanBrooks24](https://github.com/EvanBrooks24)
 - [yokomakes](https://github.com/yokomakes)
 - [russmatney](https://github.com/russmatney)
+- [ipqwery](https://github.com/ipqwery)
 
 ### 📫 How to reach me
 
