@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (3 days ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (4 days ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (4 weeks ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 month ago)
 - [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (2 months ago)
@@ -82,11 +82,11 @@
 
 ### 👯 Check out some of my recent followers
 
+- [braveyouth](https://github.com/braveyouth)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [EvanBrooks24](https://github.com/EvanBrooks24)
 - [yokomakes](https://github.com/yokomakes)
 - [russmatney](https://github.com/russmatney)
-- [ipqwery](https://github.com/ipqwery)
 
 ### 📫 How to reach me
 
