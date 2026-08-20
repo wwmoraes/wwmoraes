@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (6 days ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 week ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 week ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (2 months ago)
@@ -61,7 +61,7 @@
 
 ### 📓 Gists I wrote
 
-- [Blacklists](https://gist.github.com/03d6fb0b6c8feeaed292c2f0ddb437d2) (6 days ago)
+- [Blacklists](https://gist.github.com/03d6fb0b6c8feeaed292c2f0ddb437d2) (1 week ago)
 - [Twitter/X post remover](https://gist.github.com/c80cac4c201952cd325c76c7095a3efe) (11 months ago)
 - [Facebook activity log remover](https://gist.github.com/5b7045eb7db708adbfc07dd490d7bd1b) (11 months ago)
 - [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (1 year ago)
@@ -69,14 +69,14 @@
 
 ### ⭐ Recent Stars
 
-- [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI &#43; HTTP API &#43; web UI over 9&#43; years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg. (1 day ago)
+- [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI &#43; HTTP API &#43; web UI over 9&#43; years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg. (2 days ago)
 - [smallstep/scep](https://github.com/smallstep/scep) - Go SCEP server (3 months ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (3 months ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 months ago)
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (3 months ago)
-- [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) -   Automated Plex media cleanup with watch-based rules, smart exclusions, and &#34;Leaving Soon&#34; notifications via Radarr, Sonarr &amp; Tautulli. (3 months ago)
-- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (3 months ago)
-- [TheWicklowWolf/BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis. (3 months ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 months ago)
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist. (4 months ago)
+- [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) -   Automated Plex media cleanup with watch-based rules, smart exclusions, and &#34;Leaving Soon&#34; notifications via Radarr, Sonarr &amp; Tautulli. (4 months ago)
+- [importantimport/hatsu](https://github.com/importantimport/hatsu) - 🩵 Self-hosted &amp; Fully-automated ActivityPub Bridge for Static Sites. (4 months ago)
+- [TheWicklowWolf/BookBounty](https://github.com/TheWicklowWolf/BookBounty) - Retrieve missing Readarr books from Library Genesis. (4 months ago)
 - [dnaeon/go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests (4 months ago)
 - [bitemyapp/fp-course](https://github.com/bitemyapp/fp-course) - Fork of the original Data61 course to be more Stack friendly (4 months ago)
 
