@@ -69,7 +69,7 @@
 
 ### ⭐ Recent Stars
 
-- [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI &#43; HTTP API &#43; web UI over 9&#43; years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg. (1 week ago)
+- [utensils/nxv](https://github.com/utensils/nxv) - Find any version of any Nix package, instantly. Fast CLI &#43; HTTP API &#43; web UI over 9&#43; years of indexed nixpkgs history — get the exact commit for nix shell nixpkgs/&lt;commit&gt;#pkg. (2 weeks ago)
 - [smallstep/scep](https://github.com/smallstep/scep) - Go SCEP server (3 months ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (3 months ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (4 months ago)
