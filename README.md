@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (1 day ago)
+- [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 days ago)
 - [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (1 month ago)
 - [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (3 months ago)
@@ -61,7 +61,7 @@
 
 ### 📓 Gists I wrote
 
-- [Blacklists](https://gist.github.com/03d6fb0b6c8feeaed292c2f0ddb437d2) (3 weeks ago)
+- [Blacklists](https://gist.github.com/03d6fb0b6c8feeaed292c2f0ddb437d2) (4 weeks ago)
 - [Twitter/X post remover](https://gist.github.com/c80cac4c201952cd325c76c7095a3efe) (11 months ago)
 - [Facebook activity log remover](https://gist.github.com/5b7045eb7db708adbfc07dd490d7bd1b) (11 months ago)
 - [nap snippet manager store](https://gist.github.com/adb2012583db995470a8d4a83b6771b8) (1 year ago)
