@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 day ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (1 month ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 months ago)
 - [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (3 months ago)
 - [wwmoraes/dot](https://github.com/wwmoraes/dot) - a lightweight, pure golang graphviz-compatible dot language implementation (4 months ago)
@@ -72,11 +72,11 @@
 
 ### 👯 Check out some of my recent followers
 
+- [yumiaura](https://github.com/yumiaura)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [braveyouth](https://github.com/braveyouth)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [EvanBrooks24](https://github.com/EvanBrooks24)
-- [yokomakes](https://github.com/yokomakes)
 
 ### 📫 How to reach me
 
