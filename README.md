@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Here's what I'm currently working on
 
-- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (5 days ago)
+- [wwmoraes/nurpkgs](https://github.com/wwmoraes/nurpkgs) - Nix User Repository packages (6 days ago)
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) - anilist custom list provider for sonarr/radarr (2 weeks ago)
 - [wwmoraes/site](https://github.com/wwmoraes/site) - my personal website (2 months ago)
 - [wwmoraes/netlifier](https://github.com/wwmoraes/netlifier) - Netlify site upload without the Node.JS cruft ✨ (4 months ago)
@@ -14,7 +14,7 @@
 - [wwmoraes/kubegraph](https://github.com/wwmoraes/kubegraph) - Kubernetes resource graph generator (4 months ago)
 - [wwmoraes/gotell](https://github.com/wwmoraes/gotell) - an opinionated thin-wrapper over the OpenTelemetry SDK (4 months ago)
 - [wwmoraes/dotfiles](https://github.com/wwmoraes/dotfiles) - Cross-platform dotfiles with batteries (5 months ago)
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (5 months ago)
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) - converts JSON schemas to nix options (6 months ago)
 - [wwmoraes/go-rwfs](https://github.com/wwmoraes/go-rwfs) - Golang read-write filesystem interfaces (6 months ago)
 
 ### 🌱 My pet projects
@@ -32,7 +32,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 5 months ago) - converts JSON schemas to nix options
+- [wwmoraes/schema2nix](https://github.com/wwmoraes/schema2nix) ([0.1.0](https://github.com/wwmoraes/schema2nix/releases/tag/0.1.0), 6 months ago) - converts JSON schemas to nix options
 - [wwmoraes/cocopilot](https://github.com/wwmoraes/cocopilot) ([v0.1.0](https://github.com/wwmoraes/cocopilot/releases/tag/v0.1.0), 1 year ago) - fetches API tokens to use GitHub Copilot with any tool
 - [wwmoraes/anilistarr](https://github.com/wwmoraes/anilistarr) ([v0.3.0](https://github.com/wwmoraes/anilistarr/releases/tag/v0.3.0), 1 year ago) - anilist custom list provider for sonarr/radarr
 - [wwmoraes/dot](https://github.com/wwmoraes/dot) ([v0.4.1](https://github.com/wwmoraes/dot/releases/tag/v0.4.1), 5 years ago) - a lightweight, pure golang graphviz-compatible dot language implementation
