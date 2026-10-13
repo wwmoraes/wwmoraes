@@ -72,11 +72,11 @@
 
 ### 👯 Check out some of my recent followers
 
-- [yumiaura](https://github.com/yumiaura)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [braveyouth](https://github.com/braveyouth)
 - [vincentjiang777](https://github.com/vincentjiang777)
 - [EvanBrooks24](https://github.com/EvanBrooks24)
+- [yokomakes](https://github.com/yokomakes)
 
 ### 📫 How to reach me
 
