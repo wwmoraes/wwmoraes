@@ -54,7 +54,7 @@
 ### 📜 My recent blog posts
 
 - [KISS principle is not that simple](https://artero.dev/posts/kiss-principle-is-not-that-simple/) (2 years ago)
-- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (2 years ago)
+- [Scripts don&#39;t scale; they give you scriptitis](https://artero.dev/posts/scripts-do-not-scale/) (3 years ago)
 - [Instrumented testing in Golang](https://artero.dev/posts/golang-integration-test/) (3 years ago)
 - [Are you a DevOps engineer?](https://artero.dev/posts/are-you-a-devops-engineer/) (3 years ago)
 - [Lua metatables introduction](https://artero.dev/posts/lua-metatables-introduction/) (4 years ago)
